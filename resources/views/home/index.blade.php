@@ -298,7 +298,7 @@
         <!-- /section -->
 
         <!-- /section -->
-        <section class="wrapper bg-primary">
+        {{--<section class="wrapper bg-primary">
             <div class="container py-10 ">
                 <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0 mb-2 text-white align-items-center">
                     <div class="col-lg-4">
@@ -343,7 +343,7 @@
                 <!-- /.row -->
             </div>
             <!-- /.container -->
-        </section>
+        </section>--}}
         <!-- /section -->
 
         <section class="wrapper bg-light">
