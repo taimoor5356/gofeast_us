@@ -46,15 +46,41 @@
                                     </div>
                                     <div class="row">
                                         <div class="container">
-                                        <h5>How to Permanently Delete Your GoFeast Account:</h5>
-                                        <p>1. Open the GoFeast app.</p>
-                                        <p>2. Tap the three horizontal bars (menu icon) in the top left corner.</p>
-                                        <p>3. Select Profile from the menu to open your profile.</p>
-                                        <p>4. Scroll down and click Delete Account.</p>
-                                        <p>5. A pop-up will appear asking for confirmation. Tap Yes to permanently delete your account.</p>
-                                        <p>Alternatively user can use this link to delete their account by entering account phone number and account password.
-                                        link: <a href="https://dashboard.gomeat.io/delete-user-account">https://dashboard.gomeat.io/delete-user-account</a></p>
-                                        <p>Important: By clicking "Yes," your account and all associated information will be permanently deleted and cannot be recovered.</p>
+                                        <h3>Information We Collect</h3>
+                                            <p>We collect the following personal information when you interact with our Service:</p>
+                                            <h6>1. During Registration:</h6>
+                                            <p>&nbsp;&nbsp;&nbsp;- Name: Used for account identification and personalization.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- Email Address: Used for account registration, notifications, and customer support.
+                                            <p>&nbsp;&nbsp;&nbsp;- Phone Number: Used for account validation, verification, and contact during order delivery.
+                                            <h6>2. Before Registration:</h6>
+                                            <p>&nbsp;&nbsp;&nbsp;- Location Data: Collected to determine your delivery area and show restaurants or services available in your vicinity.</p>
+                                            <h6>3. Order-Related Information:</h6>
+                                            <p>&nbsp;&nbsp;&nbsp;- Delivery addresses, order history, and payment preferences (processed via secure third-party payment gateways).</p>
+                                        <h3>How We Use Your Information</h3>
+                                            <p>We use the information collected for the following purposes:</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- User Validation and Verification: To authenticate your identity and prevent unauthorized access.
+                                            <p>&nbsp;&nbsp;&nbsp;- Order Fulfillment: To deliver your orders accurately and on time.
+                                            <p>&nbsp;&nbsp;&nbsp;- Customer Support: To resolve queries and provide assistance related to the Service.
+                                            <p>&nbsp;&nbsp;&nbsp;- Service Optimization: To improve user experience and tailor services to your location and preferences.
+                                            <p>&nbsp;&nbsp;&nbsp;- Legal Compliance: To comply with legal and regulatory obligations.
+                                        <h3>Sharing of Information</h3>
+                                            <p>We may share your data only under the following circumstances:</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- With Delivery Personnel: Your name, contact number, and delivery address are shared with delivery agents for the sole purpose of fulfilling your orders.
+                                            <p>&nbsp;&nbsp;&nbsp;- Third-Party Services: We may use secure third-party platforms for payment processing, email notifications, and location services.
+                                            <p>&nbsp;&nbsp;&nbsp;- Legal Obligations: If required by law or to protect our legal rights.
+                                        <h3>User Data Deletion</h3>
+                                            <p>&nbsp;&nbsp;&nbsp;- Open the GoFeast app.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- Tap the three horizontal bars (menu icon) in the top left corner.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- Select Profile from the menu to open your profile.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- Scroll down and click Delete Account.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- A pop-up will appear asking for confirmation. Tap Yes to permanently delete your account.</p>
+
+                                            <p>Alternatively user can use this link to delete their account by entering account phone number and account password.
+
+                                            link: <a target="_blank" href="https://dashboard.gomeat.io/delete-user-account">https://dashboard.gomeat.io/delete-user-account</a></p>
+                                            <p>Important: By clicking "Yes," your account and all associated information will be permanently deleted and cannot be recovered.
+                                            GoMeat - Delete Account</p>
+ 
                                         </div>
                                     </div>
                                     <!-- /.post-content -->
