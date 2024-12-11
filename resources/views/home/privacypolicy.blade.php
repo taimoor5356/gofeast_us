@@ -69,17 +69,26 @@
                                             <p>&nbsp;&nbsp;&nbsp;- Third-Party Services: We may use secure third-party platforms for payment processing, email notifications, and location services.
                                             <p>&nbsp;&nbsp;&nbsp;- Legal Obligations: If required by law or to protect our legal rights.
                                         <h3>User Data Deletion</h3>
+                                            <p>We respect your right to have your personal data deleted. If you wish to delete your account and all associated personal information, you may do so by following these steps:</p>
+                                            <p>1. Account Deletion: You can request account deletion through Our App by</p>
                                             <p>&nbsp;&nbsp;&nbsp;- Open the GoFeast app.</p>
                                             <p>&nbsp;&nbsp;&nbsp;- Tap the three horizontal bars (menu icon) in the top left corner.</p>
                                             <p>&nbsp;&nbsp;&nbsp;- Select Profile from the menu to open your profile.</p>
                                             <p>&nbsp;&nbsp;&nbsp;- Scroll down and click Delete Account.</p>
                                             <p>&nbsp;&nbsp;&nbsp;- A pop-up will appear asking for confirmation. Tap Yes to permanently delete your account.</p>
 
+                                            <p>2. Data Deletion: Upon deletion of your account:</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- All your personal information, including your name, email address, phone number, and order history, will be permanently deleted from our systems.</p>
+                                            <p>&nbsp;&nbsp;&nbsp;- Any remaining data required to comply with legal obligations or resolve disputes will be retained only as necessary and deleted once those obligations are met.</p>
+
                                             <p>Alternatively user can use this link to delete their account by entering account phone number and account password.
 
-                                            link: <a target="_blank" href="https://dashboard.gomeat.io/delete-user-account">https://dashboard.gomeat.io/delete-user-account</a></p>
+                                            link:
+                                            To initiate a data deletion request, please contact us at cs@gofeast.io.
+                                            </p> 
+                                            <!-- <a target="_blank" href="https://dashboard.gomeat.io/delete-user-account">https://dashboard.gomeat.io/delete-user-account</a></p>
                                             <p>Important: By clicking "Yes," your account and all associated information will be permanently deleted and cannot be recovered.
-                                            GoMeat - Delete Account</p>
+                                            GoMeat - Delete Account</p> -->
  
                                         </div>
                                     </div>
