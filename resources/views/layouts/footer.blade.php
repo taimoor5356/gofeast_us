@@ -7,7 +7,7 @@
                         <img class="mb-4" src="{{asset('assets/img/logo-white.png')}}" height="70px" width="150px" srcset="./assets/img/logo-white.png 2x"
                             alt="" />
                             </a>
-                        <p class="mb-4">© 2024 GoFeast. <br class="d-none d-lg-block" />All rights reserved.</p>
+                        <p class="mb-4">© 2024 GoMeat Services Inc. <br class="d-none d-lg-block" />All rights reserved.</p>
                         <nav class="nav social ">
                             <!-- <a href="https://gofeasttoken.medium.com/" target="_blank"><i
                                     class="uil uil-medium-m"></i></a> -->
