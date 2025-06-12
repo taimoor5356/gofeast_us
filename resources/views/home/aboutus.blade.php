@@ -6,11 +6,11 @@
 
     <!-- Meta Description -->
 
-    <meta name="description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in Bahria Town, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta name="description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
     <!-- Meta Keywords -->
 
-    <meta name="keywords" content="About GoFeast.pk, food delivery, grocery delivery, online food delivery, Bahria Town Lahore, quality food, GoFeast.pk values, food service, Lahore halal groceries, grocery shopping online">
+    <meta name="keywords" content="About GoFeast.pk, food delivery, grocery delivery, online food delivery, USA, quality food, GoFeast.pk values, food service, Lahore halal groceries, grocery shopping online">
 
     <!-- Meta Robots -->
 
@@ -20,7 +20,7 @@
 
     <meta property="og:title" content="About Us | GoFeast.pk - Your Trusted Food and Grocery Delivery Service">
 
-    <meta property="og:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in Bahria Town, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta property="og:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
     <meta property="og:url" content="https://www.gofeast.pk/about-us">
 
@@ -34,7 +34,7 @@
 
     <meta name="twitter:title" content="About Us | GoFeast.pk - Your Trusted Food and Grocery Delivery Service">
 
-    <meta name="twitter:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in Bahria Town, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta name="twitter:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA, Lahore. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
     <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/about-us-banner.jpg')}}">
 @endsection

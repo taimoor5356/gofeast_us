@@ -40,7 +40,7 @@
                                             </p>
 
                                         <h4 class="h4 mb-4">GoFeast,
-                                            <br>Suite 209 A, Commercial Sector C, Bahria Town Lahore
+                                            <br>Suite 209 A, Commercial Sector C, USA
                                         </h4>
                                         <p style="text-align:justify;">Please note that email communications will not necessarily be secure; accordingly, please do not include credit card information and/or other sensitive Personal Information in your email correspondence with us. </p>
                                     </div>

@@ -7,11 +7,11 @@
 
 <!-- Meta Description -->
 
-<meta name="description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in Bahria Town, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta name="description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
 <!-- Meta Keywords -->
 
-<meta name="keywords" content="GoFeast.pk Go-Rider, delivery rider jobs, food delivery rider, grocery delivery rider, join GoFeast.pk, delivery jobs in Lahore, Bahria Town delivery jobs, flexible rider jobs, food delivery rider, rider jobs with GoFeast.pk">
+<meta name="keywords" content="GoFeast.pk Go-Rider, delivery rider jobs, food delivery rider, grocery delivery rider, join GoFeast.pk, delivery jobs in Lahore, USA delivery jobs, flexible rider jobs, food delivery rider, rider jobs with GoFeast.pk">
 
 <!-- Meta Robots -->
 
@@ -21,7 +21,7 @@
 
 <meta property="og:title" content="Become a Go-Rider | GoFeast.pk - Join Our Team and Deliver online food and Groceries in Lahore">
 
-<meta property="og:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in Bahria Town, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta property="og:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
 <meta property="og:url" content="https://www.gofeast.pk/go-rider">
 
@@ -35,7 +35,7 @@
 
 <meta name="twitter:title" content="Become a Go-Rider | GoFeast.pk - Join Our Team and Deliver Food and Groceries in Lahore">
 
-<meta name="twitter:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in Bahria Town, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta name="twitter:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA, Lahore. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
 <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/go-rider-banner.jpg">
 @endsection

@@ -7,11 +7,11 @@
 
 <!-- Meta Description -->
 
-<meta name="description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across Bahria Town, Lahore.">
+<meta name="description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA, Lahore.">
 
 <!-- Meta Keywords -->
 
-<meta name="keywords" content="GoFeast.pk restaurant partner, join GoFeast.pk, restaurant delivery partnership, expand restaurant reach, Bahria Town Lahore restaurants, GoFeast.pk for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
+<meta name="keywords" content="GoFeast.pk restaurant partner, join GoFeast.pk, restaurant delivery partnership, expand restaurant reach, USA restaurants, GoFeast.pk for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
 
 <!-- Meta Robots -->
 
@@ -21,7 +21,7 @@
 
 <meta property="og:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta property="og:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across Bahria Town, Lahore.">
+<meta property="og:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA, Lahore.">
 
 <meta property="og:url" content="https://www.gofeast.pk/go-partner-restaurant">
 
@@ -35,7 +35,7 @@
 
 <meta name="twitter:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta name="twitter:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across Bahria Town, Lahore.">
+<meta name="twitter:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA, Lahore.">
 
 <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/partner-restaurant-banner.jpg">
 @endsection

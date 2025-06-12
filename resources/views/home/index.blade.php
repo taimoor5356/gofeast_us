@@ -2,15 +2,15 @@
 @section('meta_tags')
     <!-- Page Title -->
 
-    <title>GoFeast - Online Food & Grocery Delivery in Bahria Town Lahore</title>
+    <title>GoFeast - Online Food & Grocery Delivery in USA</title>
 
     <!-- Meta Description -->
 
-    <meta name="description" content=" GoFeast offers fast and reliable online food and grocery delivery services exclusively in Bahria Town Lahore. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
+    <meta name="description" content=" GoFeast offers fast and reliable online food and grocery delivery services exclusively in USA. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
 
     <!-- Meta Keywords -->
 
-    <meta name="keywords" content="GoFeast, online food delivery, grocery delivery, Bahria Town Lahore food delivery, Bahria Town Lahore groceries, food delivery service, grocery delivery service, Bahria Town Lahore online delivery">
+    <meta name="keywords" content="GoFeast, online food delivery, grocery delivery, USA food delivery, USA groceries, food delivery service, grocery delivery service, USA online delivery">
 
     <!-- Author -->
 
@@ -22,9 +22,9 @@
 
     <!-- Open Graph Meta Tags -->
 
-    <meta property="og:title" content="GoFeast - Online Food & Grocery Delivery in Bahria Town Lahore">
+    <meta property="og:title" content="GoFeast - Online Food & Grocery Delivery in USA">
 
-    <meta property="og: description" content=" GoFeast offers fast and reliable online food and grocery delivery services exclusively in Bahria Town Lahore. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
+    <meta property="og: description" content=" GoFeast offers fast and reliable online food and grocery delivery services exclusively in USA. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
 
     <meta property="og:url" content="https://www.gofeast.pk">
 
@@ -36,9 +36,9 @@
 
     <meta name="twitter:card" content="summary_large_image">
 
-    <meta name="twitter:title" content="GoFeast - Online Food & Grocery Delivery in Bahria Town">
+    <meta name="twitter:title" content="GoFeast - Online Food & Grocery Delivery in USA">
 
-    <meta name="twitter:description" content="GoFeast offers fast and reliable online food and grocery delivery services exclusively in Bahria Town Lahore. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
+    <meta name="twitter:description" content="GoFeast offers fast and reliable online food and grocery delivery services exclusively in USA. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
 
     <meta name="twitter:image" content="https://www.gofeast.pk/images/twitter-image.jpg">
 
