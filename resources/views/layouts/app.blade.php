@@ -134,7 +134,7 @@
             @include('layouts.nav-bar')
             {{--<div class="scrolling-container mt-3">
                 <div class="scrolling-text">
-                    <p style="font-weight: bold; color: #bd3c4a">Our services are now proudly operational in USA, Lahore, bringing exceptional convenience and quality. Experience a new level of service where innovation meets excellence in one of Lahore’s most prestigious communities.</p>
+                    <p style="font-weight: bold; color: #bd3c4a">Our services are now proudly operational in USA,  bringing exceptional convenience and quality. Experience a new level of service where innovation meets excellence in one of Lahore’s most prestigious communities.</p>
                 </div>
             </div>--}}
         </header>

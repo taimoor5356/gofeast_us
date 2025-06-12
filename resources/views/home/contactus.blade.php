@@ -9,7 +9,7 @@
 
 <!-- Meta Description -->
 
-<meta name="description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA, Lahore. We're here to help!">
+<meta name="description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA. We're here to help!">
 
 
 
@@ -29,7 +29,7 @@
 
 <meta property="og:title" content="Contact Us | GoFeast.pk - Get in Touch for Online Food & Grocery Delivery in Lahore">
 
-<meta property="og:description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA, Lahore. We're here to help!">
+<meta property="og:description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA. We're here to help!">
 
 <meta property="og:url" content="https://www.gofeast.pk/contact-us">
 
@@ -45,7 +45,7 @@
 
 <meta name="twitter:title" content="Contact Us | GoFeast.pk - Get in Touch for Online Food & Grocery Delivery in Lahore">
 
-<meta name="twitter:description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA, Lahore. We're here to help!">
+<meta name="twitter:description" content="Have questions or need assistance? Contact GoFeast.pk for inquiries about our Online Food & Grocery delivery services in USA. We're here to help!">
 
 <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/contact-us-banner.jpg">
 
