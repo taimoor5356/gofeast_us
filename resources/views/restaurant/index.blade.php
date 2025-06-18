@@ -51,7 +51,7 @@
 <section class="wrapper px-0" style="background-size: 100% 100%;">
     <div class="container">
         <p>
-            <a href="https://www.gofeast.pk">Home </a> > Restaurants
+            <a href="https://www.gofeast.io">Home </a> > Restaurants
         </p>
         <div class="container-fluid p-0">
             <div class="row">

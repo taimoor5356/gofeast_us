@@ -37,7 +37,7 @@
                                         </p>
                                         <h2 class="h2 mb-4">CONTACT</h2>
                                         <p style="text-align:justify;">
-                                        If you have any questions regarding this Agreement, please visit our <a href="https://gofeast.pk/contact-us" target="_blank">“Contact Us”</a> page for answers and our contact information or at <a href="mailto:info@gofeast.pk">info@gofeast.pk</a>
+                                        If you have any questions regarding this Agreement, please visit our <a href="https://gofeast.io/contact-us" target="_blank">“Contact Us”</a> page for answers and our contact information or at <a href="mailto:info@gofeast.io">info@gofeast.io</a>
                                         </p>
                                     </div>
                                     <!-- /.post-content -->

@@ -2,15 +2,15 @@
 @section('meta_tags')
     <!-- Meta Title -->
 
-    <title>About Us | GoFeast.pk - Your Trusted Food and Grocery Delivery Service</title>
+    <title>About Us | GoFeast.io - Your Trusted Food and Grocery Delivery Service</title>
 
     <!-- Meta Description -->
 
-    <meta name="description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta name="description" content="Learn more about GoFeast.io, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
     <!-- Meta Keywords -->
 
-    <meta name="keywords" content="About GoFeast.pk, food delivery, grocery delivery, online food delivery, USA, quality food, GoFeast.pk values, food service, Lahore halal groceries, grocery shopping online">
+    <meta name="keywords" content="About GoFeast.io, food delivery, grocery delivery, online food delivery, USA, quality food, GoFeast.io values, food service, Lahore halal groceries, grocery shopping online">
 
     <!-- Meta Robots -->
 
@@ -18,25 +18,25 @@
 
     <!-- Open Graph Tags -->
 
-    <meta property="og:title" content="About Us | GoFeast.pk - Your Trusted Food and Grocery Delivery Service">
+    <meta property="og:title" content="About Us | GoFeast.io - Your Trusted Food and Grocery Delivery Service">
 
-    <meta property="og:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta property="og:description" content="Learn more about GoFeast.io, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
-    <meta property="og:url" content="https://www.gofeast.pk/about-us">
+    <meta property="og:url" content="https://www.gofeast.io/about-us">
 
     <meta property="og:type" content="website">
 
-    <meta property="og:image" content="https://www.gofeast.pk/assets/images/about-us-banner.jpg')}}">
+    <meta property="og:image" content="https://www.gofeast.io/assets/images/about-us-banner.jpg')}}">
 
     <!-- Twitter Card Tags -->
 
     <meta name="twitter:card" content="summary_large_image">
 
-    <meta name="twitter:title" content="About Us | GoFeast.pk - Your Trusted Food and Grocery Delivery Service">
+    <meta name="twitter:title" content="About Us | GoFeast.io - Your Trusted Food and Grocery Delivery Service">
 
-    <meta name="twitter:description" content="Learn more about GoFeast.pk, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
+    <meta name="twitter:description" content="Learn more about GoFeast.io, your reliable source for food and groceries in USA. Discover our mission, values, and commitment to quality and transparency in every delivery.">
 
-    <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/about-us-banner.jpg')}}">
+    <meta name="twitter:image" content="https://www.gofeast.io/assets/images/about-us-banner.jpg')}}">
 @endsection
 @section('content')
 
@@ -62,7 +62,7 @@
                         <h3 class="display-4 mb-5 text-white"><span class=" underline-3 style-3 yellow">GoFeast</span> -
                             Disrupting
                             the
-                            Specialty
+                            Speciality
                             Industry
                         </h3>
                         <p style="text-align: justify;">
@@ -70,7 +70,7 @@
                                 Since 2019, GoFeast has been helping your local
                             halal/kosher stores go digital! Powered by the GoFeast Technology Platform, consumers can place orders for meat, grocery or food and have them delivered to their doorstep on the
                             same-day. <br>
-                            Using Blockchain technology, GoFeast is revolutionizing the specialty meat supply chain and
+                            Using Blockchain technology, GoFeast is revolutionizing the speciality meat supply chain and
                             certification processes by making each step transparent and traceable. Thus, paving the way
                             for a safer industry.
                             <!--</span>-->
@@ -105,7 +105,7 @@
                     <div class="col-lg-7">
                         <h3 class="display-4 mb-3 text-primary">Our Mission</h3>
                         <p class="lead fs-lg lh-sm" style="text-align: justify;">GoFeast strives to be the leading digital marketplace connecting
-                            consumers with specialty meat stores and offering same-day delivery services powered by the
+                            consumers with speciality meat stores and offering same-day delivery services powered by the
                             GoFeast Technology Platform.</p>
                         <!--/.row -->
                     </div>
@@ -118,8 +118,8 @@
                     <!--/column -->
                     <div class="col-lg-7">
                         <h3 class="display-4 mb-3 text-primary">Our Vision</h3>
-                        <p class="lead fs-lg lh-sm" style="text-align: justify;">Using blockchain technology, GoFeast aims to digitalize the specialty
-                            food industry by making the specialty meat supply chain and certification transparent.</p>
+                        <p class="lead fs-lg lh-sm" style="text-align: justify;">Using blockchain technology, GoFeast aims to digitalize the speciality
+                            food industry by making the speciality meat supply chain and certification transparent.</p>
                         <!--/.row -->
                     </div>
                     <!--/column -->
@@ -144,8 +144,8 @@
                         <p class="lead fs-lg lh-sm" style="text-align: justify;">Our Business Model is one of the simplest in the Tech industry
                             offering steady and consistent revenue streams with no cash collection risks and high cash
                             flows. GoFeast is a Logistics Technology Startup and not a meat seller. We are
-                            providing a technology marketplace for the buying and selling of specialty (halal and
-                            kosher) meat along with in-app specialty certifications.</p>
+                            providing a technology marketplace for the buying and selling of speciality (halal and
+                            kosher) meat along with in-app speciality certifications.</p>
                         <!--/.row -->
                     </div>
                     <!--/column -->

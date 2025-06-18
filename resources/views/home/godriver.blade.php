@@ -3,15 +3,15 @@
 
 <!-- Meta Title -->
 
-<title>Become a Go-Rider | GoFeast.pk - Join Our Team and Deliver Food and Groceries in Lahore</title>
+<title>Become a Go-Rider | GoFeast.io - Join Our Team and Deliver Food and Groceries in Lahore</title>
 
 <!-- Meta Description -->
 
-<meta name="description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta name="description" content="Join GoFeast.io as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
 <!-- Meta Keywords -->
 
-<meta name="keywords" content="GoFeast.pk Go-Rider, delivery rider jobs, food delivery rider, grocery delivery rider, join GoFeast.pk, delivery jobs in  USA delivery jobs, flexible rider jobs, food delivery rider, rider jobs with GoFeast.pk">
+<meta name="keywords" content="GoFeast.io Go-Rider, delivery rider jobs, food delivery rider, grocery delivery rider, join GoFeast.io, delivery jobs in  USA delivery jobs, flexible rider jobs, food delivery rider, rider jobs with GoFeast.io">
 
 <!-- Meta Robots -->
 
@@ -19,25 +19,25 @@
 
 <!-- Open Graph Tags -->
 
-<meta property="og:title" content="Become a Go-Rider | GoFeast.pk - Join Our Team and Deliver online food and Groceries in Lahore">
+<meta property="og:title" content="Become a Go-Rider | GoFeast.io - Join Our Team and Deliver online food and Groceries in Lahore">
 
-<meta property="og:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta property="og:description" content="Join GoFeast.io as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
-<meta property="og:url" content="https://www.gofeast.pk/go-rider">
+<meta property="og:url" content="https://www.gofeast.io/go-rider">
 
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://www.gofeast.pk/assets/images/go-rider-banner.jpg">
+<meta property="og:image" content="https://www.gofeast.io/assets/images/go-rider-banner.jpg">
 
 <!-- Twitter Card Tags -->
 
 <meta name="twitter:card" content="summary_large_image">
 
-<meta name="twitter:title" content="Become a Go-Rider | GoFeast.pk - Join Our Team and Deliver Food and Groceries in Lahore">
+<meta name="twitter:title" content="Become a Go-Rider | GoFeast.io - Join Our Team and Deliver Food and Groceries in Lahore">
 
-<meta name="twitter:description" content="Join GoFeast.pk as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
+<meta name="twitter:description" content="Join GoFeast.io as a Go-Rider and help deliver fresh food and groceries to customers in USA. Enjoy flexible hours, competitive pay, and a rewarding experience.">
 
-<meta name="twitter:image" content="https://www.gofeast.pk/assets/images/go-rider-banner.jpg">
+<meta name="twitter:image" content="https://www.gofeast.io/assets/images/go-rider-banner.jpg">
 @endsection
 @section('content')
 
@@ -120,9 +120,7 @@
                 <h2 class="display-4 mb-3">Become A GoDriver</h2>
                 <!-- <p class="lead fs-lg lh-sm">The full service we are offering is specifically designed to meet
                             your business needs.</p> -->
-                <p style="text-align: justify;">I agree to have read the Terms and Conditions listed in the Delivery Partner Agreement, and
-                    that I may receive emails or calls from GoFeast for any additional information which
-                    may be needed. </p>
+                <p style="text-align: justify;">I agree that I have read and accepted the Terms and Conditions listed in the Delivery section</p>
 
                 <!-- <a href="#" class="btn btn-primary rounded-pill mt-3">Registration Form</a>
 

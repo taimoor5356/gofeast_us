@@ -3,15 +3,15 @@
 
 <!-- Meta Title -->
 
-<title>Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach</title>
+<title>Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach</title>
 
 <!-- Meta Description -->
 
-<meta name="description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta name="description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
 <!-- Meta Keywords -->
 
-<meta name="keywords" content="GoFeast.pk restaurant partner, join GoFeast.pk, restaurant delivery partnership, expand restaurant reach, USA restaurants, GoFeast.pk for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
+<meta name="keywords" content="GoFeast.io restaurant partner, join GoFeast.io, restaurant delivery partnership, expand restaurant reach, USA restaurants, GoFeast.io for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
 
 <!-- Meta Robots -->
 
@@ -19,25 +19,25 @@
 
 <!-- Open Graph Tags -->
 
-<meta property="og:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
+<meta property="og:title" content="Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta property="og:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta property="og:description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
-<meta property="og:url" content="https://www.gofeast.pk/go-partner-restaurant">
+<meta property="og:url" content="https://www.gofeast.io/go-partner-restaurant">
 
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://www.gofeast.pk/assets/images/partner-restaurant-banner.jpg">
+<meta property="og:image" content="https://www.gofeast.io/assets/images/partner-restaurant-banner.jpg">
 
 <!-- Twitter Card Tags -->
 
 <meta name="twitter:card" content="summary_large_image">
 
-<meta name="twitter:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
+<meta name="twitter:title" content="Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta name="twitter:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta name="twitter:description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
-<meta name="twitter:image" content="https://www.gofeast.pk/assets/images/partner-restaurant-banner.jpg">
+<meta name="twitter:image" content="https://www.gofeast.io/assets/images/partner-restaurant-banner.jpg">
 @endsection
 @section('content')
 
@@ -172,7 +172,7 @@
                             </div>
                             <div>
                                 <h4 class="mb-1 text-primary">Order Placement</h4>
-                                <p class="mb-0">Customers place a detailed order for your store through our <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">iOS</a> customer apps
+                                <p class="mb-0">Customers place a detailed order from store through our <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">iOS</a> customer apps
                                 </p>
                             </div>
                         </div>
@@ -183,8 +183,7 @@
                             </div>
                             <div>
                                 <h4 class="mb-1 text-primary">Preparation</h4>
-                                <p class="mb-0">You prepare the order and keep the customer updated by changing its
-                                    status to accepted, in preparation or ready for delivery</p>
+                                <p class="mb-0">You prepare the order and our customer service team keep the customer updated by changing its status to 'Accepted', 'In Preparation', or 'Ready for Delivery</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -194,8 +193,7 @@
                             </div>
                             <div>
                                 <h4 class="mb-1 text-primary">Delivery</h4>
-                                <p class="mb-0">Once the order is ready, our driver will pick it up and have it
-                                    delivered to the customer's address</p>
+                                <p class="mb-0">As soon as the order is ready, our driver will pick it up and deliver it straight to the customer’s doorstep</p>
                             </div>
                         </div>
                     </div>
@@ -228,7 +226,7 @@
                         <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary  mb-4"><span
                                     class="number">01</span></span>
                             <h4 class="mb-1">Signup</h4>
-                            <p>Fill out application (Accept Term & Cont) and Sign Up</p>
+                            <p>Fill out application (Accept Term & Conditions) and Sign Up</p>
                         </div>
                         <!--/column -->
                         <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary  mb-4"><span

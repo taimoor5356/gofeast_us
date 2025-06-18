@@ -33,7 +33,7 @@
                         
                         <p style="text-align:justify;">
                             GoFeast Services Inc. and its subsidiaries and affiliates (“GoFeast,” “we,” “our,” or “us”) own and
-                            operate certain websites (including gofeast.pk, meat2deliver.com, gohalalmeat.com,
+                            operate certain websites (including gofeast.io, meat2deliver.com, gohalalmeat.com,
                             gokoshermeat.com), certain technology platforms, and certain other related online and mobile
                             services (including, without limitation, our Mobile Applications, as defined below) that reference
                             or will reference these Terms of Use (collectively, the “Sites”). These Terms of Use (the
@@ -163,7 +163,7 @@
                             and Materials and except for the trademarks, service marks, logos and trade names of other
                             companies that are displayed on the Sites and Materials, all trademarks, service marks, logos,
                             trade dress, and trade names are proprietary to GoFeast, including, without limitation, GoFeast;
-                            GoFeastServices; GoFeast; gofeast.pk, and trade dress. Please be advised that GoFeast enforces
+                            GoFeastServices; GoFeast; gofeast.io, and trade dress. Please be advised that GoFeast enforces
                             its intellectual property rights to the fullest extent of the law.
                         </p>
                         <p style="text-align:justify">
@@ -436,7 +436,7 @@
                             receiving such communications for transactional, operational, or informational purposes. You
                             understand that such messages may be sent using an automatic telephone dialing system. You
                             may unsubscribe from receiving text messages from GoFeast at any time. To revoke your
-                            consent to receiving SMS or MMS messages from GoFeast, please contact info@gofeast.pk for
+                            consent to receiving SMS or MMS messages from GoFeast, please contact info@gofeast.io for
                             unsubscribe procedures. Consumers placing orders through the Sites may receive two or more
                             order status messages from GoFeast about each order
                         </p>
@@ -649,7 +649,7 @@
                         </p>
                         <h2 class="h2 mb-4">PRIVACY POLICY</h2>
                         <p style="text-align:justify;">
-                            The terms and conditions of the Privacy Policy located at <a href="https://gofeast.pk/privacy-policy" target="_blank">Privacy Policy</a> are incorporated into this
+                            The terms and conditions of the Privacy Policy located at <a href="https://gofeast.io/privacy-policy" target="_blank">Privacy Policy</a> are incorporated into this
                             Agreement by reference.
                         </p>
                         <h2 class="h2 mb-4">COPYRIGHT POLICY</h2>
@@ -767,7 +767,7 @@
                             receiving such communications for transactional, operational, or informational purposes. You
                             understand that such messages may be sent using an automatic telephone dialing system. You
                             may unsubscribe from receiving text messages from GoFeast at any time. To revoke your
-                            consent to receiving SMS or MMS messages from GoFeast, please contact info@gofeast.pk for
+                            consent to receiving SMS or MMS messages from GoFeast, please contact info@gofeast.io for
                             unsubscribe procedures. Consumers placing orders through the Sites may receive two or more
                             order status messages from GoFeast about each order
                         </p>
@@ -906,7 +906,7 @@
                                     you may reject any such change by providing GoFeast written notice of such rejection by mail or
                                     hand delivery to: GoFeast, Attn: Dispute Resolutions, 9237 Washington Road,
                                     Morton Grove, IL 60053, or by email from the email address associated with your account to:
-                                    <a href="mailto:info@gofeast.pk">info@gofeast.pk</a>, within 30 days of the date such change became effective, as indicated in the
+                                    <a href="mailto:info@gofeast.io">info@gofeast.io</a>, within 30 days of the date such change became effective, as indicated in the
                                     "Effective" date above. In order to be effective, the notice must include your full name and clearly
                                     indicate your intent to reject changes to this "Dispute Resolution" section. By rejecting changes,
                                     you are agreeing that you will arbitrate any dispute between you and GoFeast in accordance with
@@ -933,8 +933,8 @@
                         </p>
                         <h2 class="h2 mb-4">CONTACT</h2>
                         <p style="text-align:justify;">
-                            If you have any questions regarding this Agreement, please visit our <a href="https://gofeast.pk/contact-us" target="_blank">“Contact Us”</a> page for
-                            answers and our contact information or at <a href="mailto:info@gofeast.pk">info@gofeast.pk</a>
+                            If you have any questions regarding this Agreement, please visit our <a href="https://gofeast.io/contact-us" target="_blank">“Contact Us”</a> page for
+                            answers and our contact information or at <a href="mailto:info@gofeast.io">info@gofeast.io</a>
                         </p>
                       </div>
                       <!-- /.post-content -->

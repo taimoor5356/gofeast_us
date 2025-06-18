@@ -3,15 +3,15 @@
 
 <!-- Meta Title -->
 
-<title>Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach</title>
+<title>Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach</title>
 
 <!-- Meta Description -->
 
-<meta name="description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta name="description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
 <!-- Meta Keywords -->
 
-<meta name="keywords" content="GoFeast.pk restaurant partner, join GoFeast.pk, restaurant delivery partnership, expand restaurant reach, USA restaurants, GoFeast.pk for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
+<meta name="keywords" content="GoFeast.io restaurant partner, join GoFeast.io, restaurant delivery partnership, expand restaurant reach, USA restaurants, GoFeast.io for restaurants, food delivery partnership, restaurant marketing, increase restaurant sales">
 
 <!-- Meta Robots -->
 
@@ -19,25 +19,25 @@
 
 <!-- Open Graph Tags -->
 
-<meta property="og:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
+<meta property="og:title" content="Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta property="og:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta property="og:description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
-<meta property="og:url" content="https://www.gofeast.pk/go-partner-restaurant">
+<meta property="og:url" content="https://www.gofeast.io/go-partner-restaurant">
 
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://www.gofeast.pk/assets/images/partner-restaurant-banner.jpg">
+<meta property="og:image" content="https://www.gofeast.io/assets/images/partner-restaurant-banner.jpg">
 
 <!-- Twitter Card Tags -->
 
 <meta name="twitter:card" content="summary_large_image">
 
-<meta name="twitter:title" content="Go-Partner for Restaurants | GoFeast.pk - Join Our Network and Boost Your Restaurant's Reach">
+<meta name="twitter:title" content="Go-Partner for Restaurants | GoFeast.io - Join Our Network and Boost Your Restaurant's Reach">
 
-<meta name="twitter:description" content="Partner with GoFeast.pk to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
+<meta name="twitter:description" content="Partner with GoFeast.io to expand your restaurant's customer base. Enjoy seamless integration, increased visibility, and reliable delivery services across USA.">
 
-<meta name="twitter:image" content="https://www.gofeast.pk/assets/images/partner-restaurant-banner.jpg">
+<meta name="twitter:image" content="https://www.gofeast.io/assets/images/partner-restaurant-banner.jpg">
 @endsection
 @section('content')
 
@@ -48,7 +48,7 @@
                 <h1 class="display-1 text-white mb-4">GOMT Token <br />
                 </h1>
                 <p class="lead fs-24 lh-sm text-white mb-7 pe-md-18 pe-lg-0 pe-xxl-15">First of its kind
-                    utility token, empowering specialty consumers and stores through digitalization. GOMT Token provides
+                    utility token, empowering speciality consumers and stores through digitalization. GOMT Token provides
                     traceability through blockchain certifications.</p>
                 <p class="text-white fs-24">Buy Now:</p>
                 <!-- TODO: gomt popup -->

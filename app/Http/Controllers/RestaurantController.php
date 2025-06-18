@@ -100,29 +100,29 @@ class RestaurantController extends Controller
         $data['restaurants'] = $paginatedStores;
         $data['delivery_meta_tags'] = <<<EOT
             <!-- Meta Title --> 
-            <title>Delivery Service | GoFeast.pk - Fast and Reliable Online Food & Grocery Delivery in USA</title> 
+            <title>Delivery Service | GoFeast.io - Fast and Reliable Online Food & Grocery Delivery in USA</title> 
 
             <!-- Meta Description --> 
-            <meta name="description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.pk. Order online and have fresh products delivered straight to your door in USA."> 
+            <meta name="description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.io. Order online and have fresh products delivered straight to your door in USA."> 
 
             <!-- Meta Keywords --> 
-            <meta name="keywords" content="GoFeast.pk delivery service, Online Food & Grocery, grocery delivery, online food delivery, USA, fast delivery, reliable grocery delivery, meat groceries  "> 
+            <meta name="keywords" content="GoFeast.io delivery service, Online Food & Grocery, grocery delivery, online food delivery, USA, fast delivery, reliable grocery delivery, meat groceries  "> 
 
             <!-- Meta Robots --> 
             <meta name="robots" content="index, follow"> 
 
             <!-- Open Graph Tags --> 
-            <meta property="og:title" content="Delivery Service | GoFeast.pk - Fast and Reliable Online Food & Grocery Delivery in USA"> 
-            <meta property="og:description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.pk. Order online and have fresh products delivered straight to your door in USA."> 
-            <meta property="og:url" content="https://www.gofeast.pk/delivery"> 
+            <meta property="og:title" content="Delivery Service | GoFeast.io - Fast and Reliable Online Food & Grocery Delivery in USA"> 
+            <meta property="og:description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.io. Order online and have fresh products delivered straight to your door in USA."> 
+            <meta property="og:url" content="https://www.gofeast.io/delivery"> 
             <meta property="og:type" content="website"> 
-            <meta property="og:image" content="https://www.gofeast.pk/assets/images/delivery-banner.jpg"> 
+            <meta property="og:image" content="https://www.gofeast.io/assets/images/delivery-banner.jpg"> 
 
             <!-- Twitter Card Tags --> 
             <meta name="twitter:card" content="summary_large_image"> 
-            <meta name="twitter:title" content="Delivery Service | GoFeast.pk - Fast and Reliable Online Food & Grocery Delivery in USA"> 
-            <meta name="twitter:description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.pk. Order online and have fresh products delivered straight to your door in USA."> 
-            <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/delivery-banner.jpg"> 
+            <meta name="twitter:title" content="Delivery Service | GoFeast.io - Fast and Reliable Online Food & Grocery Delivery in USA"> 
+            <meta name="twitter:description" content="Enjoy fast and reliable Online Food & Grocery delivery with GoFeast.io. Order online and have fresh products delivered straight to your door in USA."> 
+            <meta name="twitter:image" content="https://www.gofeast.io/assets/images/delivery-banner.jpg"> 
         EOT;
         return view('restaurant.index', $data);
     }
@@ -152,29 +152,29 @@ class RestaurantController extends Controller
         $data['restaurants'] = $paginatedStores;
         $data['pickup_meta_tags'] = <<<EOT
             <!-- Meta Title --> 
-            <title>Pickup Service | GoFeast.pk - Online Food & Grocery Pickup in USA</title> 
+            <title>Pickup Service | GoFeast.io - Online Food & Grocery Pickup in USA</title> 
             
             <!-- Meta Description --> 
-            <meta name="description" content="Choose GoFeast.pk's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
+            <meta name="description" content="Choose GoFeast.io's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
             
             <!-- Meta Keywords --> 
-            <meta name="keywords" content="GoFeast.pk pickup service, Online Food & grocery pickup, USA pickup, online food order pickup, convenient grocery pickup, meat  GoFeast.pk pickup location"> 
+            <meta name="keywords" content="GoFeast.io pickup service, Online Food & grocery pickup, USA pickup, online food order pickup, convenient grocery pickup, meat  GoFeast.io pickup location"> 
             
             <!-- Meta Robots --> 
             <meta name="robots" content="index, follow"> 
             
             <!-- Open Graph Tags --> 
-            <meta property="og:title" content="Pickup Service | GoFeast.pk - Online Food & Grocery Pickup in USA"> 
-            <meta property="og:description" content="Choose GoFeast.pk's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
-            <meta property="og:url" content="https://www.gofeast.pk/pickup"> 
+            <meta property="og:title" content="Pickup Service | GoFeast.io - Online Food & Grocery Pickup in USA"> 
+            <meta property="og:description" content="Choose GoFeast.io's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
+            <meta property="og:url" content="https://www.gofeast.io/pickup"> 
             <meta property="og:type" content="website"> 
-            <meta property="og:image" content="https://www.gofeast.pk/assets/images/pickup-banner.jpg"> 
+            <meta property="og:image" content="https://www.gofeast.io/assets/images/pickup-banner.jpg"> 
             
             <!-- Twitter Card Tags --> 
             <meta name="twitter:card" content="summary_large_image"> 
-            <meta name="twitter:title" content="Pickup Service | GoFeast.pk - Convenient Online Food & Grocery Pickup in USA"> 
-            <meta name="twitter:description" content="Choose GoFeast.pk's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
-            <meta name="twitter:image" content="https://www.gofeast.pk/assets/images/pickup-banner.jpg">
+            <meta name="twitter:title" content="Pickup Service | GoFeast.io - Convenient Online Food & Grocery Pickup in USA"> 
+            <meta name="twitter:description" content="Choose GoFeast.io's easy pickup service for Online Food & Grocery. Order online and pick up your fresh products at our convenient location in USA."> 
+            <meta name="twitter:image" content="https://www.gofeast.io/assets/images/pickup-banner.jpg">
         EOT;
         return view('restaurant.index', $data);
     }

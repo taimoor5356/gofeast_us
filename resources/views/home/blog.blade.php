@@ -317,7 +317,7 @@
                                         <!-- /.post-category -->
                                         <h2 class="post-title h3 mt-1 mb-3">
                                             <a class="link-dark" href="./gofeast-maintains-halal-meat-free-delivery-COVID-19-Lockdown">GoMeat Maintains Free
-                                                Delivery Of Specialty Halal Meats Through The COVID-19 Lockdown.
+                                                Delivery Of Speciality Halal Meats Through The COVID-19 Lockdown.
                                             </a>
                                         </h2>
                                     </div>
@@ -434,7 +434,7 @@
                                         <p>GOMT Token (GOMT) was launched in June 2021 with the vision to
                                             revolutionize the $1.7 trillion global (Halal + Kosher) market. With
                                             transparency and traceability as its primary goal, GoMeat set out to
-                                            empower the specialty meat industry.
+                                            empower the speciality meat industry.
                                         </p>
                                     </div>
                                     <!-- /.post-content -->
@@ -540,7 +540,7 @@
                                     <!-- /.post-header -->
                                     <div class="post-content">
                                         <p>Buy your favourite Halal/Kosher food items from your favourite
-                                            specialty eateries
+                                            speciality eateries
                                         </p>
                                     </div>
                                     <!-- /.post-content -->
@@ -775,7 +775,7 @@
                         <article class="item post col-md-6 col-lg-4">
                             <div class="card">
                                 <figure class="card-img-top overlay overlay-1 hover-scale">
-                                    <a href="https://gofeasttoken.medium.com/health-benefits-of-specialty-meat-why-are-people-opting-for-it-118fa3fbd2da"
+                                    <a href="https://gofeasttoken.medium.com/health-benefits-of-speciality-meat-why-are-people-opting-for-it-118fa3fbd2da"
                                         target="_blank">
                                         <img src="https://miro.medium.com/max/1400/1*odol0G469EAvUnP9kJA3wA.png"
                                             alt="" />
@@ -787,16 +787,16 @@
                                 <div class="card-body">
                                     <div class="post-header">
                                         <div class="post-category text-line">
-                                            <a href="https://gofeasttoken.medium.com/health-benefits-of-specialty-meat-why-are-people-opting-for-it-118fa3fbd2da"
+                                            <a href="https://gofeasttoken.medium.com/health-benefits-of-speciality-meat-why-are-people-opting-for-it-118fa3fbd2da"
                                                 target="_blank" class="me-2">Medium <img
                                                     src="{{asset('assets/img/photos/gofeast_images/medium.png')}}" width="40"
                                                     height="auto"></a>
                                         </div>
                                         <!-- /.post-category -->
                                         <h2 class="post-title h3 mt-1 mb-3">
-                                            <a href="https://gofeasttoken.medium.com/health-benefits-of-specialty-meat-why-are-people-opting-for-it-118fa3fbd2da"
+                                            <a href="https://gofeasttoken.medium.com/health-benefits-of-speciality-meat-why-are-people-opting-for-it-118fa3fbd2da"
                                                 target="_blank" class="link-dark" href="./blog-post.html">Health
-                                                benefits of specialty meat — Why are people opting for it?
+                                                benefits of speciality meat — Why are people opting for it?
                                             </a>
                                         </h2>
                                     </div>
@@ -827,7 +827,7 @@
                         <article class="item post col-md-6 col-lg-4">
                             <div class="card">
                                 <figure class="card-img-top overlay overlay-1 hover-scale">
-                                    <a href="https://gofeasttoken.medium.com/uplifting-specialty-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
+                                    <a href="https://gofeasttoken.medium.com/uplifting-speciality-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
                                         target="_blank">
                                         <img src="https://miro.medium.com/max/1400/1*OliOOb4kFDkp5xVn8W8ggA.png"
                                             alt="" />
@@ -839,23 +839,23 @@
                                 <div class="card-body">
                                     <div class="post-header">
                                         <div class="post-category text-line">
-                                            <a href="https://gofeasttoken.medium.com/uplifting-specialty-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
+                                            <a href="https://gofeasttoken.medium.com/uplifting-speciality-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
                                                 target="_blank" class="me-2">Medium <img
                                                     src="{{asset('assets/img/photos/gofeast_images/medium.png')}}" width="40"
                                                     height="auto"></a>
                                         </div>
                                         <!-- /.post-category -->
                                         <h2 class="post-title h3 mt-1 mb-3">
-                                            <a href="https://gofeasttoken.medium.com/uplifting-specialty-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
+                                            <a href="https://gofeasttoken.medium.com/uplifting-speciality-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
                                                 target="_blank" class="link-dark"
-                                                href="./blog-post.html">Uplifting specialty stores in the era of
+                                                href="./blog-post.html">Uplifting speciality stores in the era of
                                                 inclusivity and diversity — The need.
                                             </a>
                                         </h2>
                                     </div>
                                     <!-- /.post-header -->
                                     <div class="post-content">
-                                        <p>A specialty store specializes in a single product category instead of
+                                        <p>A speciality store specializes in a single product category instead of
                                             stores that offer a wide range of consumer products.
                                         </p>
                                     </div>

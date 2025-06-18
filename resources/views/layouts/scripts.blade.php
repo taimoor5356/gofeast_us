@@ -11,7 +11,7 @@
     function getGomtValue() {
         var gomt;
         const setGomtValue = async () => {
-            const response = await fetch('https://telegrambot.gofeast.pk/api/gomtValue');
+            const response = await fetch('https://telegrambot.gofeast.io/api/gomtValue');
 
             const myJson = await response.json(); //extract JSON from the http response
 
@@ -34,7 +34,7 @@
     function getGomtBurnValue() {
         var gomtBurn;
         const setGomtBurnValue = async () => {
-            const response = await fetch('https://telegrambot.gofeast.pk/api/gomtBurnValue');
+            const response = await fetch('https://telegrambot.gofeast.io/api/gomtBurnValue');
             const myJson = await response.json(); //extract JSON from the http response
 
             gomtBurn = 'Burned: '.concat(myJson.GOMT_burn);

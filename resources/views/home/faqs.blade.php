@@ -92,7 +92,7 @@
                                                     <div class="card-body">
                                                         <p>GoFeast is a marketplace leveraging blockchain technology,
                                                             connecting
-                                                            consumers with specialty retail meat stores that primarily
+                                                            consumers with speciality retail meat stores that primarily
                                                             offer
                                                             fresh Halal and Kosher meat products such as red meat,
                                                             poultry and
@@ -124,7 +124,7 @@
                                                             mobile apps based on IOS and Android. GoFeast app users can
                                                             select
                                                             their favourite meat retailer and order meat products,
-                                                            specialty
+                                                            speciality
                                                             food and ethnic groceries online after selecting from the
                                                             available
                                                             menu of their store of choice. Once the products are
@@ -1067,9 +1067,9 @@
                                     aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
                                     <div class="card-body">
                                         <p>High demand for certification services in combination with a decentralized
-                                            form of accreditation by Specialty Boards and inability to support the
-                                            specialty industry efficiently has shown cracks in the conventional
-                                            specialty certification model, which has become costly, inefficient,
+                                            form of accreditation by Speciality Boards and inability to support the
+                                            speciality industry efficiently has shown cracks in the conventional
+                                            speciality certification model, which has become costly, inefficient,
                                             fraudulent and risky. The GoFeast blockchain phase 3 will be delivering the
                                             following: Digital halal certifications, integration with halal authorities'
                                             smart contracts to validate certification validity for the stores. The smart

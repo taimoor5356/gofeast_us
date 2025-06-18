@@ -26,11 +26,11 @@
 
     <meta property="og: description" content=" GoFeast offers fast and reliable online food and grocery delivery services exclusively in USA. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
 
-    <meta property="og:url" content="https://www.gofeast.pk">
+    <meta property="og:url" content="https://www.gofeast.io">
 
     <meta property="og:type" content="website">
 
-    <meta property="og:image" content="https://www.gofeast.pk/images/og-image.jpg">
+    <meta property="og:image" content="https://www.gofeast.io/images/og-image.jpg">
 
     <!-- Twitter Card Meta Tags -->
 
@@ -40,7 +40,7 @@
 
     <meta name="twitter:description" content="GoFeast offers fast and reliable online food and grocery delivery services exclusively in USA. Enjoy various cuisines and quality grocery items delivered straight to your doorstep.">
 
-    <meta name="twitter:image" content="https://www.gofeast.pk/images/twitter-image.jpg">
+    <meta name="twitter:image" content="https://www.gofeast.io/images/twitter-image.jpg">
 
     <meta name="twitter:site" content="@GoFeast">
 @endsection
@@ -138,7 +138,7 @@
                                     height="auto" >
                             </div>
                             <h1 class="text-center mt-5 text-white" data-cues="slideInDown">Digitalizing The
-                                Specialty Foods Industry.
+                                Speciality Foods Industry.
                                 <br /><span class="typer text-white text-nowrap"
                                     data-words="Blockchain, Marketplace, Home-Delivery"></span><span
                                     class="cursor text-white" data-owner=" typer"></span>
@@ -158,7 +158,7 @@
                                 <img class="img-fluid rounded" src="{{asset('assets/img/photos/gofeast_images/GOMT Icon.png')}}" alt=""
                                     width="200" height="auto" >
                             </div>
-                            <h2 class="text-center mt-5 text-white" data-cues="slideInDown">Empowering The Specialty
+                            <h2 class="text-center mt-5 text-white" data-cues="slideInDown">Empowering The Speciality
                                 Meat Industry
                                 <br /><span class="typer text-white text-nowrap"
                                     data-words="Token, Blockchain, Marketplace"></span><span class="cursor text-white"
@@ -183,7 +183,7 @@
                                     height="auto" >
                             </div>
                             <h1 class="text-center mt-5 text-white" data-cues="slideInDown">
-                                Digitalizing The Specialty Foods Industry.
+                                Digitalizing The Speciality Foods Industry.
                                 <br /><span class="typer text-white text-nowrap"
                                     data-words="Home Delivery, Same Day, Certifications"></span><span
                                     class="cursor text-white" data-owner=" typer"></span>
@@ -207,7 +207,7 @@
                                     width="200" height="auto" >
                             </div>
                             <h2 class="text-center mt-5 text-white" data-cues="slideInDown">
-                                Empowering The Specialty Meat Industry
+                                Empowering The Speciality Meat Industry
                                 <br /><span class="typer text-white text-nowrap"
                                     data-words="Token, Blockchain, Marketplace"></span><span class="cursor text-white"
                                     data-owner=" typer"></span>
@@ -269,7 +269,7 @@
                         </div>
                         <h4>Ordering App</h4>
                         <p class="mb-2">Enjoy exclusive discounts and same-day delivery from your favorite local
-                            specialty stores!
+                            speciality stores!
                         </p>
                         <!-- TODO: Apps Popup -->
                         <!-- <a href="#" class="more hover">Learn More</a> -->
@@ -303,7 +303,7 @@
                 <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0 mb-2 text-white align-items-center">
                     <div class="col-lg-4">
                         <h3 class="display-4 text-white mb-3 pe-xxl-15">GoFeast Apps,</h3>
-                        <p class="lead fs-lg mb-0 pe-xxl-10">serving specialty meat consumers
+                        <p class="lead fs-lg mb-0 pe-xxl-10">serving speciality meat consumers
                             since 2019!
                         </p>
                     </div>
@@ -586,7 +586,7 @@
                     <div class="col-lg-11 col-xl-10 col-xxl-8 mx-auto">
                         <h2 class="fs-16 text-uppercase text-white mb-3">We provide same-day delivery.
                         </h2>
-                        <h3 class="display-4 mb-6 text-white px-lg-5 px-xxl-0">From your favorite local specialty stores
+                        <h3 class="display-4 mb-6 text-white px-lg-5 px-xxl-0">From your favorite local speciality stores
                             to your doorstep!
                         </h3>
                         <p>
@@ -735,7 +735,7 @@
                                         <ul>
                                             <li>Business operational since 2019</li>
                                             <li>2000+ stores, 13k+ orders processed</li>
-                                            <li>Pioneers in the specialty domain</li>
+                                            <li>Pioneers in the speciality domain</li>
                                         </ul>
                                     </div>
                                     <!--/.card-body -->
@@ -754,7 +754,7 @@
                                     data-bs-parent="#accordionExample">
                                     <div class="card-body">
                                         <ul>
-                                            <li>Digitalising the $1.8 trillion global specialty market</li>
+                                            <li>Digitalising the $1.8 trillion global speciality market</li>
                                             <li>Providing transparency and traceability for consumers</li>
                                             <li>Empowering stores at a fraction of the cost </li>
                                         </ul>
@@ -793,7 +793,7 @@
                     <div class="item">
                         <article>
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                <a href="https://news.bitcoin.com/gofeast-token-empowering-local-specialty-stores-using-blockchain/"
+                                <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
                                     target="_blank">
                                     <img src="{{asset('assets/img/photos/gofeast_images/mm-bitcoin.jpg')}}"
                                         alt="" loading="lazy">
@@ -805,7 +805,7 @@
                             <div class="post-header">
                                 <div class="post-category ">
                                     <figure class="rounded mb-2 w-20">
-                                        <a href="https://news.bitcoin.com/gofeast-token-empowering-local-specialty-stores-using-blockchain/"
+                                        <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
                                             target="_blank">
                                             <img src="{{asset('assets/img/photos/gofeast_images/bitcoin-logo.png')}}" alt="" loading="lazy">
                                         </a>
@@ -814,9 +814,9 @@
                                 <!-- /.post-category -->
                                 <h2 class="post-title h3 mt-1 mb-3">
                                     <a class="link-dark"
-                                        href="https://news.bitcoin.com/gofeast-token-empowering-local-specialty-stores-using-blockchain/"
+                                        href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
                                         target="_blank">
-                                        Empowering Local Specialty Stores Using
+                                        Empowering Local Speciality Stores Using
                                         Blockchain
                                     </a>
                                 </h2>
@@ -923,7 +923,7 @@
                     <div class="item">
                         <article>
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                <a href="https://www.startuptofollow.com/article/gofeast-specialty-meat-from-the-store-to-your-door"
+                                <a href="https://www.startuptofollow.com/article/gofeast-speciality-meat-from-the-store-to-your-door"
                                     target="_blank">
                                     <img src="{{asset('assets/img/photos/gofeast_images/mm-bucket.jpg')}}"
                                         alt="" loading="lazy">
@@ -935,7 +935,7 @@
                             <div class="post-header">
                                 <div class="post-category ">
                                     <figure class="rounded mb-2 w-20">
-                                        <a href="https://www.startuptofollow.com/article/gofeast-specialty-meat-from-the-store-to-your-door"
+                                        <a href="https://www.startuptofollow.com/article/gofeast-speciality-meat-from-the-store-to-your-door"
                                             target="_blank">
                                             <img src="{{asset('assets/img/photos/gofeast_images/startuptofollow.png')}}" alt="" loading="lazy">
                                         </a>
@@ -944,9 +944,9 @@
                                 <!-- /.post-category -->
                                 <h2 class="post-title h3 mt-1 mb-3">
                                     <a class="link-dark"
-                                        href="https://www.startuptofollow.com/article/gofeast-specialty-meat-from-the-store-to-your-door"
+                                        href="https://www.startuptofollow.com/article/gofeast-speciality-meat-from-the-store-to-your-door"
                                         target="_blank">
-                                        GoFeast, specialty meat from the store to your door
+                                        GoFeast, speciality meat from the store to your door
                                     </a>
                                 </h2>
                             </div>

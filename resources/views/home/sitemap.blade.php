@@ -8,752 +8,752 @@
 
 
 <url>
-  <loc>https://gofeast.pk/</loc>
+  <loc>https://gofeast.io/</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants</loc>
+  <loc>https://gofeast.io/restaurants</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/delivery</loc>
+  <loc>https://gofeast.io/delivery</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/pickup</loc>
+  <loc>https://gofeast.io/pickup</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/home-chef</loc>
+  <loc>https://gofeast.io/home-chef</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/blog</loc>
+  <loc>https://gofeast.io/blog</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/article</loc>
+  <loc>https://gofeast.io/article</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/go-partner</loc>
+  <loc>https://gofeast.io/go-partner</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/go-driver</loc>
+  <loc>https://gofeast.io/go-driver</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/faqs</loc>
+  <loc>https://gofeast.io/faqs</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/contact-us</loc>
+  <loc>https://gofeast.io/contact-us</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/about-us</loc>
+  <loc>https://gofeast.io/about-us</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/privacy-policy</loc>
+  <loc>https://gofeast.io/privacy-policy</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/terms-and-conditions</loc>
+  <loc>https://gofeast.io/terms-and-conditions</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/refund-policy</loc>
+  <loc>https://gofeast.io/refund-policy</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/sultan-shawarma-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/sultan-shawarma-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/biryani-express-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/biryani-express-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/the-house-of-pizza-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/the-house-of-pizza-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/haji-baba-tikka-shop-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/haji-baba-tikka-shop-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/hifny-tifny-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/hifny-tifny-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants?page=2</loc>
+  <loc>https://gofeast.io/restaurants?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants?page=5</loc>
+  <loc>https://gofeast.io/restaurants?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/pickup?page=2</loc>
+  <loc>https://gofeast.io/pickup?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/pickup?page=4</loc>
+  <loc>https://gofeast.io/pickup?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=9</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=9</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/sultan-shawarma-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/sultan-shawarma-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/the-house-of-pizza-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/the-house-of-pizza-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/hifny-tifny-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/hifny-tifny-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wakhra-sayapa-menu-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/wakhra-sayapa-menu-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants?page=1</loc>
+  <loc>https://gofeast.io/restaurants?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants?page=3</loc>
+  <loc>https://gofeast.io/restaurants?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants?page=4</loc>
+  <loc>https://gofeast.io/restaurants?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=14</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=14</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/pickup?page=1</loc>
+  <loc>https://gofeast.io/pickup?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/pickup?page=3</loc>
+  <loc>https://gofeast.io/pickup?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/maatoo-rice-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/maatoo-rice-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ar-chicken-broast-menu-bahria</loc>
+  <loc>https://gofeast.io/restaurants/ar-chicken-broast-menu-bahria</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/burger-lab-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/burger-lab-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/pizza-steak-menu-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/pizza-steak-menu-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ahmed-delight-homemade-food-near-bahria</loc>
+  <loc>https://gofeast.io/restaurants/ahmed-delight-homemade-food-near-bahria</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/homemade-happiness-menu-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/homemade-happiness-menu-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/roll-bar-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/roll-bar-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=8</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=8</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/sultan-shawarma-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/sultan-shawarma-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/the-house-of-pizza-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/the-house-of-pizza-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/hifny-tifny-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/hifny-tifny-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town?page=5</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town?page=5</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wakhra-sayapa-menu-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/wakhra-sayapa-menu-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wakhra-sayapa-menu-bahria-town?page=3</loc>
+  <loc>https://gofeast.io/restaurants/wakhra-sayapa-menu-bahria-town?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/quetta-mehfil-chai-khana-bahria-town</loc>
+  <loc>https://gofeast.io/restaurants/quetta-mehfil-chai-khana-bahria-town</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/pazookie-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/pazookie-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/taste&amp;health-homemade-food-near-bahria</loc>
+  <loc>https://gofeast.io/restaurants/taste&amp;health-homemade-food-near-bahria</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/snack-attack-ep-1.0-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/snack-attack-ep-1.0-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/second-cup-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/second-cup-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=13</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=13</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=8</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=8</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/maatoo-rice-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/maatoo-rice-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/maatoo-rice-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/maatoo-rice-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ar-chicken-broast-menu-bahria?page=2</loc>
+  <loc>https://gofeast.io/restaurants/ar-chicken-broast-menu-bahria?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ar-chicken-broast-menu-bahria?page=3</loc>
+  <loc>https://gofeast.io/restaurants/ar-chicken-broast-menu-bahria?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/burger-lab-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/burger-lab-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ahmed-delight-homemade-food-near-bahria?page=2</loc>
+  <loc>https://gofeast.io/restaurants/ahmed-delight-homemade-food-near-bahria?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ahmed-delight-homemade-food-near-bahria?page=3</loc>
+  <loc>https://gofeast.io/restaurants/ahmed-delight-homemade-food-near-bahria?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/homemade-happiness-menu-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/homemade-happiness-menu-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/homemade-happiness-menu-bahria-town?page=3</loc>
+  <loc>https://gofeast.io/restaurants/homemade-happiness-menu-bahria-town?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/roll-bar-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/roll-bar-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/roll-bar-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/roll-bar-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=7</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=7</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town?page=3</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wido-waffles-bahria-town?page=4</loc>
+  <loc>https://gofeast.io/restaurants/wido-waffles-bahria-town?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/bunty-sajji-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/bunty-sajji-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town?page=3</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karnivora-steakhouse-menu-bahria-town?page=4</loc>
+  <loc>https://gofeast.io/restaurants/karnivora-steakhouse-menu-bahria-town?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/wakhra-sayapa-menu-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/wakhra-sayapa-menu-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/quetta-mehfil-chai-khana-bahria-town?page=2</loc>
+  <loc>https://gofeast.io/restaurants/quetta-mehfil-chai-khana-bahria-town?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/quetta-mehfil-chai-khana-bahria-town?page=3</loc>
+  <loc>https://gofeast.io/restaurants/quetta-mehfil-chai-khana-bahria-town?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/pazookie-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/pazookie-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/pazookie-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/pazookie-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/taste&amp;health-homemade-food-near-bahria?page=2</loc>
+  <loc>https://gofeast.io/restaurants/taste&amp;health-homemade-food-near-bahria?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/taste&amp;health-homemade-food-near-bahria?page=3</loc>
+  <loc>https://gofeast.io/restaurants/taste&amp;health-homemade-food-near-bahria?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore?page=2</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore?page=2</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=12</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=12</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=7</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=7</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/maatoo-rice-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/maatoo-rice-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ar-chicken-broast-menu-bahria?page=1</loc>
+  <loc>https://gofeast.io/restaurants/ar-chicken-broast-menu-bahria?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/burger-lab-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/burger-lab-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/ahmed-delight-homemade-food-near-bahria?page=1</loc>
+  <loc>https://gofeast.io/restaurants/ahmed-delight-homemade-food-near-bahria?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/homemade-happiness-menu-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/homemade-happiness-menu-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/roll-bar-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/roll-bar-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/roll-bar-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/roll-bar-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/malik-spicy-bahria-town-lahore?page=6</loc>
+  <loc>https://gofeast.io/restaurants/malik-spicy-bahria-town-lahore?page=6</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/monaco-bay-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/monaco-bay-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/quetta-mehfil-chai-khana-bahria-town?page=1</loc>
+  <loc>https://gofeast.io/restaurants/quetta-mehfil-chai-khana-bahria-town?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/pazookie-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/pazookie-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/taste&amp;health-homemade-food-near-bahria?page=1</loc>
+  <loc>https://gofeast.io/restaurants/taste&amp;health-homemade-food-near-bahria?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/snack-attack-ep-1.0-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore?page=1</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore?page=1</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore?page=3</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore?page=3</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/do-chia-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/do-chia-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=11</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=11</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=4</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=4</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=6</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=6</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=6</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=6</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=10</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=10</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/gloria-jeans-bahria-town-lahore?page=5</loc>
+  <loc>https://gofeast.io/restaurants/gloria-jeans-bahria-town-lahore?page=5</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=7</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=7</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=9</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=9</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://gofeast.pk/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=8</loc>
+  <loc>https://gofeast.io/restaurants/karachi-hot-n-spicy-bahria-town-lahore?page=8</loc>
   <lastmod>2024-10-02T15:01:21+00:00</lastmod>
   <priority>0.13</priority>
 </url>

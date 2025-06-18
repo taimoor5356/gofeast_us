@@ -34,7 +34,7 @@
                                         </p>
 
                                         <p style="text-align:justify;">
-                                            By accessing and/or using the Sites, you agree to all the terms and conditions of this Privacy Policy and our <a href="./terms-and-conditions">Terms of Use</a>, available at https://gofeast.pk/content/terms-of-use. If you do not agree to all the terms and conditions of this Privacy Policy, do not use the Sites.
+                                            By accessing and/or using the Sites, you agree to all the terms and conditions of this Privacy Policy and our <a href="./terms-and-conditions">Terms of Use</a>, available at https://gofeast.io/content/terms-of-use. If you do not agree to all the terms and conditions of this Privacy Policy, do not use the Sites.
                                         </p>
                                         <p>1. What Types of Information Do We and Our Third Party Service Providers Collect from You and in What Circumstances Do We Collect It?
 
@@ -158,7 +158,7 @@
 
                                             11. Note Regarding the Use of the Sites by Children.
 
-                                            Under no circumstances are the Sites directed to and/or intended for use by individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from children under age 13. If you believe that we might have any information from a child under 13, please contact us at info@gofeast.pk so that we may delete it as soon as possible.
+                                            Under no circumstances are the Sites directed to and/or intended for use by individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from children under age 13. If you believe that we might have any information from a child under 13, please contact us at info@gofeast.io so that we may delete it as soon as possible.
 
                                             12. Disclaimer.
 
@@ -170,7 +170,7 @@
 
                                             15. Contacting Us.
 
-                                            If you have any questions regarding this Privacy Policy, please contact us by email at info@gofeast.pk.
+                                            If you have any questions regarding this Privacy Policy, please contact us by email at info@gofeast.io.
                                             <p />
 
                                         <h4 class="h4 mb-4">GoFeast,
