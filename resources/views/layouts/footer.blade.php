@@ -4,8 +4,7 @@
                 <div class="col-md-4 col-lg-3">
                     <div class="widget">
                         <a href="./">
-                        <img class="mb-4" src="{{asset('assets/img/logo-white.png')}}" height="70px" width="150px" srcset="./assets/img/logo-white.png 2x"
-                            alt="" />
+                        <img src="{{asset('assets/img/logo.png')}}" height="70px" width="150px" srcset="{{asset('assets/img/logo.png')}} 2x" alt="" />
                             </a>
                         <p class="mb-4">© 2025 GoMeat Services Inc. <br class="d-none d-lg-block" />All rights reserved.</p>
                         <nav class="nav social ">

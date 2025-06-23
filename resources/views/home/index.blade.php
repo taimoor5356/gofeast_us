@@ -274,7 +274,7 @@
                         <!-- TODO: Apps Popup -->
                         <!-- <a href="#" class="more hover">Learn More</a> -->
                         <!-- <div class="d-flex flex-row align-items-center me-6 ms-auto "> -->
-                        <a href="https://play.google.com/store/apps/details?id=com.gofeast.app" target="_blank"
+                        <a href="https://play.google.com/store/apps/details?id=com.gomeat.app&pli=1" target="_blank"
                             class="hover text-primary me-2 fs-28"><i class="uil uil-android"></i></a>
                         <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank"
                             class="hover text-primary fs-28"><i class="uil uil-apple"></i></a>

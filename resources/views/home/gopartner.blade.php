@@ -299,7 +299,7 @@
 
                         </div>
                         <div>
-                            <a href="#"
+                            <a href="https://play.google.com/store/apps/details?id=com.gomeat.partners"
                                 target="_blank" class="btn btn-primary mt-3 ">Sign Up Now</a>
                         </div>
                     </div>
