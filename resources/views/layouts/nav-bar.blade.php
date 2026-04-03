@@ -17,7 +17,7 @@
                 // Get the current file name
                 $current_page = basename($_SERVER['REQUEST_URI']);
                 ?>
-                <li class="nav-item"><a class="nav-link <?php echo ($current_page == '/' || $current_page == 'pak' || $current_page == '') ? 'active' : ''; ?>" href="{{route('home')}}">Home</a>
+                <li class="nav-item"><a class="nav-link <?php echo ($current_page == '/' || $current_page == 'pak' || $current_page == '') ? 'active' : ''; ?>" href="{{route('home')}}">Home.</a>
                 </li>
                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle <?php echo ($current_page == 'restaurants' || $current_page == 'delivery' || $current_page == 'pickup') ? 'active' : ''; ?>" href="#!">Restaurants</a>
                     <ul class="dropdown-menu">
