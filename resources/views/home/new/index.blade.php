@@ -602,6 +602,17 @@
 <!-- Buy GOMT Token Start -->
 <div class="what-we-do">
     <div class="container">
+        <div class="row section-row">
+            <div class="col-lg-12">
+                <!-- Section Title Start -->
+                <div class="section-title section-title-center">
+                    <h3 class="wow fadeInUp">Media Mention</h3>
+                    <p class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Trusted by global media and industry leaders, we continue to push boundaries and redefine what's possible. 
+                    See how <span>our vision is making headlines.</span></p>
+                </div>
+                <!-- Section Title End -->
+            </div>
+        </div>
         <div class="row align-items-center">
             <div class="col-lg-12">
                 <div class="swiper blogSwiper">
