@@ -791,7 +791,7 @@ function tln_fixstyle($body, $pos, $trans_image_path, $block_external_images)
 function tln_body2div($attary, $trans_image_path)
 {
     $divattary = array('class' => "'bodyclass'");
-    $text = '#000000';
+    $text = '#060606000';
     $has_bgc_stl = $has_txt_stl = false;
     $styledef = '';
     if (is_array($attary) && sizeof($attary) > 0){

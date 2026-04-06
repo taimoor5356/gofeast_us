@@ -1830,7 +1830,7 @@
       if (url.match(/\.(mp4|ogg|webm|mov)$/) !== null) {
         videoSource = 'local';
         var html = '<video id="' + videoID + '" ';
-        html += "style=\"background:#000; max-width: ".concat(data.width, ";\" ");
+        html += "style=\"background:#060606; max-width: ".concat(data.width, ";\" ");
         html += 'preload="metadata" ';
         html += 'poster="' + data.poster + '" ';
         html += 'x-webkit-airplay="allow" ';

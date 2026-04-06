@@ -130,7 +130,7 @@
 }
 
 .cb-cursor.-text:before {
-	background: #000;
+	background: #060606;
 	opacity: 0.80;
 	backdrop-filter: blur(10);
 	-webkit-transform: scale(1.7);
@@ -264,7 +264,7 @@
 	flex: 1;
 	padding: 50px 30px;
 	margin: 0 20px;
-	color: #000;
+	color: #060606;
 }
 
 @media (min-width: 1600px) {

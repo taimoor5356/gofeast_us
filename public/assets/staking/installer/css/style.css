@@ -2466,7 +2466,7 @@ h1 {
 
 mark {
   background: #ff0;
-  color: #000; }
+  color: #060606; }
 
 small {
   font-size: 80%;
@@ -3270,7 +3270,7 @@ input[type=text] {
 .has-error {
   color: #ff0000; }
   .has-error input {
-    color: #000000;
+    color: #060606000;
     border: 1px solid red; }
 
 .sr-only {

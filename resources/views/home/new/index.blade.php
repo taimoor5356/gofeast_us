@@ -472,7 +472,7 @@
                     </h3>
                     
                     <div class="what-we-img wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="{{asset('assets/img/photos/gofeast_images/gomtbuy.png')}}" alt="">
+                        <img src="{{asset('assets/img/photos/gofeast_images/TokenIconsWhite.png')}}" alt="">
                     </div>
                     
                     <p class="wow fadeInUp mt-2" data-wow-delay="0.4s">
@@ -632,7 +632,7 @@
                                                 <h5 class="from-top mb-0">Read More</h5>
                                             </figcaption>
                                         </figure>
-                                        <div class="post-header">
+                                        {{--<div class="post-header">
                                             <div class="post-category ">
                                                 <figure class="rounded mb-2 w-20">
                                                     <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
@@ -650,7 +650,7 @@
                                                     Blockchain
                                                 </a>
                                             </h2>
-                                        </div>
+                                        </div>--}}
                                         <!-- /.post-header -->
                                         <div class="post-footer">
                                             <ul class="post-meta">
@@ -680,7 +680,7 @@
                                                 <h5 class="from-top mb-0">Read More</h5>
                                             </figcaption>
                                         </figure>
-                                        <div class="post-header">
+                                        {{--<div class="post-header">
                                             <div class="post-category ">
                                                 <figure class="rounded mb-2 w-20">
                                                     <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
@@ -698,7 +698,7 @@
                                                     GOMT Token Lists on Hydra DEX After a Sold Out ICO
                                                 </a>
                                             </h2>
-                                        </div>
+                                        </div>--}}
                                         <!-- /.post-header -->
                                         <div class="post-footer">
                                             <ul class="post-meta">
@@ -725,7 +725,35 @@
                                         <figcaption><h5>Read More</h5></figcaption>
                                     </figure>
                                     <h2 class="post-title">GoFeast: A Necessity in Modern Times</h2>
-                                    <span>1 Sep 2021</span>
+                                        {{--<div class="post-header">
+                                            <div class="post-category ">
+                                                <figure class="rounded mb-2 w-20">
+                                                    <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
+                                                        target="_blank">
+                                                        <img src="{{asset('assets/img/photos/gofeast_images/yahoo-logo.png')}}"
+                                                            alt="" loading="lazy">
+                                                    </a>
+                                                </figure>
+                                            </div>
+                                            <!-- /.post-category -->
+                                            <h2 class="post-title h3 mt-1 mb-3">
+                                                <a class="link-dark"
+                                                    href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
+                                                    target="_blank">
+                                                    GOMT Token Lists on Hydra DEX After a Sold Out ICO
+                                                </a>
+                                            </h2>
+                                        </div>--}}
+                                        <!-- /.post-header -->
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
+                                        <!-- /.post-footer -->
                                 </article>
                             </div>
                         </div>
@@ -739,7 +767,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GoFeast, speciality meat from the store to your door</h2>
-                                    <span>26 Jan 2022</span>
+                                    <div class="post-footer">
+                                        <ul class="post-meta">
+                                            <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                    2022</span>
+                                            </li>
+                                        </ul>
+                                        <!-- /.post-meta -->
+                                    </div>
                                 </article>
                             </div>
                         </div>
@@ -753,7 +788,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Revolutionary Platform That Will Change The Meat Industry</h2>
-                                    <span>8 Sep 2021</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -767,7 +809,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Crypto Breakthroughs in Food Industry</h2>
-                                    <span>1 Sep 2021</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -781,7 +830,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GOMT Token Launches Affiliate Program</h2>
-                                    <span>3 Sep 2021</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -795,7 +851,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Fremtidens supply chain modeller</h2>
-                                    <span>3 Sep 2021</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -809,7 +872,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GoFeast Launches Affiliate Program</h2>
-                                    <span>23 Sep 2021</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -823,7 +893,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Token Lists on Hydra DEX</h2>
-                                    <span>31 Jan 2022</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -837,7 +914,14 @@
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Hydra DEX ICO Listing</h2>
-                                    <span>31 Jan 2022</span>
+                                        <div class="post-footer">
+                                            <ul class="post-meta">
+                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
+                                                        2022</span>
+                                                </li>
+                                            </ul>
+                                            <!-- /.post-meta -->
+                                        </div>
                                 </article>
                             </div>
                         </div>

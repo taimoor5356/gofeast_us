@@ -2376,7 +2376,7 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination {
 }
 
 .btn-secondary-alt {
-	color: #000;
+	color: #060606;
 	background: #a58585;
 	border-color: #a58585
 }
@@ -4736,7 +4736,7 @@ textarea {
 }
 
 .alert-secondary {
-	color: #000;
+	color: #060606;
 	background: #a58585
 }
 
@@ -4749,7 +4749,7 @@ textarea {
 }
 
 .alert-secondary-alt .close {
-	background: #000
+	background: #060606
 }
 
 .alert-success {
@@ -9898,7 +9898,7 @@ textarea {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #000;
+	background: #060606;
 	content: '';
 	opacity: .4;
 	transition: all .4s
@@ -16366,8 +16366,8 @@ p+.timeline-content-info {
 .btn-secondary:not(:disabled):not(.disabled).active,
 .btn-secondary:not(:disabled):not(.disabled):active,
 .show>.btn-secondary.dropdown-toggle {
-	background-color: #000;
-	border-color: #000
+	background-color: #060606;
+	border-color: #060606
 }
 
 .btn-warning:not(:disabled):not(.disabled).active,

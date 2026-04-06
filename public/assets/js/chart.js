@@ -34,7 +34,7 @@ NioApp = (function (NioApp, $, window) {
                             display: false,
                             labels: {
                                 boxWidth: 10,
-                                fontColor: '#000'
+                                fontColor: '#060606'
                             }
                         },
                         rotation: -2,
@@ -96,7 +96,7 @@ NioApp = (function (NioApp, $, window) {
                             display: false,
                             labels: {
                                 boxWidth: 10,
-                                fontColor: '#000'
+                                fontColor: '#060606'
                             }
                         },
                         rotation: -2,

@@ -49,8 +49,8 @@
 	--secondary-color			: #0A0A0A;
 	--text-color				: #A7AABB;
 	--bg-color					: #060606;
-	--accent-color				: #c02a34;
-	--accent-secondary-color	: #15509a;
+	--accent-color				: #b4333d;
+	--accent-secondary-color	: #a81924;
 	--divider-color				: #FFFFFF0F;
 	--dark-divider-color		: #FFFFFF33;
 	--error-color				: rgb(230, 87, 87);
@@ -778,7 +778,7 @@ header.main-header .header-sticky.active{
 }
 
 .hero::before{
-    content: '';
+    /* content: '';
     display: block;
     position: absolute;
     left: 160px;
@@ -790,7 +790,7 @@ header.main-header .header-sticky.active{
     height: 110px;
     animation: shape1 20s infinite linear;
     animation-direction: alternate;
-    z-index: 0;
+    z-index: 0; */
 }
 
 @keyframes shape1{
@@ -803,7 +803,7 @@ header.main-header .header-sticky.active{
 }
 
 .hero::after{
-    content: '';
+    /* content: '';
     display: block;
     position: absolute;
     right: 220px;
@@ -815,7 +815,7 @@ header.main-header .header-sticky.active{
     height: 110px;
     animation: shape1 20s infinite linear;
     animation-direction: alternate;
-    z-index: 0;
+    z-index: 0; */
 }
 
 .hero.hero-bg-image{
@@ -871,7 +871,7 @@ header.main-header .header-sticky.active{
 }
 
 .hero-content::before{
-    content: '';
+    /* content: '';
     display: block;
     position: absolute;
     left: -28%;
@@ -883,7 +883,7 @@ header.main-header .header-sticky.active{
     height: 85px;
     animation: shape2 20s infinite linear;
     animation-direction: alternate;
-    z-index: 0;
+    z-index: 0; */
 }
 
 @keyframes shape2{
@@ -896,7 +896,7 @@ header.main-header .header-sticky.active{
 }
 
 .hero-content::after{
-    content: '';
+    /* content: '';
     display: block;
     position: absolute;
     right: -28%;
@@ -908,7 +908,7 @@ header.main-header .header-sticky.active{
     height: 126px;
     animation: shape2 20s infinite linear;
     animation-direction: alternate;
-    z-index: 0;
+    z-index: 0; */
 }
 
 .hero-content .section-title{

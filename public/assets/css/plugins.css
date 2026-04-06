@@ -4805,12 +4805,12 @@ print {
   position: fixed;
   top: -1px;
   left: 0;
-  background: #000;
+  background: #060606;
   will-change: opacity
 }
 
 .glightbox-mobile .goverlay {
-  background: #000
+  background: #060606
 }
 
 .gclose,
@@ -5325,7 +5325,7 @@ iframe.wait-autoplay {
 }
 @media screen and (max-height:420px) {
   .goverlay {
-    background: #000
+    background: #060606
   }
 }
 /*!
@@ -5633,7 +5633,7 @@ iframe.wait-autoplay {
 .owl-carousel .owl-video-wrapper {
   position: relative;
   height: 100%;
-  background: #000
+  background: #060606
 }
 
 .owl-carousel .owl-video-play-icon {
@@ -6368,8 +6368,8 @@ a.plyr__control::before {
 }
 
 .plyr__poster {
-  background-color: #000;
-  background-color: var(--plyr-video-background, var(--plyr-video-background, #000));
+  background-color: #060606;
+  background-color: var(--plyr-video-background, var(--plyr-video-background, #060606));
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -6676,8 +6676,8 @@ a.plyr__control::before {
 }
 
 .plyr--video {
-  background: #000;
-  background: var(--plyr-video-background, var(--plyr-video-background, #000));
+  background: #060606;
+  background: var(--plyr-video-background, var(--plyr-video-background, #060606));
   overflow: hidden
 }
 
@@ -6686,8 +6686,8 @@ a.plyr__control::before {
 }
 
 .plyr__video-wrapper {
-  background: #000;
-  background: var(--plyr-video-background, var(--plyr-video-background, #000));
+  background: #060606;
+  background: var(--plyr-video-background, var(--plyr-video-background, #060606));
   height: 100%;
   margin: auto;
   overflow: hidden;
@@ -6832,7 +6832,7 @@ a.plyr__control::before {
 }
 
 .plyr:-webkit-full-screen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -6840,7 +6840,7 @@ a.plyr__control::before {
 }
 
 .plyr:-ms-fullscreen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -6848,7 +6848,7 @@ a.plyr__control::before {
 }
 
 .plyr:fullscreen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -6951,7 +6951,7 @@ a.plyr__control::before {
 }
 
 .plyr:-webkit-full-screen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -6992,7 +6992,7 @@ a.plyr__control::before {
 }
 
 .plyr:-moz-full-screen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -7033,7 +7033,7 @@ a.plyr__control::before {
 }
 
 .plyr:-ms-fullscreen {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
@@ -7074,7 +7074,7 @@ a.plyr__control::before {
 }
 
 .plyr--fullscreen-fallback {
-  background: #000;
+  background: #060606;
   border-radius: 0 !important;
   height: 100%;
   margin: 0;
