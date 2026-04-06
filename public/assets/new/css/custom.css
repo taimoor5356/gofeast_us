@@ -773,7 +773,7 @@ header.main-header .header-sticky.active{
     background: url('../images/hero-bg-shape.png') no-repeat;
     background-position: top center;
     background-size: auto;
-	padding: 340px 0 80px;
+	padding: 290px 0 80px;
 	z-index: 1;
 }
 
@@ -2146,7 +2146,7 @@ header.main-header .header-sticky.active{
     border-top: 1px solid var(--divider-color);
     text-align: center;
     margin-top: 80px;
-    padding: 60px 0;
+    padding: 30px 0;
 }
 
 .footer-copyright-text p{
