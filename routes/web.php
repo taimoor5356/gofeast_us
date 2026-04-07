@@ -24,6 +24,8 @@ use Illuminate\Support\Facades\Route;
 // NEW //
 Route::group(['prefix' => 'new'], function(){
     Route::get('/', [NewHomeController::class, 'index'])->name('new.home');
+    Route::get('/go-driver', [NewHomeController::class, 'godriver'])->name('godriver');
+    Route::get('/go-partner', [NewHomeController::class, 'gopartner'])->name('gopartner');
 });
 // NEW //
 
