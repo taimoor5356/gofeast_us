@@ -158,7 +158,21 @@
 
         <div class="row">
             <div class="col-lg-3 col-md-6">
-                <!-- Project Item Start -->
+                <div class="about-us-box">
+                    <div class="about-us-item">
+                        <div class="about-item-content">
+                            <h3>Seamless Integration</h3>
+                            <div class="about-item-image">
+                                <img src="{{asset('assets/img/photos/gofeast_images/store.png')}}" alt="">
+                            </div>
+                        </div>
+                        <div class="icon-box">
+                            <img src="{{ asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
@@ -177,7 +191,6 @@
                         </a>
                     </div>
                 </div>
-                <!-- Project Item End -->
             </div>
 
             <div class="col-lg-3 col-md-6">
