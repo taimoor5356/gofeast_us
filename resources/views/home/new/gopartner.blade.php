@@ -2,7 +2,7 @@
 @section('styles')
     <style>
         .first-section {
-            padding: 180px 0px;
+            padding: 220px 0px;
         }
         .approach-item .icon-box img{
             max-width: 75px !important;
@@ -664,7 +664,7 @@
                         <!-- How Work Steps Start -->
                         <div class="how-work-steps">
                             <!-- How Work Item Start -->
-                            <div class="how-work-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="how-work-item wow fadeInUp mb-2 p-3" data-wow-delay="0.4s">
                                 <div class="how-work-header">
                                     <h5 class="icon-box fw-bold">
                                         1
@@ -681,7 +681,7 @@
                             <!-- How Work Item End -->
 
                             <!-- How Work Item Start -->
-                            <div class="how-work-item wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="how-work-item wow fadeInUp mb-2 p-3" data-wow-delay="0.6s">
                                 <div class="how-work-header">
                                     <h5 class="icon-box fw-bold">
                                         2
@@ -698,7 +698,7 @@
                             <!-- How Work Item End -->
 
                             <!-- How Work Item Start -->
-                            <div class="how-work-item wow fadeInUp" data-wow-delay="0.8s">
+                            <div class="how-work-item wow fadeInUp mb-2 p-3" data-wow-delay="0.8s">
                                 <div class="how-work-header">
                                     <h5 class="icon-box fw-bold">
                                         3
@@ -715,7 +715,7 @@
                             <!-- How Work Item End -->
 
                             <!-- How Work Item Start -->
-                            <div class="how-work-item wow fadeInUp" data-wow-delay="1s">
+                            <div class="how-work-item wow fadeInUp mb-2 p-3" data-wow-delay="1s">
                                 <div class="how-work-header">
                                     <h5 class="icon-box fw-bold">
                                         4
@@ -753,7 +753,6 @@
                     <!-- Section Title End -->
                 </div>         
             </div>
-
             <div class="row">
                 <div class="col-lg-12">
                     <!-- Contact Us Form Start -->
@@ -798,347 +797,96 @@
     <!-- Page Contact Us End -->
 
     <!-- Page Faqs Start -->
-    <div class="page-faqs">
+    <div class="page-faqs pt-0">
         <div class="container">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">FAQs</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Frequently Asked <span>Questions</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>         
+            </div>
             <div class="row">
                 <div class="col-lg-12">
                     <!-- Page FAQs Catagery Start -->
                     <div class="page-faqs-catagery">
                         <!-- FAQs section start -->
                         <div class="page-single-faqs page-faq-accordion" id="faq_1">
-                            <div class="section-title">
-                                <h2 class="wow fadeInUp" data-cursor="-opaque">FAQ'<span>s</span></h2>
-                            </div>
                             <!-- FAQ Accordion Start -->
                             <div class="faq-accordion" id="accordion">
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="0.2s">
                                     <h2 class="accordion-header" id="heading1">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                            1. What types of AI solutions do you offer?
+                                            How do i become a GoPartner?
                                         </button>
                                     </h2>
                                     <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#accordion">
                                         <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
+                                            <p>Once you have completed the sign up process, you can become a partner within a few days depending on the number of locations you have and how extensive your menu is.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- FAQ Item End -->
 
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="0.4s">
                                     <h2 class="accordion-header" id="heading2">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                            2. How can AI solutions benefit my business?
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                            What will it cost me?
                                         </button>
                                     </h2>
-                                    <div id="collapse2" class="accordion-collapse collapse show" aria-labelledby="heading2" data-bs-parent="#accordion">
+                                    <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
                                         <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
+                                            <p>There are no charges to become a partner, GoFeast charges nominal commission from each order placed through GoFeast platform.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- FAQ Item End -->
 
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="0.6s">
                                     <h2 class="accordion-header" id="heading3">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                            3. Are your AI solutions customizable to specific business needs?
+                                            Who will handle the deliveries?
                                         </button>
                                     </h2>
                                     <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
                                         <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
+                                            <p>Once you have marked an order “ready for delivery”, our driver will come and pick it up. GoFeast has independent drivers that handle delivery so you do not need to hire drivers.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- FAQ Item End -->
 
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="0.8s">
                                     <h2 class="accordion-header" id="heading4">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                            4. How long does it take to implement an AI solution?
+                                            What is the GoFeast delivery radius?
                                         </button>
                                     </h2>
                                     <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
                                         <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
+                                            <p>Our delivery radius depends on the city and store. On average we deliver up to 0-20 miles from your store.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- FAQ Item End -->
 
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="1s">
+                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="1s">
                                     <h2 class="accordion-header" id="heading5">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                            5. Is technical expertise required to manage your AI solutions?
+                                            What items do GoPartners receive?
                                         </button>
                                     </h2>
                                     <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordion">
                                         <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-                            </div>
-                            <!-- FAQ Accordion End -->
-                        </div>
-                        <!-- FAQs section End -->
-
-                        <!-- FAQs section start -->
-                        <div class="page-single-faqs page-faq-accordion" id="faq_2">
-                            <div class="section-title">
-                                <h2 class="wow fadeInUp" data-cursor="-opaque">Integration & <span>deployment</span></h2>
-                            </div>
-                            <!-- FAQ Accordion Start -->
-                            <div class="faq-accordion" id="accordion1">
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                    <h2 class="accordion-header" id="heading6">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-                                            1. What is the process for integrating AI solutions into existing systems?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse6" class="accordion-collapse collapse show" aria-labelledby="heading6" data-bs-parent="#accordion1">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                    <h2 class="accordion-header" id="heading7">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                                            2. How long does the deployment of an AI solution typically take?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-bs-parent="#accordion1">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                    <h2 class="accordion-header" id="heading8">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                                            3. Will there be any downtime during integration and deployment?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#accordion1">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                                    <h2 class="accordion-header" id="heading9">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
-                                            4. Can your AI solutions scale as our business grows?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-bs-parent="#accordion1">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="1s">
-                                    <h2 class="accordion-header" id="heading10">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            5. Do you provide support after integration and deployment?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse10" class="accordion-collapse collapse show" aria-labelledby="heading10" data-bs-parent="#accordion1">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-                            </div>
-                            <!-- FAQ Accordion End -->
-                        </div>
-                        <!-- FAQs section End -->
-
-                        <!-- FAQs section start -->
-                        <div class="page-single-faqs page-faq-accordion" id="faq_3">
-                            <div class="section-title">
-                                <h2 class="wow fadeInUp" data-cursor="-opaque">Technical <span>support</span></h2>
-                            </div>
-                            <!-- FAQ Accordion Start -->
-                            <div class="faq-accordion" id="accordion2">
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                    <h2 class="accordion-header" id="heading11">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="true" aria-controls="collapse11">
-                                            1. What kind of technical support do you offer for AI solutions?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11" data-bs-parent="#accordion2">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                    <h2 class="accordion-header" id="heading12">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            2. How quickly can I expect a response to a technical issue?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordion2">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                    <h2 class="accordion-header" id="heading13">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            3. Do you offer remote assistance for technical problems?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordion2">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                                    <h2 class="accordion-header" id="heading14">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            4. What happens if an AI system update causes a technical problem?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse14" class="accordion-collapse collapse show" aria-labelledby="heading14" data-bs-parent="#accordion2">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="1s">
-                                    <h2 class="accordion-header" id="heading15">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                            5. Is there a dedicated account manager or support specialist assigned?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse15" class="accordion-collapse collapse" aria-labelledby="heading15" data-bs-parent="#accordion2">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-                            </div>
-                            <!-- FAQ Accordion End -->
-                        </div>
-                        <!-- FAQs section End -->
-
-                        <!-- FAQs section start -->
-                        <div class="page-single-faqs page-faq-accordion" id="faq_4">
-                            <div class="section-title">
-                                <h2 class="wow fadeInUp" data-cursor="-opaque">Pricing & <span>plans</span></h2>
-                            </div>
-                            <!-- FAQ Accordion Start -->
-                            <div class="faq-accordion" id="accordion3">
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                    <h2 class="accordion-header" id="heading16">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
-                                            1. What is the process for integrating AI solutions into existing systems?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse16" class="accordion-collapse collapse" aria-labelledby="heading16" data-bs-parent="#accordion3">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                    <h2 class="accordion-header" id="heading17">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse17" aria-expanded="false" aria-controls="collapse17">
-                                            2. How long does the deployment of an AI solution typically take?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse17" class="accordion-collapse collapse" aria-labelledby="heading17" data-bs-parent="#accordion3">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                    <h2 class="accordion-header" id="heading18">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
-                                            3. Will there be any downtime during integration and deployment?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse18" class="accordion-collapse collapse" aria-labelledby="heading18" data-bs-parent="#accordion3">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                                    <h2 class="accordion-header" id="heading19">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse19" aria-expanded="false" aria-controls="collapse19">
-                                            4. Can your AI solutions scale as our business grows?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse19" class="accordion-collapse collapse" aria-labelledby="heading19" data-bs-parent="#accordion3">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- FAQ Item End -->
-
-                                <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp" data-wow-delay="1s">
-                                    <h2 class="accordion-header" id="heading20">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
-                                            5. Do you provide support after integration and deployment?
-                                        </button>
-                                    </h2>
-                                    <div id="collapse20" class="accordion-collapse collapse" aria-labelledby="heading20" data-bs-parent="#accordion3">
-                                        <div class="accordion-body">
-                                            <p>Project timelines vary depending on complexity but typically range from 4 to 12 weeks. We provide a clear roadmap during the discovery phase.</p>
+                                            <p>All our partners receive a GoFeast tablet with their store’s dashboard with access to GoPartner app. This allows you to get notified when a new order is placed, update order status and keep track of your menu, sales and earnings. If your store is not equipped to use a tablet then we also offer alternative solutions.</p>
                                         </div>
                                     </div>
                                 </div>
