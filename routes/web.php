@@ -26,6 +26,7 @@ Route::group(['prefix' => 'new'], function(){
     Route::get('/', [NewHomeController::class, 'index'])->name('new.home');
     Route::get('/go-driver', [NewHomeController::class, 'godriver'])->name('godriver');
     Route::get('/go-partner', [NewHomeController::class, 'gopartner'])->name('gopartner');
+    Route::get('/blog', [NewHomeController::class, 'blog'])->name('blog');
 });
 // NEW //
 

@@ -144,7 +144,7 @@
  
 <!-- Our Projects Section Start -->
 <div class="our-projects">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row section-row">
             <div class="col-lg-12">
                 <!-- Section Title Start -->
@@ -155,19 +155,108 @@
                 <!-- Section Title End -->
             </div>
         </div>
-
         <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                    <div class="project-image">
+                        <a href="project-single.html" data-cursor-text="View">
+                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                                <img src="{{asset('assets/new/images/Icon1.png')}}" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
+                        <p>Data Analytics</p>
+                    </div>
+                    <div class="project-btn">
+                        <a href="project-single.html">
+                            <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- Project Item End -->
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                    <div class="project-image">
+                        <a href="project-single.html" data-cursor-text="View">
+                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                                <img src="{{asset('assets/new/images/Icon2.png')}}" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
+                        <p>Data Analytics</p>
+                    </div>
+                    <div class="project-btn">
+                        <a href="project-single.html">
+                            <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- Project Item End -->
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                    <div class="project-image">
+                        <a href="project-single.html" data-cursor-text="View">
+                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                                <img src="{{asset('assets/new/images/Icon3.png')}}" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
+                        <p>Data Analytics</p>
+                    </div>
+                    <div class="project-btn">
+                        <a href="project-single.html">
+                            <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- Project Item End -->
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <!-- Project Item Start -->
+                <div class="project-item wow fadeInUp">
+                    <div class="project-image">
+                        <a href="project-single.html" data-cursor-text="View">
+                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                                <img src="{{asset('assets/new/images/Icon4.png')}}" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="project-content">
+                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
+                        <p>Data Analytics</p>
+                    </div>
+                    <div class="project-btn">
+                        <a href="project-single.html">
+                            <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- Project Item End -->
+            </div>
+        </div>
+
+        {{--<div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="about-us-box">
                     <div class="about-us-item">
-                        <div class="about-item-content">
-                            <h3>Seamless Integration</h3>
-                            <div class="about-item-image">
-                                <img src="{{asset('assets/img/photos/gofeast_images/store.png')}}" alt="">
-                            </div>
-                        </div>
                         <div class="icon-box">
                             <img src="{{ asset('assets/new/images/arrow-white.svg')}}" alt="">
+                        </div>
+                        <img src="{{asset('assets/new/images/Icon1.png')}}" alt="">
+                        <div class="about-item-content w-100">
+                            <h3>Seamless Integration</h3>
+                            <p>Reach out to new customers and increase your online presence, no setup costs!</p>
                         </div>
                     </div>
                 </div>
@@ -177,7 +266,7 @@
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
                             <figure class="image-anime">
-                                <img src="{{asset('assets/img/photos/gofeast_images/store.png')}}" alt="">
+                        <img src="{{asset('assets/new/images/Icon1.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
@@ -261,7 +350,7 @@
                 </div>
                 <!-- Project Item End -->
             </div>
-        </div>
+        </div>--}}
     </div>
 </div>
 <!-- Our Projects Section End -->
