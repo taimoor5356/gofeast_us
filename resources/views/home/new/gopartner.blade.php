@@ -7,6 +7,9 @@
         .approach-item .icon-box img{
             max-width: 75px !important;
         }
+        .section-title h3{
+            background-color: #17171792 !important;
+        }
     </style>
 @endsection
 @section('meta_tags')
@@ -595,21 +598,21 @@
                     <!-- Approach Image Start -->
                     <div class="approach-image">
                         <figure class="image-anime reveal">
-                            <img src="{{asset('assets/img/photos/gofeast_images/order-delivered.png')}}" alt="">
+                            <img src="{{asset('assets/new/images/driver1.png')}}" alt="">
                         </figure>
                         
                         <!-- Approach Counter Box Start -->
                         <div class="approach-counter-box">
                             <!-- Approach Counter Item Start -->
                             <div class="approach-counter-item">
-                                <h2><span class="counter">15</span>+</h2>
+                                <h5><span class="counter">15</span>+</h5>
                                 <p>Business problem</p>
                             </div>
                             <!-- Approach Counter Item End -->
                             
                             <!-- Approach Counter Item Start -->
                             <div class="approach-counter-item">
-                                <h2><span class="counter">2.3</span>+</h2>
+                                <h5><span class="counter">2.3</span>+</h5>
                                 <p>Business setup</p>
                             </div>
                             <!-- Approach Counter Item End -->
@@ -634,7 +637,8 @@
                         <div class="how-work-video">
                             <!-- Selfhosted Video Start -->
                             <!-- <video autoplay muted loop id="myvideo"><source src="images/nextmind-how-work-video.mp4" type="video/mp4"></video> -->
-                            <video autoplay muted loop id="hwvideo"><source src="https://demo.awaikenthemes.com/assets/videos/nextmind-how-work-video.mp4" type="video/mp4"></video>
+                            
+                            <video autoplay muted loop id="hwvideo"><source src="{{ asset('assets/new/images/onboarding.mp4') }}" type="video/mp4"></video>
                             <!-- Selfhosted Video End -->
 
                             <!-- Youtube Video Start -->
@@ -772,8 +776,16 @@
 
                                     <div class="sidebar-cta-contact">
                                         <ul>
-                                            <li><a href="tel:152885253"><img src="images/icon-phone-gradiant.svg" alt="">+(00) - 152 885 253</a></li>
-                                            <li><a href="mailto:support@domainname.com"><img src="images/icon-mail-gradiant.svg" alt="">support@domainname.com</a></li>
+                                            <li class="w-50">
+                                                <h6><a href="tel:152885253">
+                                                    +1152885253
+                                                </a></h6>
+                                            </li>
+                                            <li class="w-50">
+                                                <h6><a href="mailto:support@domainname.com">
+                                                    support@domainname.com
+                                                </a></h6>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
