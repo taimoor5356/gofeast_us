@@ -1,3 +1,6 @@
+@section('styles')
+
+@endsection
 <!-- Footer Start -->
 <footer class="main-footer">
     <div class="container">
@@ -30,11 +33,11 @@
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Links</h3>
-                        <p><a href="#">Bitmart</a></p>
+                        <!-- <p><a href="#">Bitmart</a></p> -->
                         <p><a href="#">One Pager</a></p>
                         <p><a href="#">Hydra DEX</a></p>
                         <p><a href="#">GOMT Token</a></p>
-                        <p><a href="#">GOMT Contract Explorer</a></p>
+                        <!-- <p><a href="#">GOMT Contract Explorer</a></p> -->
                     </div>
                     <!-- Footer Links End -->
                 </div>  
@@ -70,7 +73,7 @@
                 <!-- Footer Copyright Text Start -->
                 <div class="footer-copyright-text ">
                     <p class="mb-2">US 22 West - Suite 200, Bridgetwater, NJ, 08502 USA</p>
-                    <h6>© {{ date('Y') }} GoFeast. All rights reserved.</h6>
+                    <small class="text-white">© {{ date('Y') }} GoFeast. All rights reserved.</small>
                 </div>
                 <!-- Footer Copyright Text End -->     
             </div>

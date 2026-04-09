@@ -46,6 +46,15 @@
             height: 100%;
             object-fit: cover; /* 🔥 key line */
         }
+
+        .card-img-p {
+            padding: 5px 5px 150px 5px;
+            background-color: #181818;
+        }
+
+        .card-img-p img {
+            aspect-ratio: 0 !important;
+        }
     </style>
 @endsection
 <!-- Hero Section Start -->
@@ -161,14 +170,14 @@
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
-                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                            <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon1.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
-                        <p>Data Analytics</p>
+                        <h3><a href="project-single.html">GoPartner</a></h3>
+                        <p>Reach out to new customers and increase your online presence, no setup costs!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -183,14 +192,14 @@
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
-                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                            <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon2.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
-                        <p>Data Analytics</p>
+                        <h3><a href="project-single.html">GoDriver</a></h3>
+                        <p>Deliver when you want and where you want, earn the highest payout in the industry!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -205,14 +214,14 @@
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
-                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                            <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon3.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
-                        <p>Data Analytics</p>
+                        <h3><a href="project-single.html">Ordering App</a></h3>
+                        <p>Enjoy exclusive discounts and same-day delivery from your favorite local speciality stores!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -227,14 +236,14 @@
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
                         <a href="project-single.html" data-cursor-text="View">
-                            <figure class="image-anime d-flex justify-content-center align-items-center p-4" style="background-color: #181818;">
+                            <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon4.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">Success Stories AI In Action</a></h3>
-                        <p>Data Analytics</p>
+                        <h3><a href="project-single.html">GOMT Token</a></h3>
+                        <p>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -734,6 +743,7 @@
                                                 <h5 class="from-top mb-0">Read More</h5>
                                             </figcaption>
                                         </figure>
+                                        <h2 class="post-title">GoFeast Main Event</h2>
                                         {{--<div class="post-header">
                                             <div class="post-category ">
                                                 <figure class="rounded mb-2 w-20">
@@ -782,6 +792,7 @@
                                                 <h5 class="from-top mb-0">Read More</h5>
                                             </figcaption>
                                         </figure>
+                                        <h2 class="post-title">Connect Wallet</h2>
                                         {{--<div class="post-header">
                                             <div class="post-category ">
                                                 <figure class="rounded mb-2 w-20">

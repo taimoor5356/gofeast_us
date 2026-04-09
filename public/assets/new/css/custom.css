@@ -2041,7 +2041,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .main-footer{
-    background: url('../images/footer-bg.png') no-repeat;
+    background: url('../images/footer.png') no-repeat;
     background-position: bottom center;
     background-size: auto;
     border-top: 1px solid var(--divider-color);
@@ -2075,7 +2075,8 @@ header.main-header .header-sticky.active{
 }
 
 .footer-links p{
-    margin-bottom: 2px;
+    margin-bottom: 10px;
+    font-size: 13px;
 }
 
 .footer-links p:last-child{
@@ -2151,6 +2152,7 @@ header.main-header .header-sticky.active{
 
 .footer-copyright-text p{
     margin: 0;
+    font-size: 13px;
 }
 
 /************************************/
