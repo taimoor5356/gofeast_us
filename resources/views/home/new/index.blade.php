@@ -54,7 +54,7 @@
 
         .card-img-p img {
             aspect-ratio: 0 !important;
-            border-bottom: 1px solid #2b2b2b;
+            border-bottom: 1px solid #212121;
             border-radius: 0px !important;
             margin-bottom: 10px !important;
         }
