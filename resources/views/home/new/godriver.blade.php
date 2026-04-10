@@ -487,7 +487,7 @@
     </div>
     <!-- Our Solution Section End -->
    <!-- Page Contact Us Start -->
-   <div class="page-contact-us">
+<div class="page-contact-us py-4">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -518,8 +518,16 @@
 
                                     <div class="sidebar-cta-contact">
                                         <ul>
-                                            <li><a href="tel:152885253"><img src="images/icon-phone-gradiant.svg" alt="">+(00) - 152 885 253</a></li>
-                                            <li><a href="mailto:support@domainname.com"><img src="images/icon-mail-gradiant.svg" alt="">support@domainname.com</a></li>
+                                            <li class="w-50">
+                                                <h6><a href="tel:152885253">
+                                                    +1152885253
+                                                </a></h6>
+                                            </li>
+                                            <li class="w-50">
+                                                <h6><a href="mailto:support@domainname.com">
+                                                    support@domainname.com
+                                                </a></h6>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -531,7 +539,7 @@
                 
                         <!-- Google Map Iframe Start -->
                         <div class="google-map-iframe">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96737.10562045308!2d-74.08535042841811!3d40.739265258395164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1703158537552!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d43872.74802611315!2d-74.67140084520511!3d40.5844244834361!3m2!1i1024!2i768!4f13.1!2m1!1sUS%2022%20West%20-%20Suite%20200%2C%20Bridgetwater%2C%20NJ%2C%2008502%20USA!5e1!3m2!1sen!2s!4v1775822507844!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         <!-- Google Map Iframe End -->
                     </div>
