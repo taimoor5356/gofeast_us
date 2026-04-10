@@ -10,6 +10,9 @@
         .section-title h3{
             background-color: #17171792 !important;
         }
+        .how-it-work {
+            padding: 200px 0px;
+        }
     </style>
 @endsection
 @section('meta_tags')
@@ -538,7 +541,7 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Approach Section Start -->
-    <div class="our-approach">
+    <div class="our-approach py-0 mb-5">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -638,7 +641,7 @@
                             <!-- Selfhosted Video Start -->
                             <!-- <video autoplay muted loop id="myvideo"><source src="images/nextmind-how-work-video.mp4" type="video/mp4"></video> -->
                             
-                            <video autoplay muted loop id="hwvideo"><source src="{{ asset('assets/new/images/onboarding.mp4') }}" type="video/mp4"></video>
+                            <video autoplay muted loop id="hwvideo"><source src="{{ asset('assets/new/images/onboarding1.mp4') }}" type="video/mp4"></video>
                             <!-- Selfhosted Video End -->
 
                             <!-- Youtube Video Start -->
@@ -745,7 +748,7 @@
     <!-- How It Work Section End -->
 
    <!-- Page Contact Us Start -->
-   <div class="page-contact-us">
+   <div class="page-contact-us py-4">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">

@@ -255,7 +255,114 @@
     <!-- Our Solution Section Start -->
     <div class="first-section">
         <div class="container">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">GoDriver Onboarding</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Become A <span>GoDriver!</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+            </div>
             <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <!-- About Us Box Start -->
+                    <div class="about-us-box">
+                        <!-- About Us Item Start -->
+                        <div class="about-us-item">
+                            <div class="about-item-content">
+                                <h3>Seamless Integration</h3>
+                                <h2><span class="counter">298</span>+</h2>
+                            </div>
+                            <div class="icon-box">
+                                <img src="images/icon-about-item-1.svg" alt="">
+                            </div>
+                        </div>
+                        <!-- About Us Item End -->
+                        
+                        <!-- About Item Image Start -->
+                        <div class="about-item-image">
+                            <img src="images/about-item-image-1.png" alt="">
+                        </div>
+                        <!-- About Item Image End -->
+                    </div>
+                    <!-- About Us Box End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- About Us Box Start -->
+                    <div class="about-us-box">
+                        <!-- About Us Item Start -->
+                        <div class="about-us-item">
+                            <div class="about-item-content">
+                                <h3>AI Projects Delivered</h3>
+                                <h2><span class="counter">978</span>+</h2>
+                            </div>
+                            <div class="icon-box">
+                                <img src="images/icon-about-item-2.svg" alt="">
+                            </div>
+                        </div>
+                        <!-- About Us Item End -->
+                        
+                        <!-- About Item Image Start -->
+                        <div class="about-item-image">
+                            <img src="images/about-item-image-2.png" alt="">
+                        </div>
+                        <!-- About Item Image End -->
+                    </div>
+                    <!-- About Us Box End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- About Us Box Start -->
+                    <div class="about-us-box">
+                        <!-- About Us Item Start -->
+                        <div class="about-us-item">
+                            <div class="about-item-content">
+                                <h3>Handled by AI Bots</h3>
+                                <h2><span class="counter">300</span>%</h2>
+                            </div>
+                            <div class="icon-box">
+                                <img src="images/icon-about-item-3.svg" alt="">
+                            </div>
+                        </div>
+                        <!-- About Us Item End -->
+                        
+                        <!-- About Item Image Start -->
+                        <div class="about-item-image">
+                            <img src="images/about-item-image-3.png" alt="">
+                        </div>
+                        <!-- About Item Image End -->
+                    </div>
+                    <!-- About Us Box End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- About Us Box Start -->
+                    <div class="about-us-box">
+                        <!-- About Us Item Start -->
+                        <div class="about-us-item">
+                            <div class="about-item-content">
+                                <h3>Faster Time to Market</h3>
+                                <h2><span class="counter">95</span>X</h2>
+                            </div>
+                            <div class="icon-box">
+                                <img src="images/icon-about-item-4.svg" alt="">
+                            </div>
+                        </div>
+                        <!-- About Us Item End -->
+                        
+                        <!-- About Item Image Start -->
+                        <div class="about-item-image">
+                            <img src="images/about-item-image-4.png" alt="">
+                        </div>
+                        <!-- About Item Image End -->
+                    </div>
+                    <!-- About Us Box End -->
+                </div>
+            </div>
+            {{--<div class="row">
                 <div class="col-lg-7">
                     <!-- Solution Item List Start -->
                     <div class="solution-item-list">
@@ -308,7 +415,7 @@
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">GoDriver Onboarding</h3>
+                            <!-- <h3 class="wow fadeInUp">GoDriver Onboarding</h3> -->
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Become A <span>GoDriver!</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">I agree that I have read and accepted the Terms and Conditions listed in the Delivery section</p>
                             <div class="header-btn mt-3">
@@ -319,30 +426,60 @@
                     </div>
                     <!-- Our Solution Content ENd -->
                 </div>
-            </div>
+            </div>--}}
         </div>
     </div>
     <!-- Our Solution Section End -->
     <!-- Our Solution Section Start -->
     <div class="whybecome-section">
         <div class="container">
-            <div class="row section-row align-items-center">
-                <div class="col-lg-8">
-                    <!-- Section Button Start -->
-                    <div class="section-btn wow fadeInUp justify-content-between d-flex" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <a href="contact.html" class="btn-default">Full and Part Time</a>
-                        <a href="contact.html" class="btn-default">Work On Your Own Time</a>
-                        <a href="contact.html" class="btn-default">Highest Pay Per Delivery</a>
-                    </div>
-                    <!-- Section Button End -->
-                </div>
-                <div class="col-lg-4">
+            <div class="row section-row">
+                <div class="col-lg-12">
                     <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h2 class="wow fadeInUp" data-cursor="-opaque" style="visibility: visible; animation-name: fadeInUp;">Why become a <span>GoDriver?</span></h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Partner with us to create intelligent, impactful, and future-ready AI solutions together.</p>
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">why become a godriver</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Why become a <span>GoDriver?</span></h2>
                     </div>
                     <!-- Section Title End -->
+                </div>         
+            </div>
+            <div class="row section-row align-items-center">
+                <div class="col-lg-12">
+                    <div class="service-impact-list">
+                        <!-- Service Impact Item Start -->
+                        <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                            <div class="icon-box">
+                                <img src="images/icon-approach-1.svg" alt="">
+                            </div>
+                            <div class="service-impact-item-content text-center">
+                                <h3>Full and Part Time</h3>
+                                <!-- <p>Our mission is to the power of AI to solve real.</p> -->
+                            </div>
+                        </div>
+                        <!-- Service Impact Item End -->
+                        <!-- Service Impact Item Start -->
+                        <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                            <div class="icon-box">
+                                <img src="images/icon-approach-1.svg" alt="">
+                            </div>
+                            <div class="service-impact-item-content text-center">
+                                <h3>Work on your time</h3>
+                                <!-- <p>Our mission is to the power of AI to solve real.</p> -->
+                            </div>
+                        </div>
+                        <!-- Service Impact Item End -->
+                        <!-- Service Impact Item Start -->
+                        <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                            <div class="icon-box">
+                                <img src="images/icon-approach-1.svg" alt="">
+                            </div>
+                            <div class="service-impact-item-content text-center">
+                                <h3>Highest pay per delivery</h3>
+                                <!-- <p>Our mission is to the power of AI to solve real.</p> -->
+                            </div>
+                        </div>
+                        <!-- Service Impact Item End -->
+                    </div>
                 </div>
 
             </div>

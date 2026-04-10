@@ -48,12 +48,15 @@
         }
 
         .card-img-p {
-            padding: 5px 5px 150px 5px;
+            padding: 5px 5px 120px 5px;
             background-color: #181818;
         }
 
         .card-img-p img {
             aspect-ratio: 0 !important;
+            border-bottom: 1px solid #2b2b2b;
+            border-radius: 0px !important;
+            margin-bottom: 10px !important;
         }
     </style>
 @endsection
@@ -177,7 +180,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">GoPartner</a></h3>
-                        <p>Reach out to new customers and increase your online presence, no setup costs!</p>
+                        <small>Reach out to new customers and increase your online presence, no setup costs!</small>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -199,7 +202,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">GoDriver</a></h3>
-                        <p>Deliver when you want and where you want, earn the highest payout in the industry!</p>
+                        <small>Deliver when you want and where you want, earn the highest payout in the industry!</small>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -221,7 +224,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">Ordering App</a></h3>
-                        <p>Enjoy exclusive discounts and same-day delivery from your favorite local speciality stores!</p>
+                        <small>Enjoy exclusive discounts and same-day delivery from your favorite local speciality stores!</small>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -243,7 +246,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">GOMT Token</a></h3>
-                        <p>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</p>
+                        <small>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</small>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">

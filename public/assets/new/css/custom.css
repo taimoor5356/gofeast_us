@@ -3897,7 +3897,7 @@ header.main-header .header-sticky.active{
 }
 
 .contact-form{
-	background: var(--secondary-color) url('../images/contact.jpg') no-repeat;
+	background: var(--secondary-color) url('../images/facts-item-bg.svg') no-repeat;
     background-position: center center;
     background-size: cover;
 	padding: 40px;
