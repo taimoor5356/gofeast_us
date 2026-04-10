@@ -20,12 +20,12 @@
                             <li class="nav-item"><a class="nav-link <?php echo ($current_page == '/' || $current_page == 'pak' || $current_page == '') ? 'active' : ''; ?>" href="{{route('home')}}">Home</a>
                             <li class="nav-item submenu"><a class="nav-link" href="#">Partner with us</a>
                                 <ul>                                        
-                                    <li class="nav-item"><a class="nav-link" href="./new/go-partner">Go Partner</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="./new/go-driver">Go Driver</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{route('new.gopartner')}}">Go Partner</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{route('new.godriver')}}">Go Driver</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="./gomt">GOMT</a></li>
-                            <li class="nav-item"><a class="nav-link" href="./blogs">Blogs</a></li>
+                            <li class="nav-item"><a class="nav-link" href="{{route('new.gomt')}}">GOMT</a></li>
+                            <li class="nav-item"><a class="nav-link" href="{{route('new.blog')}}">Blogs</a></li>
                             <li class="nav-item submenu"><a class="nav-link" href="#">Help</a>
                                 <ul>                                        
                                     <li class="nav-item"><a class="nav-link" href="./faqs">FAQs</a></li>
