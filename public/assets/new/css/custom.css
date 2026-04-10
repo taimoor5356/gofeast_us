@@ -2065,7 +2065,7 @@ header.main-header .header-sticky.active{
 }
 
 .footer-contact-box .footer-links{
-    width: calc(50% - 15px);
+    width: calc(50% - -45px);
 }
 
 .footer-links h3{

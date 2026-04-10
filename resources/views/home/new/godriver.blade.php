@@ -10,6 +10,12 @@
         .our-solution-content {
             margin-left: 15px !important;
         }
+        img[src*="/icons/"] {
+            filter: brightness(0) invert(1);
+        }
+        .service-impact-list{
+            padding: 20px;
+        }
     </style>
 @endsection
 @section('meta_tags')
@@ -449,7 +455,7 @@
                         <!-- Service Impact Item Start -->
                         <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <div class="icon-box">
-                                <img src="images/icon-approach-1.svg" alt="">
+                                <img src="{{asset('assets/img/icons/solid/shipment.svg')}}" alt="">
                             </div>
                             <div class="service-impact-item-content text-center">
                                 <h3>Full and Part Time</h3>
@@ -460,7 +466,7 @@
                         <!-- Service Impact Item Start -->
                         <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <div class="icon-box">
-                                <img src="images/icon-approach-1.svg" alt="">
+                                <img src="{{asset('assets/img/icons/lineal/clock-3.svg')}}" alt="">
                             </div>
                             <div class="service-impact-item-content text-center">
                                 <h3>Work on your time</h3>
@@ -471,7 +477,7 @@
                         <!-- Service Impact Item Start -->
                         <div class="service-impact-item wow fadeInUp d-flex flex-column align-items-center" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <div class="icon-box">
-                                <img src="images/icon-approach-1.svg" alt="">
+                                <img src="{{asset('assets/img/icons/lineal/coin.svg')}}" alt="">
                             </div>
                             <div class="service-impact-item-content text-center">
                                 <h3>Highest pay per delivery</h3>

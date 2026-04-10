@@ -607,7 +607,7 @@
                     <!-- Approach Image Start -->
                     <div class="approach-image">
                         <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/driver1.png')}}" alt="">
+                            <img src="{{asset('assets/new/images/delivery.jpg')}}" alt="">
                         </figure>
                         
                         <!-- Approach Counter Box Start -->

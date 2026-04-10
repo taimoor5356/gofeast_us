@@ -15,51 +15,59 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>Learn More</h3>
-                        <p><a href="#">About Us</a></p>
-                        <p><a href="#">Privacy Policy</a></p>
+                        <h3>Pages</h3>
+                        <p><a href="#">One Pager</a></p>
+                        <p><a href="#">GOMT Token</a></p>
+                        <p><a href="#">Hydra DEX</a></p>
                         <p><a href="#">Become a GoDriver</a></p>
                         <p><a href="#">Become a GoPartner</a></p>
+                        <p><a href="#">GOMT Contract Explorer</a></p>
                     </div>
                     <!-- Footer Links End -->
                 </div>  
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>Links</h3>
-                        <!-- <p><a href="#">Bitmart</a></p> -->
-                        <p><a href="#">One Pager</a></p>
-                        <p><a href="#">Hydra DEX</a></p>
-                        <p><a href="#">GOMT Token</a></p>
-                        <!-- <p><a href="#">GOMT Contract Explorer</a></p> -->
-                    </div>
-                    <!-- Footer Links End -->
-                </div>  
-            </div>
-            <div class="col-lg-4">
-                <div class="footer-contact-box">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Get In Touch</h3>
+                        <h3>Get in touch</h3>
                         <p><a href="#">Blogs</a></p>
-                        <p><a href="#">Contact Us</a></p>
+                        <p><a href="#">About Us</a></p>
+                        <p><a href="#">Contact</a></p>
                         <p><a href="#">cs@gofeast.io</a></p>
-                        <br>
-                        <p><a href="#">Download App!</a></p>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>  
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-contact-box">
+                    <!-- Footer Links Start -->
+                    <div class="footer-links">
+                        <h3>Legal</h3>
+                        <p><a href="#">Refund policy</a></p>
+                        <p><a href="#">Privacy policy</a></p>
+                        <p><a href="#">Terms and conditions</a></p>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>  
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-contact-box">
+                    <!-- Footer Links Start -->
+                    <div class="footer-links">
+                        <h6>Download App</h6>   
                         <p>
                             <ul class="list-unstyled text-reset mb-0">
                                 <li class="d-flex">
-                                    <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">
-                                        <img class="app-logo" src="https://gofeast.us/public/assets/img/photos/playstore-white.png">
-                                    </a>
                                     <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">
                                         <img class="app-logo" src="https://gofeast.us/public/assets/img/photos/appstore-white.png">
+                                    </a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">
+                                        <img class="app-logo" src="https://gofeast.us/public/assets/img/photos/playstore-white.png">
                                     </a>
                                 </li>
                             </ul>
