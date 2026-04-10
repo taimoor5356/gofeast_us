@@ -494,7 +494,7 @@
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp">
                             <div class="icon-box bg-none">
-                                <img class="bg-none" src="{{asset('assets/new/images/Sales.png')}}" alt="">
+                                <img class="bg-none" src="{{asset('assets/new/images/sales.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>Increase Sales</h3>
@@ -530,7 +530,7 @@
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
-                                <img src="{{asset('assets/new/images/Delivery.png')}}" alt="">
+                                <img src="{{asset('assets/new/images/delivery.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>Same Day Delivery</h3>
