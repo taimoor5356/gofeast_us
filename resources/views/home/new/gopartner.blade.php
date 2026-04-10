@@ -13,6 +13,12 @@
         .how-it-work {
             padding: 200px 0px;
         }
+        .solution-item .icon-box {
+            background: none !important;
+        }
+        .solution-item .icon-box img {
+            max-width: 75px !important;
+        }
     </style>
 @endsection
 @section('meta_tags')
@@ -487,8 +493,8 @@
                     <div class="solution-item-list">
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp">
-                            <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/increase-rev.png')}}" alt="">
+                            <div class="icon-box bg-none">
+                                <img class="bg-none" src="{{asset('assets/new/images/Sales.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>Increase Sales</h3>
@@ -500,7 +506,7 @@
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp" data-wow-delay="0.2s">
                             <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/no-setup-cost.png')}}" alt="">
+                                <img src="{{asset('assets/new/images/zero-cost.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>No Setup Cost</h3>
@@ -512,7 +518,7 @@
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/marketing.png')}}" alt="">
+                                <img src="{{asset('assets/new/images/marketing.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>Marketing</h3>
@@ -524,7 +530,7 @@
                         <!-- Solution Item Start -->
                         <div class="solution-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/home-delivery.png')}}" alt="">
+                                <img src="{{asset('assets/new/images/Delivery.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
                                 <h3>Same Day Delivery</h3>

@@ -1196,7 +1196,7 @@ header.main-header .header-sticky.active{
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(120deg, var(--accent-color), var(--accent-secondary-color)) no-repeat;
+    /* background: linear-gradient(120deg, var(--accent-color), var(--accent-secondary-color)) no-repeat; */
     border-radius: 50%;
     height: 100%;
     width: 100%;
@@ -1205,7 +1205,7 @@ header.main-header .header-sticky.active{
 }
 
 .how-work-item:hover .how-work-header .icon-box::before{
-	transform: scale(1);
+	/* transform: scale(1); */
 }
 
 .how-work-header .icon-box img{
@@ -2313,7 +2313,7 @@ header.main-header .header-sticky.active{
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(120deg, var(--accent-color) 0, var(--accent-secondary-color) 100%);
+    /* background: linear-gradient(120deg, var(--accent-color) 0, var(--accent-secondary-color) 100%); */
     border-radius: 50%;
     height: 100%;
     width: 100%;
@@ -2322,7 +2322,7 @@ header.main-header .header-sticky.active{
 }
 
 .approach-item:hover .icon-box::before{
-	transform: scale(1);
+	/* transform: scale(1); */
 }
 
 .approach-item .icon-box img{
@@ -2477,7 +2477,7 @@ header.main-header .header-sticky.active{
 }
 
 .solution-item:hover .icon-box::before{
-    transform: scale(1);
+    /* transform: scale(1); */
 }
 
 .solution-item .icon-box img{
@@ -2488,7 +2488,7 @@ header.main-header .header-sticky.active{
 }
 
 .solution-item:hover .icon-box img{
-    filter: brightness(0) invert(0);
+    /* filter: brightness(0) invert(0); */
 }
 
 .solution-item-content h3{
