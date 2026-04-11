@@ -720,6 +720,7 @@
         </div>
     </div>
 </div>
+
 <!-- Buy GOMT Token End --><!-- Our Testimonials Section Start -->
 <div class="our-testimonials">
     <div class="container">
@@ -773,6 +774,66 @@
                         <!-- Testimonials Body End -->
                     </div>
                     <!-- Testimonials Content End -->          
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Our Testimonials Section End -->
+
+<!-- Buy GOMT Token End --><!-- Our Testimonials Section Start -->
+<div class="our-testimonials">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="testimonials-box">     
+                    <!-- Testimonials Content Start -->
+                    <div class="testimonials-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <!-- <h3 class="wow fadeInUp">Feastron AI</h3> -->
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Customer Support <br> <span>That Cares</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">We’re here to help you anytime. Our dedicated support team ensures quick responses, reliable solutions, and a smooth experience for every user.</p>
+                        </div>
+                        <!-- Section Title End -->
+                        
+                        <!-- Testimonials Body Start -->
+                        <div class="testimonials-body">
+                            <!-- Testimonials Counter Item Start -->
+                            <div class="testimonials-counter-item">
+                                <h2><span>24/7</span></h2>
+                                <p>Customer Support</p>
+                            </div>
+                            <!-- Testimonials Counter Item End -->
+                            
+                            <!-- Testimonials Counter Item Start -->
+                            <div class="testimonials-counter-item">
+                                <h2><span class="counter">600</span>+</h2>
+                                <p>Happy Customers</p>
+                            </div>
+                            <!-- Testimonials Counter Item End -->
+                        </div>
+                        <!-- Testimonials Body End -->
+                    </div>
+                    <!-- Testimonials Content End --> 
+
+                    <!-- Testimonial Slider Start -->
+                    <div class="testimonial-slider">
+                        <div class="swiper" style="padding: 20px 20px;">
+                            <div class="swiper-wrapper">
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <img src="{{asset('assets/new/images/contactus.png')}}" class="rounded" alt="">
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slider End -->           
                 </div>
             </div>
         </div>
