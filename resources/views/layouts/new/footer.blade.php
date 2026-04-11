@@ -21,11 +21,11 @@
                     <div class="footer-links">
                         <h3>Pages</h3>
                         <p><a href="#">One Pager</a></p>
-                        <p><a href="#">GOMT Token</a></p>
+                        <p><a href="#">GoFeast Token</a></p>
                         <p><a href="#">Hydra DEX</a></p>
                         <p><a href="#">Become a GoDriver</a></p>
                         <p><a href="#">Become a GoPartner</a></p>
-                        <p><a href="#">GOMT Contract Explorer</a></p>
+                        <p><a href="#">GoFeast Contract Explorer</a></p>
                     </div>
                     <!-- Footer Links End -->
                 </div>  

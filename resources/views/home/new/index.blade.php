@@ -58,6 +58,15 @@
             border-radius: 0px !important;
             margin-bottom: 10px !important;
         }
+        .testimonial-content {
+            display: flex;
+            justify-content: center;
+        }
+        .testimonial-content img {
+            width: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
     </style>
 @endsection
 <!-- Hero Section Start -->
@@ -69,15 +78,15 @@
                 <div class="hero-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">Digitalizing The Speciality Foods Industry.</h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">In a world where cyberattacks are becoming more sophisticated, your business deserves the best protection. Our expert team leverages cutting-edge technology.</p>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">The Intelligence Layer Behind Food Delivery.</h1>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">GoFeast uses AI-powered systems to optimize orders, deliveries, and operations — creating faster experiences for customers, smarter tools for restaurants, and scalable growth for investors.</p>
                     </div>
                     <!-- Section Title End -->
                     
                     <!-- Hero Button Start -->
                     <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
                         <a href="#" class="btn-default btn-highlighted">Order Now</a>
-                        <a href="#" class="btn-default">Buy Now</a>
+                        <!-- <a href="#" class="btn-default">Buy Now</a> -->
                     </div>
                     <!-- Hero Button End -->
 
@@ -245,7 +254,7 @@
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">GOMT Token</a></h3>
+                        <h3><a href="project-single.html">GoFeast Token</a></h3>
                         <small>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</small>
                     </div>
                     <div class="project-btn">
@@ -582,7 +591,7 @@
                 <!-- What We Box Start -->
                 <div class="what-we-box">
                     <h3 class="text-effect">
-                        Buy GOMT Token and unlock real-world utility with rewards, payments, and a powerful burn economy.
+                        Buy GoFeast Token and unlock real-world utility with rewards, payments, and a powerful burn economy.
                     </h3>
                     
                     <div class="what-we-img wow fadeInUp" data-wow-delay="0.2s">
@@ -600,7 +609,7 @@
 
                     <!-- Section Title -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Buy GOMT Token</h3>
+                        <h3 class="wow fadeInUp">GoFeast Token</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Real utility & <span>poweful tokenomics</span></h2>
                     </div>
                     <!-- Vertical Accordion -->
@@ -610,15 +619,15 @@
                         <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                                    GOMT Utilities
+                                    GoFeast Utilities
                                 </button>
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Place meat, grocery & food orders using GOMT</li>
+                                        <li>Place meat, grocery & food orders using GoFeast Token</li>
                                         <li>Get 1% cashback and exclusive discounts</li>
-                                        <li>Earn GOMT through our referral program</li>
+                                        <li>Earn GoFeast Token through our referral program</li>
                                     </ul>
                                 </div>
                             </div>
@@ -683,7 +692,7 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
                             <h2 class="accordion-header" id="heading5">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
-                                    Why Buy GOMT?
+                                    Why Buy GoFeast Token?
                                 </button>
                             </h2>
                             <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordion">
@@ -700,18 +709,76 @@
                     </div>
 
                     <!-- Button -->
-                    <div class="what-we-do-button mt-4">
+                    <!-- <div class="what-we-do-button mt-4">
                         <a href="https://www.bitmart.com/trade/en-US?symbol=GOMT_USDT&layout=basic" target="_blank" class="btn-default">
                             Buy Now
                         </a>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- Buy GOMT Token End -->
+<!-- Buy GOMT Token End --><!-- Our Testimonials Section Start -->
+<div class="our-testimonials">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="testimonials-box">
+
+                    <!-- Testimonial Slider Start -->
+                    <div class="testimonial-slider">
+                        <div class="swiper" style="padding: 20px 20px;">
+                            <div class="swiper-wrapper">
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <img src="{{asset('assets/new/images/feastron.png')}}" class="rounded" alt="">
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slider End -->              
+                    <!-- Testimonials Content Start -->
+                    <div class="testimonials-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <!-- <h3 class="wow fadeInUp">Feastron AI</h3> -->
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Powered by  <span>Feastron AI</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Feastron is the intelligence engine behind GoFeast — automating decisions, optimizing delivery routes, and improving performance across the entire ecosystem.</p>
+                        </div>
+                        <!-- Section Title End -->
+                        
+                        <!-- Testimonials Body Start -->
+                        <div class="testimonials-body">
+                            <!-- Testimonials Counter Item Start -->
+                            <div class="testimonials-counter-item">
+                                <h2><span class="counter">200</span>+</h2>
+                                <p>projects successfully</p>
+                            </div>
+                            <!-- Testimonials Counter Item End -->
+                            
+                            <!-- Testimonials Counter Item Start -->
+                            <div class="testimonials-counter-item">
+                                <h2><span class="counter">600</span>+</h2>
+                                <p>projects successfully</p>
+                            </div>
+                            <!-- Testimonials Counter Item End -->
+                        </div>
+                        <!-- Testimonials Body End -->
+                    </div>
+                    <!-- Testimonials Content End -->          
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Our Testimonials Section End -->
 
 <!-- Buy GOMT Token Start -->
 <div class="what-we-do">

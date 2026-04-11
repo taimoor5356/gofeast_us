@@ -24,7 +24,7 @@
                                     <li class="nav-item"><a class="nav-link" href="{{route('new.godriver')}}">Go Driver</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="{{route('new.gomt')}}">GOMT</a></li>
+                            <!-- <li class="nav-item"><a class="nav-link" href="{{route('new.gomt')}}">GOMT</a></li> -->
                             <li class="nav-item"><a class="nav-link" href="{{route('new.blog')}}">Blogs</a></li>
                             <li class="nav-item submenu"><a class="nav-link" href="#">Help</a>
                                 <ul>                                        
