@@ -28,6 +28,7 @@ Route::group(['prefix' => 'new'], function(){
     Route::get('/go-partner', [NewHomeController::class, 'gopartner'])->name('new.gopartner');
     Route::get('/blog', [NewHomeController::class, 'blog'])->name('new.blog');
     Route::get('/gomt', [NewHomeController::class, 'gomt'])->name('new.gomt');
+    Route::get('/about-us', [NewHomeController::class, 'aboutus'])->name('new.aboutus');
 });
 // NEW //
 

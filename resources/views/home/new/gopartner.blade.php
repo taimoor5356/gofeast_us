@@ -635,6 +635,76 @@
     </div>
     <!-- Our Approach Section End -->
 
+    <!-- Our Approach Section Start -->
+    <div class="our-approach py-0 mb-5">
+        <div class="container" style="padding-top: 100px;">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">Control Orders Easily?</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Empowering vendors with a complete digital <span>solution!</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Approach Image Start -->
+                    <div class="approach-image">
+                        <figure class="image-anime reveal">
+                            <img src="{{asset('assets/new/images/dashboard.png')}}" alt="">
+                        </figure>
+                        <!-- Approach Counter Box Start -->
+                        <div class="approach-counter-box">
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">15</span>+</h5>
+                                <p>Business problem</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">2.3</span>+</h5>
+                                <p>Business setup</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                        </div>
+                        <!-- Approach Counter Box End -->
+                    </div>
+                    <!-- Approach Image End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Approach Image Start -->
+                    <div class="approach-image">
+                        <figure class="image-anime reveal">
+                            <img src="{{asset('assets/new/images/mobileapp.jpg')}}" alt="">
+                        </figure>
+                        <!-- Approach Counter Box Start -->
+                        <div class="approach-counter-box">
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">15</span>+</h5>
+                                <p>Business problem</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">2.3</span>+</h5>
+                                <p>Business setup</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                        </div>
+                        <!-- Approach Counter Box End -->
+                    </div>
+                    <!-- Approach Image End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Approach Section End -->
+     
+
     <!-- How It Work Section Start -->
     <div class="how-it-work">
         <div class="container">
