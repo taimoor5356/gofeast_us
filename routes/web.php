@@ -24,11 +24,19 @@ use Illuminate\Support\Facades\Route;
 // NEW //
 Route::group(['prefix' => 'new'], function(){
     Route::get('/', [NewHomeController::class, 'index'])->name('new.home');
+    Route::get('/blog', [NewHomeController::class, 'blog'])->name('new.blog');
+    Route::get('/article', [NewHomeController::class, 'article'])->name('new.article');
+    Route::get('/about-us', [NewHomeController::class, 'aboutus'])->name('new.aboutus');
+    Route::get('/contact-us', [NewHomeController::class, 'contactus'])->name('new.contactus');
+    Route::get('/faqs', [NewHomeController::class, 'faqs'])->name('new.faqs');
     Route::get('/go-driver', [NewHomeController::class, 'godriver'])->name('new.godriver');
     Route::get('/go-partner', [NewHomeController::class, 'gopartner'])->name('new.gopartner');
-    Route::get('/blog', [NewHomeController::class, 'blog'])->name('new.blog');
     Route::get('/gomt', [NewHomeController::class, 'gomt'])->name('new.gomt');
-    Route::get('/about-us', [NewHomeController::class, 'aboutus'])->name('new.aboutus');
+    Route::get('/privacy-policy', [NewHomeController::class, 'privacypolicy'])->name('new.privacypolicy');
+    Route::get('/refund-policy', [NewHomeController::class, 'refundpolicy'])->name('new.refundpolicy');
+    Route::get('/terms-and-conditions', [NewHomeController::class, 'termsandconditions'])->name('new.termsandconditions');
+    Route::get('/terms-of-use', [NewHomeController::class, 'termsofuse'])->name('new.termsofuse');
+    Route::get('/vendor-terms', [NewHomeController::class, 'vendorterms'])->name('new.vendorterms');
 });
 // NEW //
 

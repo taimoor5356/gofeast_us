@@ -271,103 +271,65 @@
                     <!-- Section Title End -->
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- About Us Box Start -->
-                    <div class="about-us-box">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item">
-                            <div class="about-item-content">
-                                <h3>Seamless Integration</h3>
-                                <h2><span class="counter">298</span>+</h2>
-                            </div>
-                            <div class="icon-box">
-                                <img src="images/icon-about-item-1.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                        
-                        <!-- About Item Image Start -->
-                        <div class="about-item-image">
-                            <img src="images/about-item-image-1.png" alt="">
-                        </div>
-                        <!-- About Item Image End -->
-                    </div>
-                    <!-- About Us Box End -->
+<div class="row">
+    <div class="col-lg-6 col-md-6">
+        <!-- About Us Box Start -->
+        <div class="about-us-box">
+            <!-- About Us Item Start -->
+            <div class="about-us-item">
+                <div class="about-item-content">
+                    <h3>GoDriver iOS App</h3>
+                    <h6>Download GoDriver iOS App to get yourself registered</h6>
                 </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- About Us Box Start -->
-                    <div class="about-us-box">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item">
-                            <div class="about-item-content">
-                                <h3>AI Projects Delivered</h3>
-                                <h2><span class="counter">978</span>+</h2>
-                            </div>
-                            <div class="icon-box">
-                                <img src="images/icon-about-item-2.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                        
-                        <!-- About Item Image Start -->
-                        <div class="about-item-image">
-                            <img src="images/about-item-image-2.png" alt="">
-                        </div>
-                        <!-- About Item Image End -->
-                    </div>
-                    <!-- About Us Box End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- About Us Box Start -->
-                    <div class="about-us-box">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item">
-                            <div class="about-item-content">
-                                <h3>Handled by AI Bots</h3>
-                                <h2><span class="counter">300</span>%</h2>
-                            </div>
-                            <div class="icon-box">
-                                <img src="images/icon-about-item-3.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                        
-                        <!-- About Item Image Start -->
-                        <div class="about-item-image">
-                            <img src="images/about-item-image-3.png" alt="">
-                        </div>
-                        <!-- About Item Image End -->
-                    </div>
-                    <!-- About Us Box End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- About Us Box Start -->
-                    <div class="about-us-box">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item">
-                            <div class="about-item-content">
-                                <h3>Faster Time to Market</h3>
-                                <h2><span class="counter">95</span>X</h2>
-                            </div>
-                            <div class="icon-box">
-                                <img src="images/icon-about-item-4.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                        
-                        <!-- About Item Image Start -->
-                        <div class="about-item-image">
-                            <img src="images/about-item-image-4.png" alt="">
-                        </div>
-                        <!-- About Item Image End -->
-                    </div>
-                    <!-- About Us Box End -->
+                <div class="icon-box">
+                    <img src="images/icon-ios.svg" alt="">
                 </div>
             </div>
+            <!-- About Us Item End -->
+            
+            <!-- About Item Image Start -->
+            <div class="about-item-image">
+                <img src="images/godriver-ios.png" alt="">
+            </div>
+            <!-- About Item Image End -->
+
+            <!-- Download Button -->
+            <div class="text-center pb-3">
+                <a href="#" class="btn-default">Download</a>
+            </div>
+        </div>
+        <!-- About Us Box End -->
+    </div>
+
+    <div class="col-lg-6 col-md-6">
+        <!-- About Us Box Start -->
+        <div class="about-us-box">
+            <!-- About Us Item Start -->
+            <div class="about-us-item">
+                <div class="about-item-content">
+                    <h3>GoDriver Android App</h3>
+                    <h6>Download GoDriver Android App to get yourself registered</h6>
+                </div>
+                <div class="icon-box">
+                    <img src="images/icon-android.svg" alt="">
+                </div>
+            </div>
+            <!-- About Us Item End -->
+            
+            <!-- About Item Image Start -->
+            <div class="about-item-image">
+                <img src="images/godriver-android.png" alt="">
+            </div>
+            <!-- About Item Image End -->
+
+            <!-- Download Button -->
+            <div class="text-center pb-3">
+                <a href="#" class="btn-default">Download</a>
+            </div>
+        </div>
+        <!-- About Us Box End -->
+    </div>
+</div>
             {{--<div class="row">
                 <div class="col-lg-7">
                     <!-- Solution Item List Start -->
