@@ -867,7 +867,7 @@
                                         <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                             <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
                                                 target="_blank">
-                                                <img src="{{asset('assets/img/photos/gofeast_images/mm-bitcoin.jpg')}}"
+                                                <img src="{{asset('assets/new/images/linkedin/linkedinimage.jpeg')}}"
                                                     alt="" loading="lazy">
                                             </a>
                                             <figcaption>
@@ -917,7 +917,7 @@
                                         <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                             <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
                                                 target="_blank">
-                                                <img src="{{asset('assets/img/photos/gofeast_images/hydradex.jpg')}}" alt="" loading="lazy">
+                                                <img src="{{asset('assets/new/images/linkedin/linkedinimage1.jpeg')}}" alt="" loading="lazy">
                                             </a>
                                             <figcaption>
                                                 <h5 class="from-top mb-0">Read More</h5>
@@ -929,7 +929,7 @@
                                                 <figure class="rounded mb-2 w-20">
                                                     <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
                                                         target="_blank">
-                                                        <img src="{{asset('assets/img/photos/gofeast_images/yahoo-logo.png')}}"
+                                                        <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}"
                                                             alt="" loading="lazy">
                                                     </a>
                                                 </figure>
@@ -964,7 +964,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://blockonomi.com/gofeast-a-necessity-in-modern-times/" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-blockonomi.jpeg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}" alt="">
                                         </a>
                                         <figcaption><h5>Read More</h5></figcaption>
                                     </figure>
@@ -1007,7 +1007,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://www.startuptofollow.com/article/gofeast-speciality-meat-from-the-store-to-your-door" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-bucket.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage3.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GoFeast, speciality meat from the store to your door</h2>
@@ -1028,7 +1028,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://www.cryptodaily.co.uk/2021/09/GoFeast-The-revolutionary-platform-that-will-change-the-meat-industry" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-ico-banner-conzilla.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage4.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Revolutionary Platform That Will Change The Meat Industry</h2>
@@ -1049,7 +1049,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://btcmanager.com/cryptocurrencies-are-making-breakthroughs-into-the-food-industry/" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-bucket.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage5.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Crypto Breakthroughs in Food Industry</h2>
@@ -1070,7 +1070,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://www.businessheraldonline.com/article/552257996-gofeast-token-launches-affiliate-program-and-ico-tier-2" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-bsdl.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage6.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GOMT Token Launches Affiliate Program</h2>
@@ -1091,7 +1091,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://investornytt.no/gofeast-ett-ledande-logistikforetag-for-mattransport-ock-kvalitetssakring/" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-investornytt.webp')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage7.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Fremtidens supply chain modeller</h2>
@@ -1112,7 +1112,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://www.newsbtc.com/press-releases/gofeast-launches-affiliate-program-and-ico-tier-2/" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/mm-newsbtc.png')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage8.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">GoFeast Launches Affiliate Program</h2>
@@ -1133,7 +1133,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://seekingalpha.com/pr/18650942-gofeast-token-lists-on-hydra-dex-after-sold-out-ico" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/hydradex.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage9.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Token Lists on Hydra DEX</h2>
@@ -1154,7 +1154,7 @@
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                         <a href="https://www.finanzen.net/nachricht/aktien/gofeast-token-lists-on-hydra-dex-after-a-sold-out-ico-10981062" target="_blank">
-                                            <img src="{{asset('assets/img/photos/gofeast_images/hydradex.jpg')}}" alt="">
+                                            <img src="{{asset('assets/new/images/linkedin/linkedinimage10.jpeg')}}" alt="">
                                         </a>
                                     </figure>
                                     <h2 class="post-title">Hydra DEX ICO Listing</h2>
