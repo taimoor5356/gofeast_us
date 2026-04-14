@@ -99,7 +99,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Bereket.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Chaaye_Khana.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -107,7 +107,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Shalimar.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Dominos.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -115,7 +115,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Haveli.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Hardees.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -123,7 +123,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Lasani.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Kfc.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -131,7 +131,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Minar.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Mcdonalds.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -139,7 +139,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Punjab.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Papa_Johns.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
@@ -147,7 +147,15 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/img/photos/gofeast_images/Makki Mart.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/Rahat.png')}}" alt="">
+                                    </div>
+                                </div>
+                                <!-- Company Logo End -->
+
+                                <!-- Company Logo Start -->
+                                <div class="swiper-slide">
+                                    <div class="company-logo">
+                                        <img src="{{asset('assets/new/images/restaurants/Shaan_Halal.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
