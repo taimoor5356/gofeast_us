@@ -67,6 +67,9 @@
             object-fit: cover;
             object-position: center;
         }
+        .post-item figure{
+            height: 100% !important;
+        }
     </style>
 @endsection
 <!-- Hero Section Start -->
@@ -82,13 +85,25 @@
                         <p class="wow fadeInUp" data-wow-delay="0.2s">GoFeast uses AI-powered systems to optimize orders, deliveries, and operations — creating faster experiences for customers, smarter tools for restaurants, and scalable growth for investors.</p>
                     </div>
                     <!-- Section Title End -->
-                    
-                    <!-- Hero Button Start -->
-                    <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                        <a href="#" class="btn-default btn-highlighted">Order Now</a>
-                        <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                    <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
+                        <!-- Hero Button Start -->
+                        <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="#" class="btn-default btn-highlighted">
+                                Play Store
+                            </a>
+                            <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                        </div>
+                        <!-- Hero Button End -->
+                        
+                        <!-- Hero Button Start -->
+                        <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="#" class="btn-default">
+                                App Store
+                            </a>
+                            <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                        </div>
+                        <!-- Hero Button End -->
                     </div>
-                    <!-- Hero Button End -->
 
                     <!-- Hero Company Slider Start -->
                     <div class="hero-company-slider">
@@ -435,8 +450,8 @@
                                                     </figure>
                                                 </div>            
                                                 <div class="author-content">
-                                                    <h3>Jenny W</h3>
-                                                    <p>fintech startup</p>
+                                                    <h3>Mubashir Mitra</h3>
+                                                    <p>GoFeast Customer</p>
                                                 </div>
                                             </div>
                                             <div class="testimonial-quotes-img">
@@ -444,7 +459,12 @@
                                             </div>
                                         </div>                                            
                                         <div class="testimonial-content">
-                                            <p>"Working with this team we game-changer. The AI-enhanced they delivered helped  reduce bounce rates by 40% engagement like never before."</p>
+                                            <p>“I would definitely recommend GoFeast to anyone who hasn't tried it yet,
+                                                it has been very helpful and offers same day delivery. Very reasonable
+                                                rates and timely delivery. Easily accessible app, excellent interface
+                                                also keeps me updated on the status of my orders. Customer service is
+                                                impeccable and always responsive to calls and queries. Great service 5
+                                                stars all around.”</p>
                                         </div>                                        
                                     </div>
                                 </div>
@@ -461,8 +481,8 @@
                                                     </figure>
                                                 </div>            
                                                 <div class="author-content">
-                                                    <h3>jason m</h3>
-                                                    <p>hardware Technician</p>
+                                                    <h3>Mollie</h3>
+                                                    <p>GoFeast Customer</p>
                                                 </div>
                                             </div>
                                             <div class="testimonial-quotes-img">
@@ -470,7 +490,10 @@
                                             </div>
                                         </div>                                            
                                         <div class="testimonial-content">
-                                            <p>"Working with this team we game-changer. The AI-enhanced they delivered helped  reduce bounce rates by 40% engagement like never before."</p>
+                                            <p>“The app is super easy to use and has the best rates and quality of items
+                                                with quick delivery service as well as immediate responses to calls or
+                                                queries, really happy with it after trying out the first time! I hope
+                                                they keep doing a good job and expand more!! ”</p>
                                         </div>                                        
                                     </div>
                                 </div>
@@ -487,8 +510,8 @@
                                                     </figure>
                                                 </div>            
                                                 <div class="author-content">
-                                                    <h3>Lauren M</h3>
-                                                    <p>hardware Technician</p>
+                                                    <h3>Hussain Tarik</h3>
+                                                    <p>GoDriver</p>
                                                 </div>
                                             </div>
                                             <div class="testimonial-quotes-img">
@@ -496,7 +519,150 @@
                                             </div>
                                         </div>                                            
                                         <div class="testimonial-content">
-                                            <p>"Working with this team we game-changer. The AI-enhanced they delivered helped  reduce bounce rates by 40% engagement like never before."</p>
+                                            <p>“Very reliable people to work with. Always pay on time and solve our
+                                                problems with the best solution ”</p>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-header">
+                                            <div class="testimonial-author">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-3.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Maria Johar</h3>
+                                                    <p>GoFeast Customer</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-quotes-img">
+                                                <img src="images/testimonials-quotes-img.svg" alt="">
+                                            </div>
+                                        </div>                                            
+                                        <div class="testimonial-content">
+                                            <p>“The delivery was pretty fast and the meat was fresh. The price was also
+                                                very affordable for such high quality meat. Will definitely order
+                                                again.”</p>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-header">
+                                            <div class="testimonial-author">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-3.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Sneha Chandane</h3>
+                                                    <p>GoPartner</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-quotes-img">
+                                                <img src="images/testimonials-quotes-img.svg" alt="">
+                                            </div>
+                                        </div>                                            
+                                        <div class="testimonial-content">
+                                            <p>“Excellent app by an excellent company. very happy to have work with a
+                                                Muslim owned company that understands halal meat and the middle eastern
+                                                community. i was worried to sign up as my employees are not good with
+                                                technology so GoFeast was kind enough to offer us alternative methods to
+                                                remain updated with the orders etc ”</p>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-header">
+                                            <div class="testimonial-author">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-3.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Momina Khan</h3>
+                                                    <p>GoFeast Customer</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-quotes-img">
+                                                <img src="images/testimonials-quotes-img.svg" alt="">
+                                            </div>
+                                        </div>                                            
+                                        <div class="testimonial-content">
+                                            <p>“I'm a busy woman with one little one to take care off!! Getting meat at
+                                                your doorstep beautifully packed. The convince of having the meat cut of
+                                                your choice makes me never want to have the hustle of going to market 😅
+                                                Great idea for creating such convince for us!!! ”</p>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-header">
+                                            <div class="testimonial-author">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-3.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Ali Khan</h3>
+                                                    <p>GoFeast Customer</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-quotes-img">
+                                                <img src="images/testimonials-quotes-img.svg" alt="">
+                                            </div>
+                                        </div>                                            
+                                        <div class="testimonial-content">
+                                            <p>“Reliable and this is what was needed and fast delivery cheap rates and
+                                                most importantly fresh meat ”</p>
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-header">
+                                            <div class="testimonial-author">
+                                                <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-3.jpg" alt="">
+                                                    </figure>
+                                                </div>            
+                                                <div class="author-content">
+                                                    <h3>Ali Ibrar</h3>
+                                                    <p>GoPartner</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-quotes-img">
+                                                <img src="images/testimonials-quotes-img.svg" alt="">
+                                            </div>
+                                        </div>                                            
+                                        <div class="testimonial-content">
+                                            <p>“App and the sign up process is very simple. once you are onboard, just
+                                                keep your app online and you can see all nearby orders, good to see them
+                                                expanding to new areas every day ”</p>
                                         </div>                                        
                                     </div>
                                 </div>
@@ -603,7 +769,7 @@
                     </h3>
                     
                     <div class="what-we-img wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="{{asset('assets/img/photos/gofeast_images/TokenIconsWhite.png')}}" alt="">
+                        <img src="{{asset('assets/new/images/Token-Icons.png')}}" alt="">
                     </div>
                     
                     <p class="wow fadeInUp mt-2" data-wow-delay="0.4s">
@@ -872,45 +1038,12 @@
                             <div class="post-item">
                                 <div class="item">
                                     <article>
-                                        <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                            <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
-                                                target="_blank">
+                                        <figure class="overlay overlay-1 hover-scale rounded">
+                                            <a href="#">
                                                 <img src="{{asset('assets/new/images/linkedin/linkedinimage.jpeg')}}"
                                                     alt="" loading="lazy">
                                             </a>
-                                            <figcaption>
-                                                <h5 class="from-top mb-0">Read More</h5>
-                                            </figcaption>
                                         </figure>
-                                        <h2 class="post-title">GoFeast Main Event</h2>
-                                        {{--<div class="post-header">
-                                            <div class="post-category ">
-                                                <figure class="rounded mb-2 w-20">
-                                                    <a href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
-                                                        target="_blank">
-                                                        <img src="{{asset('assets/img/photos/gofeast_images/bitcoin-logo.png')}}" alt="" loading="lazy">
-                                                    </a>
-                                                </figure>
-                                            </div>
-                                            <!-- /.post-category -->
-                                            <h2 class="post-title h3 mt-1 mb-3">
-                                                <a class="link-dark"
-                                                    href="https://news.bitcoin.com/gofeast-token-empowering-local-speciality-stores-using-blockchain/"
-                                                    target="_blank">
-                                                    Empowering Local Speciality Stores Using
-                                                    Blockchain
-                                                </a>
-                                            </h2>
-                                        </div>--}}
-                                        <!-- /.post-header -->
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>9 Sep
-                                                        2021</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                         <!-- /.post-footer -->
                                     </article>
                                     <!-- /article -->
@@ -922,45 +1055,11 @@
                             <div class="post-item">
                                 <div class="item">
                                     <article>
-                                        <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                            <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
-                                                target="_blank">
+                                        <figure class="overlay overlay-1 hover-scale rounded">
+                                            <a href="#">
                                                 <img src="{{asset('assets/new/images/linkedin/linkedinimage1.jpeg')}}" alt="" loading="lazy">
                                             </a>
-                                            <figcaption>
-                                                <h5 class="from-top mb-0">Read More</h5>
-                                            </figcaption>
                                         </figure>
-                                        <h2 class="post-title">Connect Wallet</h2>
-                                        {{--<div class="post-header">
-                                            <div class="post-category ">
-                                                <figure class="rounded mb-2 w-20">
-                                                    <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
-                                                        target="_blank">
-                                                        <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}"
-                                                            alt="" loading="lazy">
-                                                    </a>
-                                                </figure>
-                                            </div>
-                                            <!-- /.post-category -->
-                                            <h2 class="post-title h3 mt-1 mb-3">
-                                                <a class="link-dark"
-                                                    href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
-                                                    target="_blank">
-                                                    GOMT Token Lists on Hydra DEX After a Sold Out ICO
-                                                </a>
-                                            </h2>
-                                        </div>--}}
-                                        <!-- /.post-header -->
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
-                                        <!-- /.post-footer -->
                                     </article>
                                     <!-- /article -->
                                 </div>
@@ -970,42 +1069,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://blockonomi.com/gofeast-a-necessity-in-modern-times/" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}" alt="">
                                         </a>
-                                        <figcaption><h5>Read More</h5></figcaption>
                                     </figure>
-                                    <h2 class="post-title">GoFeast: A Necessity in Modern Times</h2>
-                                        {{--<div class="post-header">
-                                            <div class="post-category ">
-                                                <figure class="rounded mb-2 w-20">
-                                                    <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
-                                                        target="_blank">
-                                                        <img src="{{asset('assets/img/photos/gofeast_images/yahoo-logo.png')}}"
-                                                            alt="" loading="lazy">
-                                                    </a>
-                                                </figure>
-                                            </div>
-                                            <!-- /.post-category -->
-                                            <h2 class="post-title h3 mt-1 mb-3">
-                                                <a class="link-dark"
-                                                    href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
-                                                    target="_blank">
-                                                    GOMT Token Lists on Hydra DEX After a Sold Out ICO
-                                                </a>
-                                            </h2>
-                                        </div>--}}
-                                        <!-- /.post-header -->
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
-                                        <!-- /.post-footer -->
                                 </article>
                             </div>
                         </div>
@@ -1013,20 +1081,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://www.startuptofollow.com/article/gofeast-speciality-meat-from-the-store-to-your-door" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage3.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">GoFeast, speciality meat from the store to your door</h2>
-                                    <div class="post-footer">
-                                        <ul class="post-meta">
-                                            <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                    2022</span>
-                                            </li>
-                                        </ul>
-                                        <!-- /.post-meta -->
-                                    </div>
                                 </article>
                             </div>
                         </div>
@@ -1034,20 +1093,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://www.cryptodaily.co.uk/2021/09/GoFeast-The-revolutionary-platform-that-will-change-the-meat-industry" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage4.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">Revolutionary Platform That Will Change The Meat Industry</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1055,20 +1105,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://btcmanager.com/cryptocurrencies-are-making-breakthroughs-into-the-food-industry/" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage5.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">Crypto Breakthroughs in Food Industry</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1076,20 +1117,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://www.businessheraldonline.com/article/552257996-gofeast-token-launches-affiliate-program-and-ico-tier-2" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage6.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">GOMT Token Launches Affiliate Program</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1097,20 +1129,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://investornytt.no/gofeast-ett-ledande-logistikforetag-for-mattransport-ock-kvalitetssakring/" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage7.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">Fremtidens supply chain modeller</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1118,20 +1141,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://www.newsbtc.com/press-releases/gofeast-launches-affiliate-program-and-ico-tier-2/" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage8.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">GoFeast Launches Affiliate Program</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1139,20 +1153,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://seekingalpha.com/pr/18650942-gofeast-token-lists-on-hydra-dex-after-sold-out-ico" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage9.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">Token Lists on Hydra DEX</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1160,20 +1165,11 @@
                         <div class="swiper-slide">
                             <div class="post-item">
                                 <article>
-                                    <figure class="overlay overlay-1 hover-scale rounded mb-5">
-                                        <a href="https://www.finanzen.net/nachricht/aktien/gofeast-token-lists-on-hydra-dex-after-a-sold-out-ico-10981062" target="_blank">
+                                    <figure class="overlay overlay-1 hover-scale rounded">
+                                        <a href="#">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage10.jpeg')}}" alt="">
                                         </a>
                                     </figure>
-                                    <h2 class="post-title">Hydra DEX ICO Listing</h2>
-                                        <div class="post-footer">
-                                            <ul class="post-meta">
-                                                <li class="post-date text-primary"><i class="uil uil-calendar-alt"></i><span>31 Jan
-                                                        2022</span>
-                                                </li>
-                                            </ul>
-                                            <!-- /.post-meta -->
-                                        </div>
                                 </article>
                             </div>
                         </div>
@@ -1181,11 +1177,8 @@
                     </div>
 
                     <!-- Navigation -->
-                    <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div>
-
-                    <!-- Pagination dots -->
-                    <div class="swiper-pagination"></div>
+                    <div class="swiper-button-next text-white rounded-circle bg-danger" style="padding: 30px 30px"></div>
+                    <div class="swiper-button-prev text-white rounded-circle bg-danger" style="padding: 30px 30px"></div>
                 </div>
             </div>
         </div>
@@ -1937,7 +1930,7 @@
 @section('scripts')
 <script>
     var swiper = new Swiper(".blogSwiper", {
-        slidesPerView: 3,
+        slidesPerView: 4,
         spaceBetween: 30,
         loop: true,
 
@@ -1958,13 +1951,13 @@
 
         breakpoints: {
             0: {
-                slidesPerView: 1
-            },
-            768: {
                 slidesPerView: 2
             },
-            992: {
+            768: {
                 slidesPerView: 3
+            },
+            992: {
+                slidesPerView: 4
             }
         }
     });
