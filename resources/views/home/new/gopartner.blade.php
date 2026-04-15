@@ -678,7 +678,7 @@
                     <!-- Approach Image Start -->
                     <div class="approach-image">
                         <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/mobileapp.jpg')}}" alt="">
+                            <img src="{{asset('assets/new/images/mobileapp.png')}}" alt="">
                         </figure>
                         <!-- Approach Counter Box Start -->
                         <div class="approach-counter-box">
