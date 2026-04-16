@@ -1022,7 +1022,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title section-title-center">
                     <h3 class="wow fadeInUp">GoFeast Insights</h3>
-                    <p class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Discover our latest activities, social updates, and the moments that keep GoFeast moving every day.</span></p>
+                    <p class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Discover our latest activities, social updates, and the moments that keep <br>GoFeast moving every day.</span></p>
                 </div>
                 <!-- Section Title End -->
             </div>
