@@ -2,7 +2,7 @@
 @section('styles')
     <style>
         .first-section {
-            padding: 220px 0px;
+            padding: 120px 0px;
         }
         .approach-item .icon-box img{
             max-width: 75px !important;
@@ -470,8 +470,61 @@
  --}}
  
 
+    <!-- Our Approach Section Start -->
+    <div class="first-section mb-5">
+        <div class="container" style="padding-top: 100px;">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title section-title-center">
+                        <!-- <h3 class="wow fadeInUp">Control Orders Easily?</h3> -->
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Empowering vendors with a complete digital <span>solution!</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <!-- Approach Image Start -->
+                    <div class="approach-image">
+                        <figure class="image-anime reveal">
+                            <img src="{{asset('assets/new/images/dashboardui.png')}}" alt="">
+                        </figure>
+                    </div>
+                    <!-- Approach Image End -->
+                </div>
+                {{--<div class="col-lg-6">
+                    <!-- Approach Image Start -->
+                    <div class="approach-image">
+                        <figure class="image-anime reveal">
+                            <img src="{{asset('assets/new/images/mobileapp.png')}}" alt="">
+                        </figure>
+                        <!-- Approach Counter Box Start -->
+                        <div class="approach-counter-box">
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">15</span>+</h5>
+                                <p>Business problem</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                            <!-- Approach Counter Item Start -->
+                            <div class="approach-counter-item">
+                                <h5><span class="counter">2.3</span>+</h5>
+                                <p>Business setup</p>
+                            </div>
+                            <!-- Approach Counter Item End -->
+                        </div>
+                        <!-- Approach Counter Box End -->
+                    </div>
+                    <!-- Approach Image End -->
+                </div>--}}
+            </div>
+        </div>
+    </div>
+    <!-- Our Approach Section End -->
+
     <!-- Our Solution Section Start -->
-    <div class="first-section">
+    <div class="second-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
@@ -480,8 +533,11 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Why GoFeast</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Helping you go digital, at a fraction of the <span>cost!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We envision a world where artificial intelligence transforms lives, industries, and possibilities. Our goal is to lead this evolution by creating intuitive, ethical.</p>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">
+                                Take Your Restaurant Online — <span>Fast & Easy</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">
+                                Step into the future of delivery with a platform designed for everyone. We make it simple to go digital, attract new customers, and streamline your workflow—without complicated setups or high costs.
+                            </p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -533,7 +589,7 @@
                                 <img src="{{asset('assets/new/images/delivery.png')}}" alt="">
                             </div>
                             <div class="solution-item-content">
-                                <h3>Same Day Delivery</h3>
+                                <h3>Fast Delivery</h3>
                                 <p>As GoFeast Partner, all orders placed on your store via GoFeast Platform will be delivered by GoDrivers.</p>
                             </div>
                         </div>
@@ -554,7 +610,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">How GoFeast Works?</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Helping you go digital, at a fraction of the <span>cost!</span></h2>
+                        <!-- <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Helping you go digital, at a fraction of the <span>cost!</span></h2> -->
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -571,7 +627,7 @@
                             </h5>
                             <div class="approach-item-content">
                                 <h3>Order Placement</h3>
-                                <p>Customers place a detailed order from store through our Android and iOS customer apps.</p>
+                                <p>Customer places an order through our Android or iOS GoFeast App.</p>
                             </div>
                         </div>
                         <!-- Approach Item End -->
@@ -583,7 +639,7 @@
                             </h5>
                             <div class="approach-item-content">
                                 <h3>Preparation</h3>
-                                <p>You prepare the order and our customer service team keep the customer updated by changing its status to 'Accepted', 'In Preparation', or 'Ready for Delivery</p>
+                                <p>You prepare the order while our support team keeps the customer updated at every step.</p>
                             </div>
                         </div>
                         <!-- Approach Item End -->
@@ -595,7 +651,7 @@
                             </h5>
                             <div class="approach-item-content">
                                 <h3>Delivery</h3>
-                                <p>As soon as the order is ready, our driver will pick it up and deliver it straight to the customer’s doorstep.</p>
+                                <p>Once ready, our rider picks it up and delivers it straight to the doorstep quick, safe, and hassle-free.</p>
                             </div>
                         </div>
                         <!-- Approach Item End -->
@@ -614,84 +670,8 @@
                         <div class="approach-counter-box">
                             <!-- Approach Counter Item Start -->
                             <div class="approach-counter-item">
-                                <h5><span class="counter">15</span>+</h5>
-                                <p>Business problem</p>
-                            </div>
-                            <!-- Approach Counter Item End -->
-                            
-                            <!-- Approach Counter Item Start -->
-                            <div class="approach-counter-item">
-                                <h5><span class="counter">2.3</span>+</h5>
-                                <p>Business setup</p>
-                            </div>
-                            <!-- Approach Counter Item End -->
-                        </div>
-                        <!-- Approach Counter Box End -->
-                    </div>
-                    <!-- Approach Image End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Approach Section End -->
-
-    <!-- Our Approach Section Start -->
-    <div class="our-approach py-0 mb-5">
-        <div class="container" style="padding-top: 100px;">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Control Orders Easily?</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Empowering vendors with a complete digital <span>solution!</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Approach Image Start -->
-                    <div class="approach-image">
-                        <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/dashboard.png')}}" alt="">
-                        </figure>
-                        <!-- Approach Counter Box Start -->
-                        <div class="approach-counter-box">
-                            <!-- Approach Counter Item Start -->
-                            <div class="approach-counter-item">
-                                <h5><span class="counter">15</span>+</h5>
-                                <p>Business problem</p>
-                            </div>
-                            <!-- Approach Counter Item End -->
-                            <!-- Approach Counter Item Start -->
-                            <div class="approach-counter-item">
-                                <h5><span class="counter">2.3</span>+</h5>
-                                <p>Business setup</p>
-                            </div>
-                            <!-- Approach Counter Item End -->
-                        </div>
-                        <!-- Approach Counter Box End -->
-                    </div>
-                    <!-- Approach Image End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- Approach Image Start -->
-                    <div class="approach-image">
-                        <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/mobileapp.png')}}" alt="">
-                        </figure>
-                        <!-- Approach Counter Box Start -->
-                        <div class="approach-counter-box">
-                            <!-- Approach Counter Item Start -->
-                            <div class="approach-counter-item">
-                                <h5><span class="counter">15</span>+</h5>
-                                <p>Business problem</p>
-                            </div>
-                            <!-- Approach Counter Item End -->
-                            <!-- Approach Counter Item Start -->
-                            <div class="approach-counter-item">
-                                <h5><span class="counter">2.3</span>+</h5>
-                                <p>Business setup</p>
+                                <h5><span class="counter">24</span>/7</h5>
+                                <p>Customer Support</p>
                             </div>
                             <!-- Approach Counter Item End -->
                         </div>
