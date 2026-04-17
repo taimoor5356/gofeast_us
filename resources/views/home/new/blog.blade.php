@@ -1,8 +1,13 @@
 @extends('layouts.new.app')
 @section('styles')
     <style>
-        .page-blog {
-            padding: 220px 0px;
+        .first-section{
+            position: relative; 
+            background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat;
+            background-position: top center;
+            background-size: auto;
+            padding: 150px 80px;
+            z-index: 1;
         }
         .approach-item .icon-box img{
             max-width: 75px !important;
@@ -952,10 +957,8 @@
     <!-- /.container -->
 </section>--}}
 
-
-
     <!-- Page Blog Section Start -->
-    <div class="page-blog">
+    <div class="first-section">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -968,164 +971,171 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
                     <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
                                 <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">Ethical AI Balancing Innovation and Responsibility</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>
-
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
-                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> April 22, 2025</a></li>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">Machine Learning Demytified A Beginner's Guide</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage1.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>
-
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
-                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> april 17, 2025</a></li>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">How AI is Transforming Modern Businesses</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>
-
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
-                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 13, 2025</a></li>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">Responsible AI Shaping a Better Future Innovation</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage3.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>
-
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
-                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> April 08, 2025</a></li>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">Ethical Intelligence Driving Trust and Progress</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage4.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>
-
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp" data-wow-delay="1s">
+                    <div class="post-item wow fadeInUp">
                         <!-- Post Meta Start -->
-                        <div class="post-meta">
+                        <!-- <div class="post-meta">
                             <ul>
-                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> april 02, 2025</a></li>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Post Meta End -->
-
-                        <!-- Post Item Content Start -->
-                        <div class="post-item-content">
-                            <h2><a href="blog-single.html">AI with Integrity Innovation You Can Trust</a></h2>
-                            <p>As AI continue to evolve, ensuring use more important than ever this article explores how businesses can innovate </p>
-                        </div>
-                        <!-- Post Item Content End -->
-
-                        <!-- Post Item Readmore Button Start-->
-                        <div class="post-item-btn">
-                            <a href="blog-single.html" class="readmore-btn">read more</a>
-                        </div>
-                        <!-- Post Item Readmore Button End-->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage5.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage6.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage7.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage8.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage9.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage10.jpeg')}}" alt="">
+                    </div>
+                    <!-- Post Item End -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- Post Item Start -->
+                    <div class="post-item wow fadeInUp">
+                        <!-- Post Meta Start -->
+                        <!-- <div class="post-meta">
+                            <ul>
+                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 28, 2025</a></li>
+                            </ul>
+                        </div> -->
+                        <!-- Post Meta End -->
+                        <img src="{{asset('assets/new/images/linkedin/linkedinimage11.jpeg')}}" alt="">
                     </div>
                     <!-- Post Item End -->
                 </div>

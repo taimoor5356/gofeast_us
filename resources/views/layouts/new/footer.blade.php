@@ -23,8 +23,8 @@
                         <!-- <p><a href="#">One Pager</a></p> -->
                         <!-- <p><a href="#">GoFeast Token</a></p> -->
                         <!-- <p><a href="#">Hydra DEX</a></p> -->
-                        <p><a href="#">Become a GoDriver</a></p>
-                        <p><a href="#">Become a GoPartner</a></p>
+                        <p><a href="{{ route('new.godriver') }}">Become a GoDriver</a></p>
+                        <p><a href="{{ route('new.gopartner') }}">Become a GoPartner</a></p>
                         <!-- <p><a href="#">GoFeast Contract Explorer</a></p> -->
                     </div>
                     <!-- Footer Links End -->
@@ -35,10 +35,10 @@
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Get in touch</h3>
-                        <p><a href="#">Blogs</a></p>
-                        <p><a href="#">About Us</a></p>
-                        <p><a href="#">Contact</a></p>
-                        <p><a href="#">cs@gofeast.io</a></p>
+                        <p><a href="{{ route('new.blog') }}">Blogs</a></p>
+                        <p><a href="{{ route('new.aboutus') }}">About Us</a></p>
+                        <p><a href="{{ route('new.contactus') }}">Contact</a></p>
+                        <p><a href="mailto:cs@gofeast.io">cs@gofeast.io</a></p>
                     </div>
                     <!-- Footer Links End -->
                 </div>  
@@ -48,9 +48,9 @@
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Legal</h3>
-                        <p><a href="#">Refund policy</a></p>
-                        <p><a href="#">Privacy policy</a></p>
-                        <p><a href="#">Terms and conditions</a></p>
+                        <p><a href="{{ route('new.refundpolicy') }}">Refund policy</a></p>
+                        <p><a href="{{ route('new.privacypolicy') }}">Privacy policy</a></p>
+                        <p><a href="{{ route('new.termsandconditions') }}">Terms and conditions</a></p>
                     </div>
                     <!-- Footer Links End -->
                 </div>  

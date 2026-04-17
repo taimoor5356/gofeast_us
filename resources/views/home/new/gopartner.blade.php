@@ -1,8 +1,23 @@
 @extends('layouts.new.app')
 @section('styles')
     <style>
-        .first-section {
-            padding: 120px 0px;
+        
+        .first-section{
+            position: relative; 
+            /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
+            background-position: top center;
+            background-size: auto;
+            padding: 150px 80px;
+            z-index: 1;
+        }
+        .our-approach{
+            padding: 100px 0px;
+        }
+        .page-faqs{
+            padding: 100px 0px;
+        }
+        .approach-image img{
+            aspect-ratio: 1/0 !important;
         }
         .approach-item .icon-box img{
             max-width: 75px !important;
@@ -10,9 +25,7 @@
         .section-title h3{
             background-color: #17171792 !important;
         }
-        .how-it-work {
-            padding: 200px 0px;
-        }
+        
         .solution-item .icon-box {
             background: none !important;
         }
@@ -488,7 +501,7 @@
                     <!-- Approach Image Start -->
                     <div class="approach-image">
                         <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/dashboardui.png')}}" alt="">
+                            <img src="{{asset('assets/new/images/partnerui.png')}}" alt="">
                         </figure>
                     </div>
                     <!-- Approach Image End -->
@@ -603,7 +616,7 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Approach Section Start -->
-    <div class="our-approach py-0 mb-5">
+    <div class="our-approach mb-5">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -708,7 +721,7 @@
 
                         <!-- Section Footer Text Start -->
                         <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
-                            <p>We help businesses design, build, and deploy intelligent solutions that drive real results. <a href="contact.html">Contact Now</a></p>
+                            <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
                         </div>
                         <!-- Section Footer Text End -->
                     </div>    
@@ -737,8 +750,8 @@
                                     </div>
                                 </div>
                                 <div class="how-work-item-content">
-                                    <h3>Signup</h3>
-                                    <p>Fill out application (Accept Term & Conditions) and Sign Up</p>
+                                    <h3>Agreement</h3>
+                                    <p>Accepting and agreeing to our terms and conditions</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -754,8 +767,8 @@
                                     </div>
                                 </div>
                                 <div class="how-work-item-content">
-                                    <h3>Verification</h3>
-                                    <p>Sales team will review the form and contact store owner</p>
+                                    <h3>Signup</h3>
+                                    <p>Creating the store or restaurant on our platform</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -771,8 +784,8 @@
                                     </div>
                                 </div>
                                 <div class="how-work-item-content">
-                                    <h3>Finalize</h3>
-                                    <p>Finalize your menu and pricing</p>
+                                    <h3>Finalizing</h3>
+                                    <p>Finalizing your menu and pricing</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -836,13 +849,13 @@
                                     <div class="sidebar-cta-contact">
                                         <ul>
                                             <li class="w-50">
-                                                <h6><a href="tel:152885253">
-                                                    +1152885253
+                                                <h6><a href="tel:+19085740454">
+                                                    +1 908-574-0454
                                                 </a></h6>
                                             </li>
                                             <li class="w-50">
-                                                <h6><a href="mailto:support@domainname.com">
-                                                    support@domainname.com
+                                                <h6><a href="mailto:cs@gofeast.io">
+                                                    cs@gofeast.io
                                                 </a></h6>
                                             </li>
                                         </ul>
@@ -868,7 +881,7 @@
     <!-- Page Contact Us End -->
 
     <!-- Page Faqs Start -->
-    <div class="page-faqs pt-0">
+    <div class="page-faqs">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -949,7 +962,7 @@
                                 <!-- FAQ Item End -->
 
                                 <!-- FAQ Item Start -->
-                                <div class="accordion-item wow fadeInUp mb-2" data-wow-delay="1s">
+                                {{--<div class="accordion-item wow fadeInUp mb-2" data-wow-delay="1s">
                                     <h2 class="accordion-header" id="heading5">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                             What items do GoPartners receive?
@@ -960,7 +973,7 @@
                                             <p>All our partners receive a GoFeast tablet with their store’s dashboard with access to GoPartner app. This allows you to get notified when a new order is placed, update order status and keep track of your menu, sales and earnings. If your store is not equipped to use a tablet then we also offer alternative solutions.</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div>--}}
                                 <!-- FAQ Item End -->
                             </div>
                             <!-- FAQ Accordion End -->

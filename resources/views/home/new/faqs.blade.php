@@ -4,9 +4,17 @@
 @endsection
 @section('styles')
     <style>
-        .page-blog {
-            padding: 220px 0px;
+        .page-blog{
+            position: relative; 
+            background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat;
+            background-position: top center;
+            background-size: auto;
+            padding: 220px 0 80px;
+            z-index: 1;
         }
+        /* .page-blog {
+            padding: 220px 0px;
+        } */
         .approach-item .icon-box img{
             max-width: 75px !important;
         }

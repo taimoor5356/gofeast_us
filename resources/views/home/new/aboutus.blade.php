@@ -75,13 +75,8 @@
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">About Us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">About  <span>GoFeast!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Since 2019, GoFeast has been helping your local halal/kosher stores go digital! Powered by the GoFeast Technology Platform, consumers can place orders for meat, grocery or food and have them delivered to their doorstep on the same-day. Using Blockchain technology, GoFeast is revolutionizing the speciality meat supply chain and certification processes by making each step transparent and traceable. Thus, paving the way for a safer industry.</p>
-                        </div>
-                        <div class="section-title">
-                            <div class="hero-btn wow fadeInUp d-flex justify-content-start mb-4" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                                <a href="contact.html" class="btn-default btn-highlighted">Value Proposition</a>
-                            </div>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">GoFeast – Smarter Food, Grocery & Meat Delivery</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">GoFeast is transforming the way people order food, groceries, and meat through a reliable digital marketplace. Operating in the USA and Pakistan, we connect customers with trusted restaurants, grocery stores, and meat providers — all through one seamless platform. With a strong focus on fast deliveries, excellent customer support, and everyday convenience, GoFeast ensures orders reach your doorstep quickly and efficiently. Our advanced technology, including AI and Blockchain solutions, enhances operations, transparency, and customer experience as we continue to shape the future of commerce. From your favorite meal to essential groceries, GoFeast brings quality, speed, and convenience closer to you.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -138,7 +133,7 @@
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">Our Vision</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Vision!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Using blockchain technology, GoFeast aims to digitalize the speciality food industry by making the speciality meat supply chain and certification transparent.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Simple, affordable, and transparent delivery for everyone. We aim to make ordering food, groceries, and meat easier for every household and business through a platform built on trust, convenience, and fair pricing. Our mission is to bring reliable delivery services within reach of every community.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>

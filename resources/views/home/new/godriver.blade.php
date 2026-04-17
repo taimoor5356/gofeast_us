@@ -1,8 +1,13 @@
 @extends('layouts.new.app')
 @section('styles')
     <style>
-        .first-section {
-            padding: 220px 0px;
+        .first-section{
+            position: relative; 
+            /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
+            background-position: top center;
+            background-size: auto;
+            padding: 150px 80px;
+            z-index: 1;
         }
         .approach-item .icon-box img{
             max-width: 75px !important;
@@ -258,146 +263,82 @@
 </section>
 <!-- /section -->
  --}}
-    <!-- Our Solution Section Start -->
+
+ 
+    <!-- How It Work Section Start -->
     <div class="first-section">
         <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">GoDriver Onboarding</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Become A <span>GoDriver!</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-<div class="row">
-    <div class="col-lg-6 col-md-6">
-        <!-- About Us Box Start -->
-        <div class="about-us-box">
-            <!-- About Us Item Start -->
-            <div class="about-us-item">
-                <div class="about-item-content">
-                    <h3>GoDriver iOS App</h3>
-                    <h6>Download GoDriver iOS App to get yourself registered</h6>
-                </div>
-                <div class="icon-box">
-                    <img src="images/icon-ios.svg" alt="">
-                </div>
-            </div>
-            <!-- About Us Item End -->
-            
-            <!-- About Item Image Start -->
-            <div class="about-item-image">
-                <img src="images/godriver-ios.png" alt="">
-            </div>
-            <!-- About Item Image End -->
+            <div class="row">
+                <div class="col-lg-4">
+                    <!-- How Work Video Content Start -->
+                    <div class="how-work-video-content">
+                        <!-- How Work Video Start -->
+                        <div class="how-work-video">
+                            <!-- Selfhosted Video Start -->
+                            <!-- <video autoplay muted loop id="myvideo"><source src="images/nextmind-how-work-video.mp4" type="video/mp4"></video> -->
+                            
+                            <img src="{{ asset('assets/new/images/gorider.png') }}" alt="GoDriver">
+                            <!-- Selfhosted Video End -->
 
-            <!-- Download Button -->
-            <div class="text-center pb-3">
-                <a href="#" class="btn-default">Download</a>
-            </div>
-        </div>
-        <!-- About Us Box End -->
-    </div>
+                            <!-- Youtube Video Start -->
+                            <!-- <div id="herovideo" class="player" data-property="{videoURL:'OjTRVpgtcG4',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
+                            <!-- Youtube Video End -->
+                        </div>
+                        <!-- How Work Video Start -->
 
-    <div class="col-lg-6 col-md-6">
-        <!-- About Us Box Start -->
-        <div class="about-us-box">
-            <!-- About Us Item Start -->
-            <div class="about-us-item">
-                <div class="about-item-content">
-                    <h3>GoDriver Android App</h3>
-                    <h6>Download GoDriver Android App to get yourself registered</h6>
+                        <!-- Section Footer Text Start -->
+                        <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
+                            <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
+                        </div>
+                        <!-- Section Footer Text End -->
+                    </div>    
+                    <!-- How Work Video Content End -->                
                 </div>
-                <div class="icon-box">
-                    <img src="images/icon-android.svg" alt="">
-                </div>
-            </div>
-            <!-- About Us Item End -->
-            
-            <!-- About Item Image Start -->
-            <div class="about-item-image">
-                <img src="images/godriver-android.png" alt="">
-            </div>
-            <!-- About Item Image End -->
-
-            <!-- Download Button -->
-            <div class="text-center pb-3">
-                <a href="#" class="btn-default">Download</a>
-            </div>
-        </div>
-        <!-- About Us Box End -->
-    </div>
-</div>
-            {{--<div class="row">
-                <div class="col-lg-7">
-                    <!-- Solution Item List Start -->
-                    <div class="solution-item-list">
-                        <!-- Solution Item Start -->
-                        <div class="solution-item wow fadeInUp">
-                            <img src="{{asset('assets/img/photos/gofeast_images/drivertop.png')}}" alt="">
-                        </div>
-                        <!-- Solution Item End -->
-                        
-                        <!-- Solution Item Start -->
-                        <div class="solution-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/no-setup-cost.png')}}" alt="">
-                            </div>
-                            <div class="solution-item-content mb-3">
-                                <h3>GoDriver iOS App</h3>
-                                <p>Download GoDriver iOS App to get yourself registered</p>
-                            </div>
-                            <div class="header-btn">
-                                <a href="#" class="btn-default">Download Now</a>
-                            </div>
-                        </div>
-                        <!-- Solution Item End -->
-                        
-                        <!-- Solution Item Start -->
-                        <div class="solution-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="icon-box">
-                                <img src="{{asset('assets/img/photos/gofeast_images/marketing.png')}}" alt="">
-                            </div>
-                            <div class="solution-item-content mb-3">
-                                <h3>Marketing</h3>
-                                <p>Be part of extensive Marketing and Promotions run by GoFeast to facilitate your sales.</p>
-                            </div>
-                            <div class="header-btn">
-                                <a href="#" class="btn-default">Download Now</a>
-                            </div>
-                        </div>
-                        <!-- Solution Item End -->
-                        
-                        <!-- Solution Item Start -->
-                        <div class="solution-item wow fadeInUp" data-wow-delay="0.6s">
-                            <img src="{{asset('assets/img/photos/gofeast_images/driverbottom.png')}}" alt="">
-                        </div>
-                        <!-- Solution Item End -->
-                    </div>
-                    <!-- Solution Item List End -->
-                </div>
-                <div class="col-lg-5">
-                    <!-- Our Solution Content Start -->
-                    <div class="our-solution-content">
+                <div class="col-lg-8">
+                    <!-- How Work Content Start -->
+                    <div class="how-work-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <!-- <h3 class="wow fadeInUp">GoDriver Onboarding</h3> -->
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Become A <span>GoDriver!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">I agree that I have read and accepted the Terms and Conditions listed in the Delivery section</p>
-                            <div class="header-btn mt-3">
-                                <a href="#" class="btn-default">Learn Signup Process</a>
-                            </div>
+                            <h3 class="wow fadeInUp">GoPartner Onboarding Process</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our onboarding process is <span>simple</span></h2>
                         </div>
                         <!-- Section Title End -->
+
+                        <!-- How Work Steps Start -->
+                        <div class="how-work-steps">
+                            I agree that I have read and accepted the Terms and Conditions listed in the Delivery section
+                        </div>
+                        <!-- How Work Steps End -->
+
+                        <!-- Section Title End -->
+                        <div class="d-flex align-items-center gap-3 justify-content-start flex-wrap">
+                            <!-- Hero Button Start -->
+                            <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                                <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" class="btn-default btn-highlighted">
+                                    Play Store
+                                </a>
+                                <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                            </div>
+                            <!-- Hero Button End -->
+                            
+                            <!-- Hero Button Start -->
+                            <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                                <a href="https://apps.apple.com/us/app/gofeast/id1441921154" class="btn-default">
+                                    App Store
+                                </a>
+                                <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                            </div>
+                            <!-- Hero Button End -->
+                        </div>
+                        <!-- Hero Company Slider Start -->
                     </div>
-                    <!-- Our Solution Content ENd -->
+                    <!-- How Work Content End -->
                 </div>
-            </div>--}}
+            </div>
         </div>
     </div>
-    <!-- Our Solution Section End -->
+    <!-- How It Work Section End -->
+
     <!-- Our Solution Section Start -->
     <div class="whybecome-section">
         <div class="container">
@@ -454,6 +395,7 @@
         </div>
     </div>
     <!-- Our Solution Section End -->
+
    <!-- Page Contact Us Start -->
     <div class="page-contact-us py-4">
         <div class="container">
@@ -487,13 +429,13 @@
                                     <div class="sidebar-cta-contact">
                                         <ul>
                                             <li class="w-50">
-                                                <h6><a href="tel:152885253">
-                                                    +1152885253
+                                                <h6><a href="tel:+19085740454">
+                                                    +1 908-574-0454
                                                 </a></h6>
                                             </li>
                                             <li class="w-50">
-                                                <h6><a href="mailto:support@domainname.com">
-                                                    support@domainname.com
+                                                <h6><a href="mailto:cs@gofeast.io">
+                                                    cs@gofeast.io
                                                 </a></h6>
                                             </li>
                                         </ul>

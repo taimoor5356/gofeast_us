@@ -94,7 +94,7 @@
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="#" class="btn-default btn-highlighted">
+                            <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" class="btn-default btn-highlighted">
                                 Play Store
                             </a>
                             <!-- <a href="#" class="btn-default">Buy Now</a> -->
@@ -103,14 +103,13 @@
                         
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="#" class="btn-default">
+                            <a href="https://apps.apple.com/us/app/gofeast/id1441921154" class="btn-default">
                                 App Store
                             </a>
                             <!-- <a href="#" class="btn-default">Buy Now</a> -->
                         </div>
                         <!-- Hero Button End -->
                     </div>
-
                     <!-- Hero Company Slider Start -->
                     <div class="hero-company-slider">
                         <p>Already chosen by the leaders</p>
@@ -210,18 +209,18 @@
                 <!-- Project Item Start -->
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
-                        <a href="project-single.html" data-cursor-text="View">
+                        <a href="{{route('new.gopartner')}}" data-cursor-text="View">
                             <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon1.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">GoPartner</a></h3>
+                        <h3><a href="{{route('new.gopartner')}}">GoPartner</a></h3>
                         <small>Reach out to new customers and increase your online presence, no setup costs!</small>
                     </div>
                     <div class="project-btn">
-                        <a href="project-single.html">
+                        <a href="{{route('new.gopartner')}}">
                             <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
                         </a>
                     </div>
@@ -232,18 +231,18 @@
                 <!-- Project Item Start -->
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
-                        <a href="project-single.html" data-cursor-text="View">
+                        <a href="{{route('new.godriver')}}" data-cursor-text="View">
                             <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon2.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">GoDriver</a></h3>
+                        <h3><a href="{{route('new.godriver')}}">GoDriver</a></h3>
                         <small>Deliver when you want and where you want, earn the highest payout in the industry!</small>
                     </div>
                     <div class="project-btn">
-                        <a href="project-single.html">
+                        <a href="{{route('new.godriver')}}">
                             <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
                         </a>
                     </div>
@@ -254,18 +253,18 @@
                 <!-- Project Item Start -->
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
-                        <a href="project-single.html" data-cursor-text="View">
+                        <a href="javascript:void(0);" data-cursor-text="View">
                             <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon3.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">Ordering App</a></h3>
+                        <h3><a href="javascript:void(0);">Ordering App</a></h3>
                         <small>Enjoy exclusive discounts and fast delivery from your favorite stores!</small>
                     </div>
                     <div class="project-btn">
-                        <a href="project-single.html">
+                        <a href="javascript:void(0);">
                             <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
                         </a>
                     </div>
@@ -276,18 +275,18 @@
                 <!-- Project Item Start -->
                 <div class="project-item wow fadeInUp">
                     <div class="project-image">
-                        <a href="project-single.html" data-cursor-text="View">
+                        <a href="javascript:void(0);" data-cursor-text="View">
                             <figure class="image-anime card-img-p d-flex justify-content-center align-items-center">
                                 <img src="{{asset('assets/new/images/Icon4.png')}}" alt="">
                             </figure>
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="project-single.html">GoFeast Token</a></h3>
+                        <h3><a href="javascript:void(0);">GoFeast Token</a></h3>
                         <small>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</small>
                     </div>
                     <div class="project-btn">
-                        <a href="project-single.html">
+                        <a href="javascript:void(0);">
                             <img src="{{asset('assets/new/images/arrow-white.svg')}}" alt="">
                         </a>
                     </div>
@@ -747,7 +746,7 @@
             <div class="col-lg-12">
                 <!-- Section Footer Text Start -->
                 <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
-                    <p><span>Order Now</span> Get your favorite products delivered today. <a href="contact.html">Start Shopping</a></p>
+                    <p><span>Order Now</span> Get your favorite products delivered today. <a href="javascript:void(0);">Start Shopping</a></p>
                 </div>
                 <!-- Section Footer Text End -->
             </div>
@@ -1036,7 +1035,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1048,7 +1047,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage1.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1060,7 +1059,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage2.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1072,7 +1071,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage3.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1084,7 +1083,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage4.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1096,7 +1095,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage5.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1108,7 +1107,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage6.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1120,7 +1119,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage7.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1132,7 +1131,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage8.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1144,7 +1143,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage9.jpeg')}}" alt="">
                                         </a>
                                     </figure>
@@ -1156,7 +1155,7 @@
                             <div class="post-item" style="background: none; border: none; ">
                                 <article>
                                     <figure class="overlay overlay-1 hover-scale rounded">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <img src="{{asset('assets/new/images/linkedin/linkedinimage10.jpeg')}}" alt="">
                                         </a>
                                     </figure>
