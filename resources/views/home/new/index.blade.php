@@ -135,7 +135,7 @@
                                 <!-- Company Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="{{asset('assets/new/images/restaurants/Hardees.png')}}" alt="">
+                                        <img src="{{asset('assets/new/images/restaurants/hardees.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Company Logo End -->
