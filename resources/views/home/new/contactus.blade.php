@@ -32,7 +32,7 @@
         .csr-testimonial-slider::before {
             content: none !important;
         }
-        .section-row {
+        .contactus-section-row {
             margin-bottom: 0px !important;
         }
     </style>
@@ -173,7 +173,7 @@
  <!-- Customer Support Section Start -->
 <div class="page-blog">
     <div class="container">
-        <div class="row section-row">
+        <div class="row section-row contactus-section-row">
             <div class="col-lg-12">
                 <!-- Section Title Start -->
                 <div class="section-title section-title-center">
