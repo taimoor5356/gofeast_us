@@ -501,7 +501,7 @@
                     <!-- Approach Image Start -->
                     <div class="approach-image">
                         <figure class="image-anime reveal">
-                            <img src="{{asset('assets/new/images/partnerui.png')}}" alt="">
+                            <img src="{{asset('assets/new/images/partner.png')}}" alt="">
                         </figure>
                     </div>
                     <!-- Approach Image End -->

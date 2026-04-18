@@ -87,7 +87,7 @@
                 <div class="hero-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">Revolutionizing Food Delivery </h1>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">Innovating Food Delivery </h1>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering—powered by AI <br> and blockchain, with real social impact.</p>
                     </div>
                     <!-- Section Title End -->
@@ -716,7 +716,7 @@
                         <h3>Stores & Restaurants</h3>
                     </div>
                     <div class="facts-item-counter">
-                        <h2><span class="counter">1000</span>+</h2>
+                        <h2><span class="counter">2000</span>+</h2>
                         <p>Partners</p>
                     </div>
                     <div class="facts-item-content">
@@ -997,7 +997,7 @@
                                 <div class="swiper-slide">
                                     <div class="testimonial-item">
                                         <div class="testimonial-content">
-                                            <img src="{{asset('assets/new/images/contactus.png')}}" class="rounded" alt="">
+                                            <img src="{{asset('assets/new/images/customer_support.png')}}" class="rounded" alt="">
                                         </div>                                        
                                     </div>
                                 </div>

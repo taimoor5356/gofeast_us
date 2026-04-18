@@ -1,12 +1,15 @@
 @extends('layouts.new.app')
 @section('styles')
     <style>
+        .how-work-steps ul {
+            padding-left: 1rem !important;
+        }
         .first-section{
             position: relative; 
             /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
             background-position: top center;
             background-size: auto;
-            padding: 150px 80px;
+            padding: 200px 80px 0px 80px;
             z-index: 1;
         }
         .approach-item .icon-box img{
@@ -264,49 +267,49 @@
 <!-- /section -->
  --}}
 
- 
     <!-- How It Work Section Start -->
     <div class="first-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <!-- How Work Video Content Start -->
-                    <div class="how-work-video-content">
-                        <!-- How Work Video Start -->
-                        <div class="how-work-video">
-                            <!-- Selfhosted Video Start -->
-                            <!-- <video autoplay muted loop id="myvideo"><source src="images/nextmind-how-work-video.mp4" type="video/mp4"></video> -->
-                            
-                            <img src="{{ asset('assets/new/images/gorider.png') }}" alt="GoDriver">
-                            <!-- Selfhosted Video End -->
-
-                            <!-- Youtube Video Start -->
-                            <!-- <div id="herovideo" class="player" data-property="{videoURL:'OjTRVpgtcG4',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
-                            <!-- Youtube Video End -->
-                        </div>
-                        <!-- How Work Video Start -->
-
-                        <!-- Section Footer Text Start -->
-                        <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
-                            <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
-                        </div>
-                        <!-- Section Footer Text End -->
-                    </div>    
-                    <!-- How Work Video Content End -->                
+                <div class="section-title section-title-center">
+                    <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">why become a godriver</h3>
+                    <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our onboarding process is <span>Simple</span></h2>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-lg-8">
                     <!-- How Work Content Start -->
                     <div class="how-work-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">GoPartner Onboarding Process</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our onboarding process is <span>simple</span></h2>
+                            <p>At GoFeast, our drivers are the true backbone of our service. Their dedication, hard work, and commitment keep every order moving and every customer satisfied. <br>Rain or shine, they go the extra mile to deliver on time with care and professionalism. We proudly appreciate our GoDrivers for carrying the trust of our customers every single day.</p>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- How Work Steps Start -->
                         <div class="how-work-steps">
-                            I agree that I have read and accepted the Terms and Conditions listed in the Delivery section
+                            <ul>
+                                <li class="wow fadeInUp" data-wow-delay="0.2s">
+                                    <p>Fill out a quick registration form with your basic details.</p>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="0.4s">
+                                    <p>Submit your CNIC, driving license, and vehicle documents for review.</p>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="0.6s">
+                                    <p>Get introduced to the GoFeast app, delivery standards, and customer service expectations.</p>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="0.8s">
+                                    <p>Once approved, go online and begin receiving delivery requests immediately.</p>
+                                </li>
+                            </ul>
+                            <!-- 1. Apply
+                            Fill out a quick registration form with your basic details.
+                            2. Document Verification
+                            Submit your CNIC, driving license, and vehicle documents for review.
+                            3. Training & Orientation
+                            Get introduced to the GoFeast app, delivery standards, and customer service expectations.
+                            4. Start Earning
+                            Once approved, go online and begin receiving delivery requests immediately. -->
                         </div>
                         <!-- How Work Steps End -->
 
@@ -334,6 +337,31 @@
                     </div>
                     <!-- How Work Content End -->
                 </div>
+                <div class="col-lg-4">
+                    <!-- How Work Video Content Start -->
+                    <div class="how-work-video-content">
+                        <!-- How Work Video Start -->
+                        <div class="how-work-video">
+                            <!-- Selfhosted Video Start -->
+                            <!-- <video autoplay muted loop id="myvideo"><source src="images/nextmind-how-work-video.mp4" type="video/mp4"></video> -->
+                            
+                            <img src="{{ asset('assets/new/images/driver.png') }}" alt="GoDriver">
+                            <!-- Selfhosted Video End -->
+
+                            <!-- Youtube Video Start -->
+                            <!-- <div id="herovideo" class="player" data-property="{videoURL:'OjTRVpgtcG4',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
+                            <!-- Youtube Video End -->
+                        </div>
+                        <!-- How Work Video Start -->
+
+                        <!-- Section Footer Text Start -->
+                        <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
+                            <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
+                        </div>
+                        <!-- Section Footer Text End -->
+                    </div>    
+                    <!-- How Work Video Content End -->                
+                </div>
             </div>
         </div>
     </div>
@@ -348,6 +376,7 @@
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">why become a godriver</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Why become a <span>GoDriver?</span></h2>
+                        <p>Join a growing network of motivated riders earning flexible income while being part of a trusted delivery platform. Whether you want full-time earnings or extra income, GoDriver gives you the opportunity to grow with us.</p>
                     </div>
                     <!-- Section Title End -->
                 </div>         

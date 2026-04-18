@@ -29,7 +29,7 @@
                             <li class="nav-item submenu"><a class="nav-link" href="#">Help</a>
                                 <ul>                                        
                                     <li class="nav-item"><a class="nav-link" href="{{route('new.faqs')}}">FAQs</a></li>
-                                    <!-- <li class="nav-item"><a class="nav-link" href="{{route('new.contactus')}}">Contact Us</a></li> -->
+                                    <li class="nav-item"><a class="nav-link" href="{{route('new.contactus')}}">Contact Us</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="{{route('new.aboutus')}}">About Us</a></li>                   

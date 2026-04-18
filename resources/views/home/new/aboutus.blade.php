@@ -2,10 +2,13 @@
 @section('styles')
     <style>
         .first-section {
-            padding: 220px 0px 0px 0px;
+            padding: 220px 0px 100px 0px;
+        }
+        .third-section {
+            padding: 120px 0px 0px 0px;
         }
         .last-section {
-            padding: 220px 0px 180px 0px;
+            padding: 120px 0px 180px 0px;
         }
         .gomttoken-section {
             padding: 80px 0px 0px 0px;
@@ -69,7 +72,7 @@
     <div class="first-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-6">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -83,7 +86,7 @@
                     <!-- Our Solution Content ENd -->
                 </div>
 
-                <div class="col-lg-7">
+                <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
                       <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/gomt-proposition.jpg" alt=""></figure>
@@ -95,23 +98,23 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Solution Section Start -->
-    <div class="first-section">
+    <div class="second-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
+                <div class="col-lg-4">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
                       <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/our-mission.png')}}" alt=""></figure>
                   </div>
                 </div>
-                <div class="col-lg-5">
+                <div class="col-lg-8">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">Our Mission</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Mission!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">GoFeast strives to be the leading digital marketplace connecting consumers with speciality meat stores and offering same-day delivery services powered by the GoFeast Technology Platform.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Smart systems powered by AI and blockchain technology. We use innovation to improve delivery speed, optimize operations, enhance customer experience, and create greater transparency across the supply chain. Our technology helps us deliver smarter, faster, and more efficiently every day.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -123,10 +126,10 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Solution Section Start -->
-    <div class="first-section">
+    <div class="third-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-8">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -139,7 +142,7 @@
                     </div>
                     <!-- Our Solution Content ENd -->
                 </div>
-                <div class="col-lg-7">
+                <div class="col-lg-4">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
                       <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/vision.png')}}" alt=""></figure>
@@ -154,20 +157,20 @@
     <div class="last-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
+                <div class="col-lg-4">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
                       <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/business.png')}}" alt=""></figure>
                   </div>
                 </div>
-                <div class="col-lg-5">
+                <div class="col-lg-8">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">Our Business Model</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Business Model!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Our Business Model is one of the simplest in the Tech industry offering steady and consistent revenue streams with no cash collection risks and high cash flows. GoFeast is a Logistics Technology Startup and not a meat seller. We are providing a technology marketplace for the buying and selling of speciality (halal and kosher) meat along with in-app speciality certifications.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Creating opportunities through an inclusive, women-led workforce. We believe in empowering talent, supporting equal opportunities, and building a stronger community through meaningful employment. By investing in people, we create positive social and economic impact that grows with every delivery.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
