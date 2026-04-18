@@ -7,7 +7,7 @@
             /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
             background-position: top center;
             background-size: auto;
-            padding: 150px 80px;
+            padding: 100px 80px;
             z-index: 1;
         }
         .our-approach{
@@ -304,7 +304,8 @@
                             </div>
                             <div>
                                 <h5 class="mb-1">Phone</h5>
-                                <p><a href="tel:13123133533" class="link-body">+1 312-313-3533</a></p>
+                                <p><a href="tel:+19085740454" class="link-body">+1 908-574-0454</a></p>
+                                <p><a href="tel:+923377777761" class="link-body">+92 337-7777-761</a></p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -490,8 +491,8 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
-                        <!-- <h3 class="wow fadeInUp">Control Orders Easily?</h3> -->
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Empowering vendors with a complete digital <span>solution!</span></h2>
+                        <h3 class="wow fadeInUp">GoPartner</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><b style="font-weight: 900;">Empowering vendors with a </b><br> complete digital <span>solution!</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -551,6 +552,25 @@
                             <p class="wow fadeInUp" data-wow-delay="0.4s">
                                 Step into the future of delivery with a platform designed for everyone. We make it simple to go digital, attract new customers, and streamline your workflow—without complicated setups or high costs.
                             </p>
+                        </div>
+                        <div class="d-flex align-items-center gap-3 justify-content-start flex-wrap">
+                            <!-- Hero Button Start -->
+                            <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                                <a href="https://play.google.com/store/apps/details?id=com.gomeat.partners" class="btn-default btn-highlighted">
+                                    Play Store
+                                </a>
+                                <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                            </div>
+                            <!-- Hero Button End -->
+                            
+                            <!-- Hero Button Start -->
+                            <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                                <a href="https://apps.apple.com/in/app/gopartners/id1534134861" class="btn-default">
+                                    App Store
+                                </a>
+                                <!-- <a href="#" class="btn-default">Buy Now</a> -->
+                            </div>
+                            <!-- Hero Button End -->
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -652,7 +672,7 @@
                             </h5>
                             <div class="approach-item-content">
                                 <h3>Preparation</h3>
-                                <p>You prepare the order while our support team keeps the customer updated at every step.</p>
+                                <p>You prepare the order while our system keeps the customer updated at every step.</p>
                             </div>
                         </div>
                         <!-- Approach Item End -->
@@ -721,7 +741,7 @@
 
                         <!-- Section Footer Text Start -->
                         <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
-                            <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
+                            <p>We help our partners to grow and create online presence. <br><a href="{{ route('new.contactus') }}">Contact Now</a></p>
                         </div>
                         <!-- Section Footer Text End -->
                     </div>    
@@ -850,11 +870,18 @@
                                         <ul>
                                             <li class="w-50">
                                                 <h6><a href="tel:+19085740454">
-                                                    +1 908-574-0454
+                                                    <img src="{{asset('assets/new/images/usflag.png')}}" height="15px" width="30px" alt="">+1 908-574-0454
+                                                </a></h6>
+                                            </li>
+                                            <li class="w-50">
+                                                <h6><a href="tel:+923377777761">
+                                                    <img src="{{asset('assets/new/images/pkflag.png')}}" height="15px" width="30px" alt="">
+                                                    +92 337-7777-761
                                                 </a></h6>
                                             </li>
                                             <li class="w-50">
                                                 <h6><a href="mailto:cs@gofeast.io">
+                                                    <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="30px" alt="">
                                                     cs@gofeast.io
                                                 </a></h6>
                                             </li>

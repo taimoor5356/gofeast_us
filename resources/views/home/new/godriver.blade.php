@@ -271,10 +271,6 @@
     <div class="first-section">
         <div class="container">
             <div class="row">
-                <div class="section-title section-title-center">
-                    <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">why become a godriver</h3>
-                    <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our onboarding process is <span>Simple</span></h2>
-                </div>
             </div>
             <div class="row">
                 <div class="col-lg-8">
@@ -282,7 +278,9 @@
                     <div class="how-work-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <p>At GoFeast, our drivers are the true backbone of our service. Their dedication, hard work, and commitment keep every order moving and every customer satisfied. <br>Rain or shine, they go the extra mile to deliver on time with care and professionalism. We proudly appreciate our GoDrivers for carrying the trust of our customers every single day.</p>
+                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">why become a godriver</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our onboarding process <br>is <span>Simple</span></h2>
+                            <p>At GoFeast, our drivers are the true backbone of our service. Their dedication, hard work <br>and commitment keep every order moving and every customer satisfied. <br><br>Rain or shine, they go the extra mile to deliver on time with care and professionalism. We <br>proudly appreciate our GoDrivers for carrying the trust of our customers every single day.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -317,7 +315,7 @@
                         <div class="d-flex align-items-center gap-3 justify-content-start flex-wrap">
                             <!-- Hero Button Start -->
                             <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                                <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" class="btn-default btn-highlighted">
+                                <a href="https://play.google.com/store/apps/details?id=com.gomeat.driverapp" class="btn-default btn-highlighted">
                                     Play Store
                                 </a>
                                 <!-- <a href="#" class="btn-default">Buy Now</a> -->
@@ -326,7 +324,7 @@
                             
                             <!-- Hero Button Start -->
                             <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                                <a href="https://apps.apple.com/us/app/gofeast/id1441921154" class="btn-default">
+                                <a href="https://apps.apple.com/pk/app/gofeast-driver/id6757268774" class="btn-default">
                                     App Store
                                 </a>
                                 <!-- <a href="#" class="btn-default">Buy Now</a> -->
@@ -355,9 +353,9 @@
                         <!-- How Work Video Start -->
 
                         <!-- Section Footer Text Start -->
-                        <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
                             <p>We help our partners to grow and create online presence. <br><a href="javascript:void(0);">Contact Now</a></p>
-                        </div>
+                        </div> -->
                         <!-- Section Footer Text End -->
                     </div>    
                     <!-- How Work Video Content End -->                
@@ -459,11 +457,18 @@
                                         <ul>
                                             <li class="w-50">
                                                 <h6><a href="tel:+19085740454">
-                                                    +1 908-574-0454
+                                                    <img src="{{asset('assets/new/images/usflag.png')}}" height="15px" width="30px" alt="">+1 908-574-0454
+                                                </a></h6>
+                                            </li>
+                                            <li class="w-50">
+                                                <h6><a href="tel:+923377777761">
+                                                    <img src="{{asset('assets/new/images/pkflag.png')}}" height="15px" width="30px" alt="">
+                                                    +92 337-7777-761
                                                 </a></h6>
                                             </li>
                                             <li class="w-50">
                                                 <h6><a href="mailto:cs@gofeast.io">
+                                                    <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="30px" alt="">
                                                     cs@gofeast.io
                                                 </a></h6>
                                             </li>

@@ -78,7 +78,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">About Us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">GoFeast – Smarter Food, Grocery & Meat Delivery</h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Smarter Food, Grocery & Meat <span>Delivery</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">GoFeast is transforming the way people order food, groceries, and meat through a reliable digital marketplace. Operating in the USA and Pakistan, we connect customers with trusted restaurants, grocery stores, and meat providers — all through one seamless platform. With a strong focus on fast deliveries, excellent customer support, and everyday convenience, GoFeast ensures orders reach your doorstep quickly and efficiently. Our advanced technology, including AI and Blockchain solutions, enhances operations, transparency, and customer experience as we continue to shape the future of commerce. From your favorite meal to essential groceries, GoFeast brings quality, speed, and convenience closer to you.</p>
                         </div>
                         <!-- Section Title End -->
@@ -101,13 +101,14 @@
     <div class="second-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                    <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
-                      <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/our-mission.png')}}" alt=""></figure>
+                    <figure class="rounded" style="padding-left: 90px">
+                        <img src="{{asset('assets/new/images/mission.png')}}" alt="">
+                    </figure>
                   </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -129,7 +130,7 @@
     <div class="third-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -142,10 +143,11 @@
                     </div>
                     <!-- Our Solution Content ENd -->
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                    <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
-                      <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/vision.png')}}" alt=""></figure>
+                      <figure class="rounded" style="padding-left: 90px">
+                        <img src="{{asset('assets/new/images/vision.png')}}" alt="">
+                    </figure>
                   </div>
                 </div>
             </div>
@@ -157,19 +159,20 @@
     <div class="last-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                    <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
-                      <figure class="rounded"><img src="{{asset('assets/img/photos/gofeast_images/business.png')}}" alt=""></figure>
+                      <figure class="rounded" style="padding-left: 90px">
+                        <img src="{{asset('assets/new/images/business.png')}}" alt="">
+                    </figure>
                   </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
-                            <h3 class="wow fadeInUp">Our Business Model</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Business Model!</span></h2>
+                            <h3 class="wow fadeInUp">Our Technology</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Technology!</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">Creating opportunities through an inclusive, women-led workforce. We believe in empowering talent, supporting equal opportunities, and building a stronger community through meaningful employment. By investing in people, we create positive social and economic impact that grows with every delivery.</p>
                         </div>
                         <!-- Section Title End -->

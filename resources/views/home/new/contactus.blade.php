@@ -6,9 +6,16 @@
             background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat;
             background-position: top center;
             background-size: auto;
-            padding: 220px 0 80px;
+            padding: 220px 0px 0px 0px;
             z-index: 1;
         }
+
+        .testimonials-box {
+            background: none;
+            border: none;
+            padding: 0px;
+        }
+
         /* .page-blog {
             padding: 220px 0px;
         } */
@@ -17,6 +24,16 @@
         }
         .our-solution-content {
             margin-left: 15px !important;
+        }
+        .csr-testimonial-slider .swiper{
+            background: none !important;
+            border: none !important;
+        }
+        .csr-testimonial-slider::before {
+            content: none !important;
+        }
+        .section-row {
+            margin-bottom: 0px !important;
         }
     </style>
 @endsection
@@ -151,79 +168,75 @@
     <!-- /.container -->
 </section>--}}
 
-    <!-- Page Blog Section Start -->
-    <div class="page-blog">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h2 class="wow fadeInUp">Contact Us</h2>
-                    </div>
-                    <!-- Section Title End -->
+
+
+ <!-- Customer Support Section Start -->
+<div class="page-blog">
+    <div class="container">
+        <div class="row section-row">
+            <div class="col-lg-12">
+                <!-- Section Title Start -->
+                <div class="section-title section-title-center">
+                    <h3 class="wow fadeInUp">Contact Us</h3>
+                    <h2 class="wow fadeInUp">Get In <span>Touch</span></h2>
                 </div>
+                <!-- Section Title End -->
             </div>
-            <div class="row">
-                <div class="col-lg-7 position-relative">
-                    <div class="row gx-md-5 gy-5">
-                        <div class="col-md-6">
-                            <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/order-delivered.png" alt="">
-                            </figure>
-                        </div>
-                        <!--/column -->
-                        <div class="col-md-6">
-                            <div class="row gx-md-5 gy-5">
-                                <div class="col-md-12 order-md-2">
-                                    <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/store-contact.png" alt="">
-                                    </figure>
-                                </div>
-                                <!--/column -->
-                                <div class="col-md-10">
-                                    <!-- <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/store.png" alt="">
-                                            </figure> -->
-                                    <div class="card bg-dark text-center counter-wrapper">
-                                        <div class="card-body py-11">
-                                            <h3 class="text-nowrap display-1">24/7</h3>
-                                            <p class="mb-0 text-white">Customer Support</p>
-                                        </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="testimonials-box">    
+
+                    <!-- Testimonial Slider Start -->
+                    <div class="testimonial-slider csr-testimonial-slider">
+                        <div class="swiper">
+                            <div class="swiper-wrapper">
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <img src="{{asset('assets/new/images/contactus_img.png')}}" class="rounded" alt="">
+                                        </div>                                        
                                     </div>
-                                    <!--/.card -->
                                 </div>
-                                <!--/column -->
-                            </div>
-                            <!--/.row -->
-                        </div>
-                        <!--/column -->
-                    </div>
-                    <!--/.row -->
-                </div>
-                <div class="col-lg-5">
-                    <h2 class="display-4 mb-8">Need some help? Reach out to us</h2>
-                    <div class="d-flex flex-row">
-                        <div>
-                            <div class="icon text-primary fs-28 me-6 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                <!-- Testimonial Slide End -->
                             </div>
                         </div>
-                        <div>
-                            <h5 class="mb-1">Phone</h5>
-                            <p>
-                                <a href="tel:+19085740454" class="text-white">+1908-574-0454</a>
+                    </div>
+                    <!-- Testimonial Slider End -->    
+                    <!-- Testimonials Content Start -->
+                    <div class="testimonials-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Need some help? Reach out to <span>us</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">We’re here to help you anytime. Our dedicated support team ensures quick responses, reliable solutions, and a smooth experience for every user.
+                                <br>
+                                <br>
+                                Quick delivery at your door step is just a click away. Trained professional customer service representative providing you immediate response on every query.
                             </p>
                         </div>
-                    </div>
-                    <div class="d-flex flex-row">
-                        <div>
-                            <div class="icon text-primary fs-28 me-6 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                        <!-- Section Title End -->
+                        
+                        <!-- Testimonials Body Start -->
+                        <div class="testimonials-body">
+                            <!-- Testimonials Counter Item Start -->
+                            <div class="testimonials-counter-item">
+                                <p>Phone:</p>
+                                <h6><a href="tel:+19085740454" class="text-white"><img src="{{asset('assets/new/images/usflag.png')}}" height="20px" width="30px" alt=""> +1908-574-0454</a></h6>
+                                <h6 class="mt-2"><a href="tel:+923377777761" class="text-white"><img src="{{asset('assets/new/images/pkflag.png')}}" height="20px" width="30px" alt=""> +92 337-7777-761</a></h6>
+                                <br>
+                                <p>Email:</p>
+                                <h6><a href="mailto:info@gofeast.com" class="text-white">info@gofeast.com</a></h6>
+                            </div>
+                            <!-- Testimonials Counter Item End -->
                         </div>
-                        <div>
-                            <h5 class="mb-1">E-mail</h5>
-                            <p class="mb-0"><a href="mailto:cs@gofeast.io" class="link-body text-white">cs@gofeast.io</a>
-                            </p>
-                        </div>
+                        <!-- Testimonials Body End -->
                     </div>
+                    <!-- Testimonials Content End -->         
                 </div>
             </div>
         </div>
     </div>
-    <!-- Page Blog Section End -->
+</div>
+<!-- Customer Support Section End -->
 @endsection

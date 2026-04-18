@@ -38,7 +38,7 @@
                     
                     <!-- Header Btn Start -->
                     <div class="header-btn">
-                        <a href="#" class="btn-default">Order Now</a>
+                        <a href="https://order.gofeast.io" target="_blank" class="btn-default">Order Now</a>
                     </div>
                     <!-- Header Btn End -->
                 </div>

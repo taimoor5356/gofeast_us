@@ -1192,7 +1192,8 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
-                        <h2 class="wow fadeInUp">FAQs</h2>
+                        <h3 class="wow fadeInUp">FAQs</h3>
+                        <h2 class="wow fadeInUp">Frequently Asked <span>Questions</span></h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">If you don't see an answer to your question, you can send us an email or reach out directly to our customer support team via call or live-chat.</p>
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">

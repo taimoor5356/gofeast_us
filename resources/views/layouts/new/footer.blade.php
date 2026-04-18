@@ -8,8 +8,8 @@
             <div class="col-lg-12">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h2 class="wow fadeInUp" data-cursor="-opaque">Let's start work <span>together!</span></h2>
-                    <p class="wow fadeInUp" data-wow-delay="0.2s">Partner with us to create intelligent, impactful, and future-ready AI solutions together.</p>
+                    <h2 class="wow fadeInUp" data-cursor="-opaque">Feed your hunger. <span>We deliver!</span></h2>
+                    <p class="wow fadeInUp" data-wow-delay="0.2s">Delicious food delivered quickly so your cravings are satisfied without waiting.</p>
                 </div>
                 <!-- Section Title End -->
             </div>
@@ -22,7 +22,7 @@
                         <h3>Pages</h3>
                         <!-- <p><a href="#">One Pager</a></p> -->
                         <!-- <p><a href="#">GoFeast Token</a></p> -->
-                        <!-- <p><a href="#">Hydra DEX</a></p> -->
+                        <p><a href="{{ route('new.home') }}">Home</a></p>
                         <p><a href="{{ route('new.godriver') }}">Become a GoDriver</a></p>
                         <p><a href="{{ route('new.gopartner') }}">Become a GoPartner</a></p>
                         <!-- <p><a href="#">GoFeast Contract Explorer</a></p> -->
@@ -48,8 +48,8 @@
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Legal</h3>
-                        <p><a href="{{ route('new.refundpolicy') }}">Refund policy</a></p>
-                        <p><a href="{{ route('new.privacypolicy') }}">Privacy policy</a></p>
+                        <!-- <p><a href="{{ route('new.refundpolicy') }}">Refund policy</a></p>
+                        <p><a href="{{ route('new.privacypolicy') }}">Privacy policy</a></p> -->
                         <p><a href="{{ route('new.termsandconditions') }}">Terms and conditions</a></p>
                     </div>
                     <!-- Footer Links End -->
@@ -80,7 +80,7 @@
             <div class="col-lg-12">
                 <!-- Footer Copyright Text Start -->
                 <div class="footer-copyright-text ">
-                    <p class="mb-2">US 22 West - Suite 200, Bridgetwater, NJ, 08502 USA</p>
+                    <!-- <p class="mb-2">US 22 West - Suite 200, Bridgetwater, NJ, 08502 USA</p> -->
                     <small class="text-white">© {{ date('Y') }} GoFeast. All rights reserved.</small>
                 </div>
                 <!-- Footer Copyright Text End -->     

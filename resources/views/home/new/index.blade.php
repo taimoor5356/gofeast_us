@@ -76,6 +76,13 @@
         .feastron-section-title ul {
             padding: 15px;
         }
+        .csr-testimonial-slider .swiper{
+            background: none !important;
+            border: none !important;
+        }
+        .csr-testimonial-slider::before {
+            content: none !important;
+        }
     </style>
 @endsection
 <!-- Hero Section Start -->
@@ -87,8 +94,8 @@
                 <div class="hero-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">Innovating Food Delivery </h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering—powered by AI <br> and blockchain, with real social impact.</p>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque"><b style="font-weight: 900;">Innovating</b> <br><b style="font-weight: 500;">Food Delivery</b></h1>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, with real social impact.</p>
                     </div>
                     <!-- Section Title End -->
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
@@ -746,7 +753,7 @@
             <div class="col-lg-12">
                 <!-- Section Footer Text Start -->
                 <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
-                    <p><span>Order Now</span> Get your favorite products delivered today. <a href="javascript:void(0);">Start Shopping</a></p>
+                    <p><span>Order Now</span> Get your favorite products delivered today. <a href="https://order.gofeast.io" target="_blank">Start Shopping</a></p>
                 </div>
                 <!-- Section Footer Text End -->
             </div>
@@ -754,6 +761,68 @@
     </div>
 </div>
 <!-- Fast & Reliable Delivery -->
+ 
+<!-- GoFeast AI Section Start -->
+<div class="our-testimonials">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="testimonials-box">
+
+                    <!-- Testimonial Slider Start -->
+                    <div class="testimonial-slider">
+                        <div class="swiper" style="padding: 20px 20px;">
+                            <div class="swiper-wrapper">
+                                <!-- Testimonial Slide Start -->
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-content">
+                                            <img src="{{asset('assets/new/images/feastron.png')}}" class="rounded" alt="">
+                                        </div>                                        
+                                    </div>
+                                </div>
+                                <!-- Testimonial Slide End -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slider End -->              
+                    <!-- Testimonials Content Start -->
+                    <div class="testimonials-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">Feastron AI</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Powered by  <span>Feastron AI</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Feastron makes ordering food simpler, faster, and more personalized for you, so you can quickly find what you want, make better decisions, and enjoy a seamless experience from search to checkout.
+                            </p>
+                        </div>
+                        <div class="feastron-section-title">
+                            <ul>
+                                <li>
+                                    Smart food search based on your diet goals
+                                </li>
+                                <li>
+                                    Track calories before you order
+                                </li>
+                                <li>
+                                    Check detailed ingredients instantly
+                                </li>
+                                <li>
+                                    Find recipes and let Feastron handle your groceries accordingly
+                                </li>
+                                <li>
+                                    Can't make up your mind let Feastron help you with your order
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Section Title End -->
+                    </div>
+                    <!-- Testimonials Content End -->          
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- GoFeast AI Section End -->
 
 <!-- Buy GoFeast Token Start -->
 <div class="what-we-do">
@@ -782,7 +851,7 @@
                     <!-- Section Title -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">GoFeast Token</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Real utility & <span>poweful tokenomics</span></h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Real utility & powerful<span> tokenomics</span></h2>
                     </div>
                     <!-- Vertical Accordion -->
                     <div class="faq-accordion" id="accordion">
@@ -815,9 +884,9 @@
                             <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>4% revenue in 2022 & 5% in 2023 burnt quarterly</li>
-                                        <li>Additional 3% burnt if revenue hits $3 Million</li>
-                                        <li>Additional 3% burnt for every crypto order</li>
+                                        <li>Tokens equivalent to 1% of monthly revenue will be permanently burned</li>
+                                        <li>Extra 1% burned for every order placed using GoFeast tokens</li>
+                                        <li>Additional tokens purchased from exchanges for burning if needed</li>
                                     </ul>
                                 </div>
                             </div>
@@ -833,10 +902,10 @@
                             <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Business operational since 2019</li>
-                                        <li>2000+ stores onboarded</li>
-                                        <li>13k+ orders successfully processed</li>
-                                        <li>Pioneers in the  market domain</li>
+                                        <li>Pay with GoFeast tokens to receive free delivery, exclusive discounts, and 1% cashback on every order</li>
+                                        <li>Both referrer and referee receive GoFeast tokens as part of our growth incentive program</li>
+                                        <li>Drivers choosing GoFeast payments, will receive priority order assignments</li>
+                                        <li>Vendors accepting GoFeast, enjoy lower commission rates</li>
                                     </ul>
                                 </div>
                             </div>
@@ -852,7 +921,7 @@
                             <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Digitalising the $1.8 trillion global  market</li>
+                                        <li>Digitalising the food, grocery and meat market</li>
                                         <li>Providing transparency & traceability using blockchain</li>
                                         <li>Empowering stores at minimal operational cost</li>
                                     </ul>
@@ -893,68 +962,6 @@
     </div>
 </div>
 <!-- Buy GoFeast Token End -->
- 
-<!-- GoFeast AI Section Start -->
-<div class="our-testimonials">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="testimonials-box">
-
-                    <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider">
-                        <div class="swiper" style="padding: 20px 20px;">
-                            <div class="swiper-wrapper">
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-content">
-                                            <img src="{{asset('assets/new/images/feastron.png')}}" class="rounded" alt="">
-                                        </div>                                        
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider End -->              
-                    <!-- Testimonials Content Start -->
-                    <div class="testimonials-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <!-- <h3 class="wow fadeInUp">Feastron AI</h3> -->
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Powered by  <span>Feastron AI</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Feastron makes ordering food simpler, faster, and more personalized for you, so you can quickly find what you want, make better decisions, and enjoy a seamless experience from search to checkout.
-                            </p>
-                        </div>
-                        <div class="feastron-section-title">
-                            <ul>
-                                <li>
-                                    Smart food search based on your diet goals
-                                </li>
-                                <li>
-                                    Track calories before you order
-                                </li>
-                                <li>
-                                    Check detailed ingredients instantly
-                                </li>
-                                <li>
-                                    Find recipes and let Feastron handle your groceries accordingly
-                                </li>
-                                <li>
-                                    Can't make up your mind let Feastron help you with your order
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Section Title End -->
-                    </div>
-                    <!-- Testimonials Content End -->          
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- GoFeast AI Section End -->
 
  <!-- Customer Support Section Start -->
 <div class="our-testimonials">
@@ -966,7 +973,7 @@
                     <div class="testimonials-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <!-- <h3 class="wow fadeInUp">Feastron AI</h3> -->
+                            <h3 class="wow fadeInUp">Customer Support</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Customer Support <br> <span>That Cares</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">We’re here to help you anytime. Our dedicated support team ensures quick responses, reliable solutions, and a smooth experience for every user.
                                 <br>
@@ -990,7 +997,7 @@
                     <!-- Testimonials Content End --> 
 
                     <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider">
+                    <div class="testimonial-slider csr-testimonial-slider">
                         <div class="swiper" style="padding: 20px 20px;">
                             <div class="swiper-wrapper">
                                 <!-- Testimonial Slide Start -->
