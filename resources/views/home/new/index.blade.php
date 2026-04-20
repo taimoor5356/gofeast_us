@@ -89,6 +89,18 @@
             .feastron-ai {
                 margin-top: 50px !important;
             }
+
+            .section-title {
+                text-align: -webkit-center !important;
+            }
+            .section-title h1 {
+                font-size: 2.8rem;   /* large but fits mobile */
+            }
+
+            .section-title p {
+                font-size: 0.8rem;   /* smaller paragraph */
+                max-width: 250px;
+            }
         }
 
     </style>
@@ -103,7 +115,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h1 class="wow fadeInUp" data-cursor="-opaque"><b style="font-weight: 900;">Innovating</b> <br><b style="font-weight: 500;">Food Delivery</b></h1>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, with real social impact.</p>
+                        <p class="wow fadeInUp first-heading-paragraph" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, with real social impact.</p>
                     </div>
                     <!-- Section Title End -->
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
