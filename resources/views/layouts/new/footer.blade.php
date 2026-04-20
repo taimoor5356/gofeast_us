@@ -1,5 +1,11 @@
 @section('styles')
-
+<style>
+        @media (max-width: 768px) {
+            .app-logo {
+                max-width: 80% !important;
+            }
+        }
+</style>
 @endsection
 <!-- Footer Start -->
 <footer class="main-footer">
@@ -15,7 +21,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
@@ -30,7 +36,7 @@
                     <!-- Footer Links End -->
                 </div>  
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
@@ -43,7 +49,7 @@
                     <!-- Footer Links End -->
                 </div>  
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-12 col-sm-12 col-12">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
@@ -55,7 +61,7 @@
                     <!-- Footer Links End -->
                 </div>  
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-md-12 col-sm-6 col-xs-6">
                 <div class="footer-contact-box">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
@@ -77,7 +83,7 @@
                 </div>  
             </div>
 
-            <div class="col-lg-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <!-- Footer Copyright Text Start -->
                 <div class="footer-copyright-text ">
                     <!-- <p class="mb-2">US 22 West - Suite 200, Bridgetwater, NJ, 08502 USA</p> -->

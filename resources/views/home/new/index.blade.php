@@ -83,6 +83,14 @@
         .csr-testimonial-slider::before {
             content: none !important;
         }
+
+
+        @media (max-width: 768px) {
+            .feastron-ai {
+                margin-top: 50px !important;
+            }
+        }
+
     </style>
 @endsection
 <!-- Hero Section Start -->
@@ -790,7 +798,7 @@
                     <div class="testimonials-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">Feastron AI</h3>
+                            <h3 class="wow fadeInUp feastron-ai">Feastron AI</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Powered by  <span>Feastron AI</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">Feastron makes ordering food simpler, faster, and more personalized for you, so you can quickly find what you want, make better decisions, and enjoy a seamless experience from search to checkout.
                             </p>
