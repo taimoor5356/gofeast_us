@@ -1206,7 +1206,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 mb-5">
                     <div class="page-faqs-catagery">
                         <div class="page-single-faqs page-faq-accordion" id="faq_1">
                             <div class="section-title">
@@ -1303,7 +1303,7 @@
                 </div>
 
 
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 mb-5">
                     <div class="page-faqs-catagery">
                         <div class="page-single-faqs page-faq-accordion" id="faq_1">
                             <div class="section-title">

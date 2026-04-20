@@ -35,6 +35,13 @@
         .contactus-section-row {
             margin-bottom: 0px !important;
         }
+
+        @media (min-width: 992px) {
+            .testimonials-counter-item > div {
+                width: auto !important;
+            }
+        }
+
     </style>
 @endsection
 @section('meta_tags')
@@ -220,20 +227,37 @@
                         <!-- Testimonials Body Start -->
                         <div class="testimonials-body">
                             <!-- Testimonials Counter Item Start -->
-                            <div class="testimonials-counter-item d-flex gap-5">
-                                <div>
-                                    <p>Phone:</p>
-                                    <h6><a href="tel:+19085740454" class="text-white"><img src="{{asset('assets/new/images/usflag.png')}}" height="20px" width="30px" alt=""> +1908-574-0454</a></h6>
-                                    <h6 class="mt-3"><a href="tel:+923377777761" class="text-white"><img src="{{asset('assets/new/images/pkflag.png')}}" height="20px" width="30px" alt=""> +92 337-7777-761</a></h6>
-                                </div>
-                                <div>
-                                    <p>Email:</p>
-                                    <h6><a href="mailto:info@gofeast.com" class="text-white">
-                                        <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="23px" alt="">
-                                        info@gofeast.com
-                                    </a></h6>
-                                </div>
-                            </div>
+                            <div class="testimonials-counter-item d-flex flex-wrap gap-5">
+    
+    <!-- Phone Column -->
+    <div class="w-100 w-lg-auto">
+        <p>Phone:</p>
+        <h6>
+            <a href="tel:+19085740454" class="text-white">
+                <img src="{{asset('assets/new/images/usflag.png')}}" height="20px" width="30px" alt=""> 
+                +1908-574-0454
+            </a>
+        </h6>
+        <h6 class="mt-3">
+            <a href="tel:+923377777761" class="text-white">
+                <img src="{{asset('assets/new/images/pkflag.png')}}" height="20px" width="30px" alt=""> 
+                +92 337-7777-761
+            </a>
+        </h6>
+    </div>
+
+    <!-- Email Column -->
+    <div class="w-100 w-lg-auto">
+        <p>Email:</p>
+        <h6>
+            <a href="mailto:info@gofeast.com" class="text-white">
+                <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="23px" alt="">
+                info@gofeast.com
+            </a>
+        </h6>
+    </div>
+
+</div>
                             <!-- Testimonials Counter Item End -->
                         </div>
                         <!-- Testimonials Body End -->
