@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-12 col-sm-12 col-12">
-                <div class="footer-contact-box">
+                <div class="footer-contact-box mb-4">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Pages</h3>
@@ -37,7 +37,7 @@
                 </div>  
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12 col-12">
-                <div class="footer-contact-box">
+                <div class="footer-contact-box mb-4">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Get in touch</h3>
@@ -50,7 +50,7 @@
                 </div>  
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12 col-12">
-                <div class="footer-contact-box">
+                <div class="footer-contact-box mb-4">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Legal</h3>
@@ -62,7 +62,7 @@
                 </div>  
             </div>
             <div class="col-lg-3 col-md-12 col-sm-6 col-xs-6">
-                <div class="footer-contact-box">
+                <div class="footer-contact-box mb-4">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h6>Download App</h6>   
