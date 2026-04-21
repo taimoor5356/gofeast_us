@@ -2,7 +2,7 @@
 @section('styles')
     <style>
         .first-section {
-            padding: 220px 0px 100px 0px;
+            padding: 200px 0px 100px 0px;
         }
         .third-section {
             padding: 120px 0px 0px 0px;
@@ -24,6 +24,54 @@
         }
         .service-impact-item .icon-box img {
             max-width: 60px !important;
+        }
+
+
+            .our-mission {
+                padding: 0px 0px 0px 50px;                    /* no padding on small screens */
+            }
+
+            .our-vision {
+                padding: 0px 50px 00px 0px;                    /* no padding on small screens */
+            }
+
+            .our-technology {
+                padding: 0px 0px 0px 50px;                    /* no padding on small screens */
+            }
+        @media (max-width: 768px) {
+            .first-section {
+                position: relative;
+                /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
+                background-position: top center;
+                background-size: cover;        /* 'cover' fills full width/height on small screens */
+                background-size: auto;
+                padding: 120px 0px 100px 0px;                    /* no padding on small screens */
+                width: 100%;
+                z-index: 1;
+            }
+
+            .second-section {
+                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+            }
+            .third-section {
+                padding-top: 100px !important;
+            }
+            .last-section {
+                padding-top: 50px !important;
+            }
+
+            .our-mission {
+                padding: 0px 0px 50px 0px;                    /* no padding on small screens */
+            }
+
+            .our-vision {
+                padding: 0px 0px 50px 0px;                    /* no padding on small screens */
+            }
+
+            .our-technology {
+                padding: 0px 0px 50px 0px;                    /* no padding on small screens */
+            }
+            
         }
     </style>
 @endsection
@@ -103,7 +151,7 @@
             <div class="row">
                 <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                    <figure class="rounded" style="padding-left: 90px">
+                    <figure class="rounded our-mission">
                         <img src="{{asset('assets/new/images/mission.png')}}" alt="">
                     </figure>
                   </div>
@@ -145,7 +193,7 @@
                 </div>
                 <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                      <figure class="rounded" style="padding-left: 90px">
+                      <figure class="rounded our-vision">
                         <img src="{{asset('assets/new/images/vision.png')}}" alt="">
                     </figure>
                   </div>
@@ -161,7 +209,7 @@
             <div class="row">
                 <div class="col-lg-6">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                      <figure class="rounded" style="padding-left: 90px">
+                      <figure class="rounded our-technology">
                         <img src="{{asset('assets/new/images/business.png')}}" alt="">
                     </figure>
                   </div>

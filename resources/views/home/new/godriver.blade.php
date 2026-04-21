@@ -24,20 +24,36 @@
         .service-impact-list{
             padding: 20px;
         }
-        
+        /* -- small screen size: first section image will have no padding and full height and width -- */
         @media (max-width: 768px) {
-            .first-section {
+            .main-banner {
                 position: relative;
                 /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 220px 0px 0px 0px;                    /* no padding on small screens */
+                padding: 200px 0px 100px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }
-            .how-it-work {
+
+            .why-gofeast {
+                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+            }
+            .onboarding-process {
                 padding-top: 100px !important;
+            }
+            .onboardingprocess {
+                margin-top: 50px !important;
+            }
+            .how-gofeast-work {
+                padding-top: 100px !important;
+            }
+            .get-in-touch{
+                padding-top: 100px !important;
+            }
+            .page-faqs{
+                padding: 100px 0px !important;
             }
         }
     </style>
@@ -84,7 +100,7 @@
 @endsection
 @section('content')
     <!-- How It Work Section Start -->
-    <div class="first-section">
+    <div class="main-banner">
         <div class="container">
             <div class="row">
             </div>
@@ -182,7 +198,7 @@
     <!-- How It Work Section End -->
 
     <!-- Our Solution Section Start -->
-    <div class="whybecome-section">
+    <div class="why-gofeast">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -240,7 +256,7 @@
     <!-- Our Solution Section End -->
 
    <!-- Page Contact Us Start -->
-    <div class="page-contact-us py-4">
+    <div class="get-in-touch">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">

@@ -1,7 +1,7 @@
 @extends('layouts.new.app')
 @section('styles')
     <style>
-        .first-section{
+        .main-banner{
             position: relative; 
             /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
             background-position: top center;
@@ -9,11 +9,17 @@
             padding: 100px 80px;
             z-index: 1;
         }
-        .our-approach{
-            padding: 100px 0px;
+        .get-in-touch {
+            padding: 100px 0px 0px 0px !important;
+        }
+        .onboarding-process {
+            padding: 100px 0px 0px 0px !important;
+        }
+        .how-gofeast-work{
+            padding: 100px 0px 0px 0px !important;
         }
         .page-faqs{
-            padding: 100px 0px;
+            padding: 100px 0px 0px 0px !important;
         }
         .approach-image img{
             aspect-ratio: 1/0 !important;
@@ -34,18 +40,34 @@
 
         /* -- small screen size: first section image will have no padding and full height and width -- */
         @media (max-width: 768px) {
-            .first-section {
+            .main-banner {
                 position: relative;
                 /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 0;                    /* no padding on small screens */
+                padding: 0px 0px 100px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }
-            .how-it-work {
+
+            .why-gofeast {
+                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+            }
+            .onboarding-process {
                 padding-top: 100px !important;
+            }
+            .onboardingprocess {
+                margin-top: 50px !important;
+            }
+            .how-gofeast-work {
+                padding-top: 100px !important;
+            }
+            .get-in-touch{
+                padding-top: 100px !important;
+            }
+            .page-faqs{
+                padding: 100px 0px !important;
             }
         }
     </style>
@@ -93,7 +115,7 @@
 @section('content')
 
     <!-- Our Approach Section Start -->
-    <div class="first-section mb-5">
+    <div class="main-banner">
         <div class="container" style="padding-top: 100px;">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -146,7 +168,7 @@
     <!-- Our Approach Section End -->
 
     <!-- Our Solution Section Start -->
-    <div class="second-section">
+    <div class="why-gofeast">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
@@ -244,7 +266,7 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Approach Section Start -->
-    <div class="our-approach mb-5">
+    <div class="how-gofeast-work">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -327,7 +349,7 @@
      
 
     <!-- How It Work Section Start -->
-    <div class="how-it-work">
+    <div class="onboarding-process">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -355,7 +377,7 @@
                     </div>    
                     <!-- How Work Video Content End -->                
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 onboardingprocess">
                     <!-- How Work Content Start -->
                     <div class="how-work-content">
                         <!-- Section Title Start -->
@@ -445,7 +467,7 @@
     <!-- How It Work Section End -->
 
    <!-- Page Contact Us Start -->
-   <div class="page-contact-us py-4">
+   <div class="get-in-touch">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
