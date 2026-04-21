@@ -6,7 +6,7 @@
             /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
             background-position: top center;
             background-size: auto;
-            padding: 100px 80px;
+            padding: 115px 80px;
             z-index: 1;
         }
         .get-in-touch {
@@ -19,7 +19,7 @@
             padding: 100px 0px 0px 0px !important;
         }
         .page-faqs{
-            padding: 100px 0px 0px 0px !important;
+            padding: 100px 0px 50px 0px !important;
         }
         .approach-image img{
             aspect-ratio: 1/0 !important;
@@ -46,13 +46,13 @@
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 0px 0px 100px 0px;                    /* no padding on small screens */
+                padding: 25px 0px 100px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }
 
             .why-gofeast {
-                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+                padding: 0px 0px 0px 0px;                    /* no padding on small screens */
             }
             .onboarding-process {
                 padding-top: 100px !important;

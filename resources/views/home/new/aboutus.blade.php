@@ -8,7 +8,7 @@
             padding: 120px 0px 0px 0px;
         }
         .last-section {
-            padding: 120px 0px 180px 0px;
+            padding: 120px 0px 0px 0px;
         }
         .gomttoken-section {
             padding: 80px 0px 0px 0px;
@@ -45,19 +45,19 @@
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 120px 0px 100px 0px;                    /* no padding on small screens */
+                padding: 125px 0px 40px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }
 
             .second-section {
-                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+                padding: 0px 0px 40px 0px;                    /* no padding on small screens */
             }
             .third-section {
-                padding-top: 100px !important;
+                padding-top: 0px !important;
             }
             .last-section {
-                padding-top: 50px !important;
+                padding-top: 0px !important;
             }
 
             .our-mission {
@@ -119,8 +119,8 @@
     <!-- Our Solution Section Start -->
     <div class="first-section">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-2 order-lg-1">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -134,7 +134,7 @@
                     <!-- Our Solution Content ENd -->
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-lg-6 order-1 order-lg-2 mb-5">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
                       <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/gomt-proposition.jpg" alt=""></figure>
@@ -148,15 +148,15 @@
     <!-- Our Solution Section Start -->
     <div class="second-section">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-1 order-lg-1">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <figure class="rounded our-mission">
                         <img src="{{asset('assets/new/images/mission.png')}}" alt="">
                     </figure>
                   </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-2 order-lg-2">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -177,8 +177,8 @@
     <!-- Our Solution Section Start -->
     <div class="third-section">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-2 order-lg-1">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
@@ -191,7 +191,7 @@
                     </div>
                     <!-- Our Solution Content ENd -->
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-1 order-lg-2">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                       <figure class="rounded our-vision">
                         <img src="{{asset('assets/new/images/vision.png')}}" alt="">
@@ -206,15 +206,15 @@
     <!-- Our Solution Section Start -->
     <div class="last-section">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-1 order-lg-1">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                       <figure class="rounded our-technology">
                         <img src="{{asset('assets/new/images/business.png')}}" alt="">
                     </figure>
                   </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-2 order-lg-2">
                     <!-- Our Solution Content Start -->
                     <div class="our-solution-content">
                         <!-- Section Title Start -->

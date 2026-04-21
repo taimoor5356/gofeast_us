@@ -115,7 +115,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h1 class="wow fadeInUp" data-cursor="-opaque"><b style="font-weight: 900;">Innovating</b> <br><b style="font-weight: 500;">Food Delivery</b></h1>
-                        <p class="wow fadeInUp first-heading-paragraph" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, with real social impact.</p>
+                        <p class="wow fadeInUp first-heading-paragraph" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, <br>with real social impact.</p>
                     </div>
                     <!-- Section Title End -->
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
@@ -1004,7 +1004,7 @@
                         <!-- Section Title End -->
                         
                         <!-- Testimonials Body Start -->
-                        <div class="testimonials-body">
+                        <div class="testimonials-body d-flex d-md-block text-center">
                             <!-- Testimonials Counter Item Start -->
                             <div class="testimonials-counter-item">
                                 <h2><span>24/7</span></h2>
@@ -1056,7 +1056,7 @@
         <div class="row align-items-center">
             <div class="col-lg-12">
                 <div class="swiper blogSwiper">
-                    <div class="swiper-wrapper">\
+                    <div class="swiper-wrapper">
 
                         <div class="swiper-slide">
                             <div class="post-item" style="background: none; border: none; ">
@@ -1228,7 +1228,7 @@
 
         breakpoints: {
             0: {
-                slidesPerView: 2
+                slidesPerView: 1
             },
             768: {
                 slidesPerView: 3

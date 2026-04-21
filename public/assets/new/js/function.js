@@ -44,7 +44,7 @@
 	/* Hero Company Slider JS */
 	if ($('.hero-company-slider').length) {
 		const hero_company_slider = new Swiper('.hero-company-slider .swiper', {
-			slidesPerView : 3,
+			slidesPerView : 4,
 			speed: 2000,
 			spaceBetween: 10,
 			loop: true,

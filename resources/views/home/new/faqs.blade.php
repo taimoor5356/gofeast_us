@@ -4,12 +4,12 @@
 @endsection
 @section('styles')
     <style>
-        .page-blog{
+        .first-section{
             position: relative; 
             background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat;
             background-position: top center;
             background-size: auto;
-            padding: 220px 0 80px;
+            padding: 215px 0px 80px 0px;
             z-index: 1;
         }
         /* .page-blog {
@@ -20,6 +20,18 @@
         }
         .our-solution-content {
             margin-left: 15px !important;
+        }
+        @media (max-width: 768px) {
+            .first-section {
+                position: relative;
+                /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
+                background-position: top center;
+                background-size: cover;        /* 'cover' fills full width/height on small screens */
+                background-size: auto;
+                padding: 125px 0px 0px 0px;                    /* no padding on small screens */
+                width: 100%;
+                z-index: 1;
+            }
         }
     </style>
 @endsection
@@ -1186,7 +1198,7 @@
 
 
     <!-- Page Blog Section Start -->
-    <div class="page-blog">
+    <div class="first-section">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">

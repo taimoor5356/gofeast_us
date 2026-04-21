@@ -6,7 +6,7 @@
             background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat;
             background-position: top center;
             background-size: auto;
-            padding: 150px 80px;
+            padding: 215px 80px;
             z-index: 1;
         }
         .approach-item .icon-box img{
@@ -23,7 +23,7 @@
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 220px 0px 0px 0px;                    /* no padding on small screens */
+                padding: 125px 0px 0px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }

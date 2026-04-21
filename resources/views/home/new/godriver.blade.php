@@ -24,6 +24,19 @@
         .service-impact-list{
             padding: 20px;
         }
+        .main-banner {
+            position: relative;
+            /* background: url('{{asset('assets/new/images/short-header.png')}}') no-repeat; */
+            background-position: top center;
+            background-size: cover;        /* 'cover' fills full width/height on small screens */
+            background-size: auto;
+            padding: 220px 0px 0px 0px;                    /* no padding on small screens */
+            width: 100%;
+            z-index: 1;
+        }
+        .get-in-touch{
+            padding-bottom: 50px !important;
+        }
         /* -- small screen size: first section image will have no padding and full height and width -- */
         @media (max-width: 768px) {
             .main-banner {
@@ -32,13 +45,13 @@
                 background-position: top center;
                 background-size: cover;        /* 'cover' fills full width/height on small screens */
                 background-size: auto;
-                padding: 200px 0px 100px 0px;                    /* no padding on small screens */
+                padding: 125px 0px 0px 0px;                    /* no padding on small screens */
                 width: 100%;
                 z-index: 1;
             }
 
             .why-gofeast {
-                padding: 100px 0px 0px 0px;                    /* no padding on small screens */
+                padding: 10px 0px 0px 0px;                    /* no padding on small screens */
             }
             .onboarding-process {
                 padding-top: 100px !important;
