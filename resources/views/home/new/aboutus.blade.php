@@ -32,7 +32,7 @@
             }
 
             .our-vision {
-                padding: 0px 50px 00px 0px;                    /* no padding on small screens */
+                padding: 0px 0px 0px 70px;                    /* no padding on small screens */
             }
 
             .our-technology {
@@ -192,8 +192,8 @@
                     <!-- Our Solution Content ENd -->
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2">
-                  <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                      <figure class="rounded our-vision">
+                  <div class="position-relative our-vision" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
+                      <figure class="rounded">
                         <img src="{{asset('assets/new/images/vision.png')}}" alt="">
                     </figure>
                   </div>
