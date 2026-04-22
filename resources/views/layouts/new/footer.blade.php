@@ -1,18 +1,4 @@
-@section('styles')
-<style>
-.footer-links img.app-logo {
-    width: auto !important;
-    max-width: 140px !important;
-    flex: 0 0 auto; /* prevent flex stretching */
-}
 
-@media (max-width: 768px) {
-    .footer-links img.app-logo {
-        max-width: 100px !important;
-    }
-}
-</style>
-@endsection
 <!-- Footer Start -->
 <footer class="main-footer">
     <div class="container">
@@ -76,10 +62,10 @@
                             <ul class="list-unstyled text-reset mb-0">
                                 <li class="d-flex align-items-center" style="gap:0px;">
                                     <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">
-                                        <img class="app-logo w-75 w-md-100" src="https://gofeast.us/public/assets/img/photos/appstore-white.png">
+                                        <img class="app-logo" id="app-logo-1" src="https://gofeast.us/public/assets/img/photos/appstore-white.png">
                                     </a>
                                     <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">
-                                        <img class="app-logo w-75 w-md-100" src="https://gofeast.us/public/assets/img/photos/playstore-white.png">
+                                        <img class="app-logo" id="app-logo-2" src="https://gofeast.us/public/assets/img/photos/playstore-white.png">
                                     </a>
                                 </li>
                             </ul>

@@ -33,6 +33,19 @@
 	<!-- Main Custom Css -->
 	<link href="{{ asset('assets/new/css/custom.css') }}" rel="stylesheet" media="screen">
     @yield('styles')
+    <style>
+#app-logo-1,
+#app-logo-2 {
+    width: 75% !important; /* mobile first */
+}
+
+@media (min-width: 768px) {
+    #app-logo-1,
+    #app-logo-2 {
+        width: 100% !important;
+    }
+}
+    </style>
 </head>
 <body>
 
