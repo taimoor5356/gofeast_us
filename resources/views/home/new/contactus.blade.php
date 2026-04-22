@@ -162,10 +162,10 @@
                         <!-- Testimonials Body Start -->
                         <div class="testimonials-body">
                             <!-- Testimonials Counter Item Start -->
-                            <div class="testimonials-counter-item w-75 d-flex flex-wrap gap-3 justify-content-between">
+                            <div class="testimonials-counter-item w-75 d-flex flex-wrap gap-5 justify-content-between">
                                 <!-- Phone Column -->
                                 <div class="w-100 w-lg-auto">
-                                    <p>Phone:</p>
+                                    <p style="margin-bottom: 10px;">Phone:</p>
                                     <h6>
                                         <a href="tel:+19085740454" class="text-white">
                                             <img src="{{asset('assets/new/images/usflag.png')}}" height="20px" width="30px" alt=""> 
@@ -182,7 +182,7 @@
 
                                 <!-- Email Column -->
                                 <div class="w-100 w-lg-auto">
-                                    <p>Email:</p>
+                                    <p style="margin-bottom: 10px;">Email:</p>
                                     <h6>
                                         <a href="mailto:info@gofeast.com" class="text-white">
                                             <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="23px" alt="">
