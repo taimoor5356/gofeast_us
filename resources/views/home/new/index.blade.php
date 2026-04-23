@@ -121,7 +121,7 @@
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" class="btn-default btn-highlighted">
+                            <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank" class="btn-default btn-highlighted">
                                 Play Store
                             </a>
                             <!-- <a href="#" class="btn-default">Buy Now</a> -->
@@ -130,7 +130,7 @@
                         
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="https://apps.apple.com/us/app/gofeast/id1441921154" class="btn-default">
+                            <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank" class="btn-default">
                                 App Store
                             </a>
                             <!-- <a href="#" class="btn-default">Buy Now</a> -->
