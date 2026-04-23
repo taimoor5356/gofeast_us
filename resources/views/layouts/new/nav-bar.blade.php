@@ -17,7 +17,7 @@
                             $current_page = basename($_SERVER['REQUEST_URI']);
                         ?>
                         <ul class="navbar-nav mr-auto" id="menu">
-                            <li class="nav-item"><a class="nav-link <?php echo ($current_page == '/' || $current_page == 'pak' || $current_page == '') ? 'active' : ''; ?>" href="{{route('new.home')}}">Home</a>
+                            <li class="nav-item"><a class="nav-link" href="{{route('new.home')}}">Home</a>
                             <li class="nav-item submenu"><a class="nav-link" href="#">Partner with us</a>
                                 <ul>                                        
                                     <li class="nav-item"><a class="nav-link" href="{{route('new.gopartner')}}">Go Partner</a></li>
