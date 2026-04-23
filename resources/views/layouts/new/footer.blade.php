@@ -33,7 +33,7 @@
                     <!-- Footer Links Start -->
                     <div class="footer-links">
                         <h3>Get in touch</h3>
-                        <p><a href="{{ route('new.blog') }}">Blogs</a></p>
+                        <p><a href="{{ route('new.blog') }}">Media</a></p>
                         <p><a href="{{ route('new.aboutus') }}">About Us</a></p>
                         <p><a href="{{ route('new.contactus') }}">Contact</a></p>
                         <p><a href="mailto:cs@gofeast.io">cs@gofeast.io</a></p>

@@ -184,9 +184,9 @@
                                 <div class="w-100 w-lg-auto">
                                     <p style="margin-bottom: 10px;">Email:</p>
                                     <h6>
-                                        <a href="mailto:info@gofeast.com" class="text-white">
+                                        <a href="mailto:cs@gofeast.io" class="text-white">
                                             <img src="{{asset('assets/new/images/envelope.png')}}" height="15px" width="23px" alt="">
-                                            info@gofeast.com
+                                            cs@gofeast.io
                                         </a>
                                     </h6>
                                 </div>

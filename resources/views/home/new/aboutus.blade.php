@@ -127,7 +127,7 @@
                         <div class="section-title mb-4">
                             <h3 class="wow fadeInUp">About Us</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Smarter Food, Grocery & Meat <span>Delivery</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">GoFeast is transforming the way people order food, groceries, and meat through a reliable digital marketplace. Operating in the USA and Pakistan, we connect customers with trusted restaurants, grocery stores, and meat providers — all through one seamless platform. With a strong focus on fast deliveries, excellent customer support, and everyday convenience, GoFeast ensures orders reach your doorstep quickly and efficiently. Our advanced technology, including AI and Blockchain solutions, enhances operations, transparency, and customer experience as we continue to shape the future of commerce. From your favorite meal to essential groceries, GoFeast brings quality, speed, and convenience closer to you.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">GoFeast is transforming the way people order food, groceries, and meat through a reliable Web3 - Ai driven digital market place. Operating in the USA and Pakistan, we connect customers with trusted restaurants, grocery stores, and meat providers — all through one seamless platform. With a strong focus on fast deliveries, excellent customer support, and everyday convenience, GoFeast ensures orders reach your doorstep quickly and efficiently. Our advanced technology, including AI and Blockchain solutions, enhances operations, transparency, and customer experience as we continue to shape the future of commerce. From your favorite meal to essential groceries, GoFeast brings quality, speed, and convenience closer to you.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -152,7 +152,7 @@
                 <div class="col-lg-6 order-1 order-lg-1">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                     <figure class="rounded our-mission">
-                        <img src="{{asset('assets/new/images/mission.png')}}" alt="">
+                        <img src="{{asset('assets/new/images/business.png')}}" alt="">
                     </figure>
                   </div>
                 </div>
@@ -161,9 +161,9 @@
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
-                            <h3 class="wow fadeInUp">Our Mission</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Mission!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Smart systems powered by AI and blockchain technology. We use innovation to improve delivery speed, optimize operations, enhance customer experience, and create greater transparency across the supply chain. Our technology helps us deliver smarter, faster, and more efficiently every day.</p>
+                            <h3 class="wow fadeInUp">Powerful Social Impact</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Powerful Social <span>Impact!</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Creating opportunities through an inclusive, women-led workforce. We believe in empowering talent, supporting equal opportunities, and building a stronger community through meaningful employment. By investing in people, we create positive social and economic impact that grows with every delivery.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -183,9 +183,11 @@
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
-                            <h3 class="wow fadeInUp">Our Vision</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Vision!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Simple, affordable, and transparent delivery for everyone. We aim to make ordering food, groceries, and meat easier for every household and business through a platform built on trust, convenience, and fair pricing. Our mission is to bring reliable delivery services within reach of every community.</p>
+                            
+                            <h3 class="wow fadeInUp">Our Mission</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our <span>Mission!</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Smart systems powered by AI and blockchain technology. We use innovation to improve delivery speed, optimize operations, enhance customer experience, and create greater transparency across the supply chain. Our technology helps us deliver smarter, faster, and more efficiently every day.</p>
+                            
                         </div>
                         <!-- Section Title End -->
                     </div>
@@ -194,7 +196,7 @@
                 <div class="col-lg-6 order-1 order-lg-2">
                   <div class="position-relative our-vision" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                       <figure class="rounded">
-                        <img src="{{asset('assets/new/images/vision.png')}}" alt="">
+                        <img src="{{asset('assets/new/images/mission.png')}}" alt="">
                     </figure>
                   </div>
                 </div>
@@ -204,13 +206,13 @@
     <!-- Our Solution Section End -->
 
     <!-- Our Solution Section Start -->
-    <div class="last-section">
+    <div class="last-section mb-4">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 order-1 order-lg-1">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
                       <figure class="rounded our-technology">
-                        <img src="{{asset('assets/new/images/business.png')}}" alt="">
+                        <img src="{{asset('assets/new/images/vision.png')}}" alt="">
                     </figure>
                   </div>
                 </div>
@@ -219,9 +221,9 @@
                     <div class="our-solution-content">
                         <!-- Section Title Start -->
                         <div class="section-title mb-4">
-                            <h3 class="wow fadeInUp">Our Technology</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Technology!</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Creating opportunities through an inclusive, women-led workforce. We believe in empowering talent, supporting equal opportunities, and building a stronger community through meaningful employment. By investing in people, we create positive social and economic impact that grows with every delivery.</p>
+                            <h3 class="wow fadeInUp">Our Vision</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our   <span>Vision!</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Simple, affordable, and transparent delivery for everyone. We aim to make ordering food, groceries, and meat easier for every household and business through a platform built on trust, convenience, and fair pricing. Our mission is to bring reliable delivery services within reach of every community.</p>
                         </div>
                         <!-- Section Title End -->
                     </div>

@@ -25,7 +25,7 @@
                                 </ul>
                             </li>
                             <!-- <li class="nav-item"><a class="nav-link" href="{{route('new.gomt')}}">GOMT</a></li> -->
-                            <li class="nav-item"><a class="nav-link" href="{{route('new.blog')}}">Blogs</a></li>
+                            <li class="nav-item"><a class="nav-link" href="{{route('new.blog')}}">Media</a></li>
                             <li class="nav-item submenu"><a class="nav-link" href="#">Help</a>
                                 <ul>                                        
                                     <li class="nav-item"><a class="nav-link" href="{{route('new.faqs')}}">FAQs</a></li>

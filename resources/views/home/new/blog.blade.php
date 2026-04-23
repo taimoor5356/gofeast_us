@@ -45,7 +45,7 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Blogs</h3>
+                        <h3 class="wow fadeInUp">Media</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Stay informed, inspired, and ahead with our latest <span>updates</span></h2>
                     </div>
                     <!-- Section Title End -->

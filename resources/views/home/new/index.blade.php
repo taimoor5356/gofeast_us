@@ -114,8 +114,8 @@
                 <div class="hero-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque"><b style="font-weight: 900;">Innovating</b> <br><b style="font-weight: 500;">Food Delivery</b></h1>
-                        <p class="wow fadeInUp first-heading-paragraph" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering <br> powered by AI and blockchain, with real social impact.</p>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque"><b style="font-weight: 900;">Revolutionizing</b> <br><b style="font-weight: 500;">Food Delivery Industry</b></h1>
+                        <p class="wow fadeInUp first-heading-paragraph" data-wow-delay="0.2s">Bringing convenience, transparency, and affordability to everyday food ordering powered by AI and blockchain <br>with powerful social impact.</p>
                     </div>
                     <!-- Section Title End -->
                     <div class="d-flex align-items-center gap-3 justify-content-center flex-wrap">
@@ -287,8 +287,8 @@
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="javascript:void(0);">Ordering App</a></h3>
-                        <small>Enjoy exclusive discounts and fast delivery from your favorite stores!</small>
+                        <h3><a href="javascript:void(0);">GoFeast Customer</a></h3>
+                        <small>Experience the Web3-AI driven ordering with exclusive discounts and fast delivery!</small>
                     </div>
                     <div class="project-btn">
                         <a href="javascript:void(0);">
@@ -309,8 +309,8 @@
                         </a>
                     </div>
                     <div class="project-content">
-                        <h3><a href="javascript:void(0);">GoFeast Token</a></h3>
-                        <small>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</small>
+                        <h3><a href="javascript:void(0);">GoFeast Token Holder</a></h3>
+                        <small>Utility token build upon a real life use-case with a limited supply offering robust tokenomics!</small>
                     </div>
                     <div class="project-btn">
                         <a href="javascript:void(0);">
@@ -393,7 +393,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">Ordering App</a></h3>
-                        <p>Enjoy exclusive discounts and fast delivery from your favorite  stores!</p>
+                        <p>Experience the Web3-AI driven ordering with exclusive discounts and super fast delivery from your favorite restaurants!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -416,7 +416,7 @@
                     </div>
                     <div class="project-content">
                         <h3><a href="project-single.html">GOMT Token</a></h3>
-                        <p>Utility token backed by a real use-case, with a limited supply and excellent burn economy!</p>
+                        <p>Utility token build upon a real life use-case with a limited supply offering robust tokenomics!</p>
                     </div>
                     <div class="project-btn">
                         <a href="project-single.html">
@@ -747,7 +747,7 @@
                         <p>Partners</p>
                     </div>
                     <div class="facts-item-content">
-                        <p>Shop from your favorite  stores with a wide range of products available at your fingertips.</p>
+                        <p>Order from your favorite stores & restaurants with a wide range of menu items available at your fingertips.</p>
                     </div>
                 </div>
                 <!-- Facts Item End -->
@@ -773,7 +773,7 @@
             <div class="col-lg-12">
                 <!-- Section Footer Text Start -->
                 <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
-                    <p><span>Order Now</span> Get your favorite products delivered today. <a href="https://order.gofeast.io" target="_blank">Start Shopping</a></p>
+                    <p><span>Order Now</span> Your favorite meals. <a href="https://order.gofeast.io" target="_blank">Start Ordering</a></p>
                 </div>
                 <!-- Section Footer Text End -->
             </div>
@@ -844,7 +844,7 @@
 </div>
 <!-- GoFeast AI Section End -->
 
-<!-- Buy GoFeast Token Start -->
+<!-- Buy GoFeast Token Holder Start -->
 <div class="what-we-do">
     <div class="container">
         <div class="row align-items-center">
@@ -852,7 +852,7 @@
                 <!-- What We Box Start -->
                 <div class="what-we-box">
                     <h3 class="text-effect">
-                        Buy GoFeast Token and unlock real-world utility with rewards, payments, and a powerful burn economy.
+                        GoFeast token unlock real world utility with rewards and payments with powerful tokenomics
                     </h3>
                     
                     <div class="what-we-img wow fadeInUp" data-wow-delay="0.2s">
@@ -860,7 +860,7 @@
                     </div>
                     
                     <p class="wow fadeInUp mt-2" data-wow-delay="0.4s">
-                        GoFeast Token is backed by a real ecosystem with rewards, payments, and deflationary mechanics.
+                        GoFeast Token Holder is backed by a real ecosystem with rewards, payments, and deflationary mechanics.
                     </p>
                 </div>
             </div>
@@ -870,8 +870,9 @@
 
                     <!-- Section Title -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">GoFeast Token</h3>
+                        <h3 class="wow fadeInUp">GoFeast Token Holder</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Real utility & powerful<span> tokenomics</span></h2>
+                        <p>Our native cryptocurrency token creates a comprehensive ecosystem of incentives for all platform participants.</p>
                     </div>
                     <!-- Vertical Accordion -->
                     <div class="faq-accordion" id="accordion">
@@ -880,33 +881,14 @@
                         <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                                    GoFeast Utilities
+                                    Customers
                                 </button>
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Place meat, grocery & food orders using GoFeast Token</li>
-                                        <li>Get 1% cashback and exclusive discounts</li>
-                                        <li>Earn GoFeast Token through our referral program</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Burn Mechanism -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                            <h2 class="accordion-header" id="heading2">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
-                                    Burn Mechanism
-                                </button>
-                            </h2>
-                            <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <ul>
-                                        <li>Tokens equivalent to 1% of monthly revenue will be permanently burned</li>
-                                        <li>Extra 1% burned for every order placed using GoFeast tokens</li>
-                                        <li>Additional tokens purchased from exchanges for burning if needed</li>
+                                        <li>Pay with GoFeast tokens to receive free delivery, exclusive discounts and 1% cashback on every order</li>
+                                        <li>Both referrer and referee receive GoFeast tokens as part of our growth incentive program</li>
                                     </ul>
                                 </div>
                             </div>
@@ -916,52 +898,31 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                             <h2 class="accordion-header" id="heading3">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
-                                    Real Use-case
+                                    Restaurants
                                 </button>
                             </h2>
                             <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Pay with GoFeast tokens to receive free delivery, exclusive discounts, and 1% cashback on every order</li>
-                                        <li>Both referrer and referee receive GoFeast tokens as part of our growth incentive program</li>
-                                        <li>Drivers choosing GoFeast payments, will receive priority order assignments</li>
-                                        <li>Vendors accepting GoFeast, enjoy lower commission rates</li>
+                                        <li>Stores accepting GoFeast enjoy lower commission rates</li>
+                                        <li>Bonus tokens for error-free orders and hitting monthly volume targets with 5-star ratings</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Blockchain Certifications -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                            <h2 class="accordion-header" id="heading4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
-                                    Blockchain Certifications
+                        <!-- Burn Mechanism -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                            <h2 class="accordion-header" id="heading2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
+                                    Drivers
                                 </button>
                             </h2>
-                            <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordion">
+                            <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <ul>
-                                        <li>Digitalising the food, grocery and meat market</li>
-                                        <li>Providing transparency & traceability using blockchain</li>
-                                        <li>Empowering stores at minimal operational cost</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Why Buy GOMT -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                            <h2 class="accordion-header" id="heading5">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
-                                    Why Buy GoFeast Token?
-                                </button>
-                            </h2>
-                            <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <ul>
-                                        <li>Real-world usage in food & grocery ecosystem</li>
-                                        <li>Deflationary token with strong burn mechanics</li>
-                                        <li>Growing adoption with increasing demand</li>
+                                        <li>Drivers choosing GoFeast payment receive priority order assignments</li>
+                                        <li>Bonus GoFeast tokens for completing target orders per week with 5-star ratings</li>
                                     </ul>
                                 </div>
                             </div>
@@ -981,7 +942,7 @@
         </div>
     </div>
 </div>
-<!-- Buy GoFeast Token End -->
+<!-- Buy GoFeast Token Holder End -->
 
  <!-- Customer Support Section Start -->
 <div class="our-testimonials">
@@ -995,7 +956,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Customer Support</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Customer Support <br> <span>That Cares</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We’re here to help you anytime. Our dedicated support team ensures quick responses, reliable solutions, and a smooth experience for every user.
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">We’re here to help you anytime. Our dedicated support team ensures quick responses, reliable solutions, and a smooth experience for every customer.
                                 <br>
                                 <br>
                                 Quick delivery at your door step is just a click away. Trained professional customer service representative providing you immediate response on every query.
