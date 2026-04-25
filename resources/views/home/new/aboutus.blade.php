@@ -136,8 +136,8 @@
 
                 <div class="col-lg-6 col-lg-6 order-1 order-lg-2 mb-5">
                   <div class="position-relative" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-                    <a href="https://www.youtube.com/embed/tzYQxCJew8Q" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
-                      <figure class="rounded"><img src="https://gofeast.us/public/assets/img/photos/gofeast_images/gomt-proposition.jpg" alt=""></figure>
+                    <a href="https://youtu.be/zqx4PepVcZU" class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute" style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox=""><i class="icn-caret-right"></i></a>
+                      <figure class="rounded"><img src="http://localhost/gofeast_us/public/assets/img/youtube_thumbnail.png" alt=""></figure>
                   </div>
                 </div>
             </div>
